@@ -1,0 +1,321 @@
+{
+  "_comment": "Textes d’interface en français (vouvoiement, français standard pour la France, la Belgique et la Suisse). Premier jet, non relu par un rédacteur de langue maternelle ; voir docs/research/localization-notes-fr.md.",
+  "home": "Accueil",
+  "nav_all": "Tous les outils",
+  "nav_main": "Principal",
+  "menu": "Menu",
+  "skip": "Aller au contenu",
+  "breadcrumb": "Fil d’Ariane",
+  "about": "À propos",
+  "contact": "Contact",
+  "privacy": "Confidentialité",
+  "terms": "Conditions d’utilisation",
+  "footer_tools": "Outils",
+  "footer_info": "Informations",
+  "footer_legal": "Mentions légales",
+  "tagline": "Des outils en ligne gratuits pour les tâches du quotidien, directement dans votre navigateur.",
+  "footer_asis": "Outils gratuits, fournis en l’état.",
+  "search_label": "Rechercher un outil",
+  "search_ph_short": "Rechercher un outil…",
+  "search_ph_long": "Rechercher un outil, p. ex. compresser pdf, calcul tva",
+  "open": "Ouvrir l’outil",
+  "results": "Résultats de la recherche",
+  "related": "Outils associés",
+  "browse_all": "Voir tous les outils →",
+  "browse_all_plain": "Voir tous les outils",
+  "see_all": "Voir les {n} outils correspondants →",
+  "found": "{n} outils trouvés",
+  "none_msg": "Aucun outil ne correspond actuellement à cette demande.",
+  "badge_file": "Vos fichiers restent dans votre navigateur",
+  "badge_input": "Fonctionne dans votre navigateur",
+  "needs_js": "Cet outil a besoin de JavaScript pour fonctionner dans votre navigateur.",
+  "estimate_label": "Estimation uniquement.",
+  "how": "Comment ça marche",
+  "calc_h": "Méthode de calcul",
+  "limits": "Limites",
+  "privacy_h": "Confidentialité",
+  "privacy_link": "Lire la politique de confidentialité.",
+  "good": "Bon à savoir",
+  "faq": "Questions fréquentes",
+  "tools_in": "Outils : {name}",
+  "other_cats": "Découvrir les autres catégories",
+  "all": "Tous",
+  "all_intro": "Cherchez ce que vous voulez faire, ou filtrez par catégorie.",
+  "filter_cat": "Filtrer par catégorie",
+  "recent": "Utilisés récemment",
+  "recent_note": "Mémorisé uniquement sur cet appareil.",
+  "clear": "Effacer",
+  "popular": "Outils populaires",
+  "all_title": "Tous les outils – outils en ligne gratuits | ToolsKit",
+  "all_desc": "Parcourez tous les outils ToolsKit : PDF, images, QR codes, convertisseurs, calculateurs, CV et réseaux sociaux. Gratuits, sans compte.",
+  "lib_names": {
+    "pdf-lib": "pdf-lib",
+    "pdf.js": "PDF.js",
+    "jszip": "JSZip",
+    "qrcodejs": "qrcodejs"
+  },
+  "lib_full": {
+    "pdf-lib": "pdf-lib 1.17.1 (licence MIT) : crée et modifie des fichiers PDF.",
+    "pdf.js": "PDF.js 3.11.174 (licence Apache-2.0) : affiche les pages PDF sous forme d’images.",
+    "jszip": "JSZip 3.10.1 (licence MIT ou GPL-3.0) : regroupe plusieurs images dans un fichier ZIP.",
+    "qrcodejs": "qrcodejs 1.0.0 (licence MIT) : dessine les QR codes."
+  },
+  "priv_file": "Votre fichier est traité dans votre navigateur et n’est pas envoyé à ToolsKit.",
+  "priv_file_lib": "Votre fichier est traité dans votre navigateur avec la bibliothèque open source {libs}, servie depuis le site de ToolsKit et non depuis un CDN tiers. Le fichier n’est pas envoyé à ToolsKit.",
+  "priv_input": "Tout ce que vous saisissez est traité dans votre navigateur et n’est pas envoyé à ToolsKit.",
+  "priv_input_lib": "Tout ce que vous saisissez est traité dans votre navigateur. Le QR code est dessiné avec la bibliothèque open source {libs}, servie depuis le site de ToolsKit et non depuis un CDN tiers. Votre saisie n’est pas envoyée à ToolsKit.",
+  "priv_no3p": "Cette page ne charge aucun code tiers.",
+  "pcat_file": "Les fichiers que vous ajoutez à ces outils sont traités dans votre navigateur et ne sont pas envoyés à ToolsKit.",
+  "pcat_input": "Tout ce que vous saisissez dans ces outils est traité dans votre navigateur et n’est pas envoyé à ToolsKit.",
+  "pcat_libs": "Ces outils utilisent des bibliothèques open source ({libs}) servies depuis le site de ToolsKit, et non depuis un CDN tiers.",
+  "home_title": "ToolsKit – outils en ligne gratuits : PDF, calculs, texte",
+  "home_desc": "Fusionner, compresser ou diviser un PDF, calculer pourcentages, TVA et prêts, compter les mots : outils gratuits, sans compte, dans votre navigateur.",
+  "home_tasks": [
+    [
+      "Compresser un PDF",
+      "compress-pdf"
+    ],
+    [
+      "Fusionner des PDF",
+      "merge-pdf"
+    ],
+    [
+      "JPG en PDF",
+      "images-to-pdf"
+    ],
+    [
+      "Calculer un pourcentage",
+      "percentage"
+    ],
+    [
+      "Calculer la TVA",
+      "vat"
+    ],
+    [
+      "Simuler un prêt",
+      "loan"
+    ],
+    [
+      "Compter les mots",
+      "word-counter"
+    ]
+  ],
+  "home_faq": [
+    [
+      "ToolsKit est-il gratuit ?",
+      "Oui. Tous les outils actuellement proposés sur ToolsKit sont gratuits."
+    ],
+    [
+      "Faut-il un compte ?",
+      "Non. Aucun des outils actuels ne demande de créer un compte."
+    ],
+    [
+      "Mes fichiers sont-ils envoyés quelque part ?",
+      "Non. Les fichiers que vous ajoutez à un outil sont traités dans votre navigateur et ne sont pas envoyés à ToolsKit. Les outils PDF et QR code utilisent des bibliothèques open source servies depuis le site de ToolsKit, et non depuis un CDN tiers."
+    ],
+    [
+      "À qui s’adresse ToolsKit ?",
+      "Aux étudiants, salariés, indépendants, créateurs, petites entreprises et particuliers qui ont besoin d’un utilitaire rapide dans leur navigateur : PDF, image, QR code, conversion, calcul ou CV."
+    ],
+    [
+      "Quelles opérations sur les PDF ne sont pas disponibles ?",
+      "ToolsKit peut fusionner, diviser, pivoter et compresser des PDF, et convertir entre PDF et images. Il ne convertit pas encore les PDF en Word ou en Excel, ne modifie pas le texte d’un PDF, ne le signe pas, ne le déverrouille pas, ne le protège pas par mot de passe et ne fait pas de reconnaissance de texte (OCR)."
+    ],
+    [
+      "Dans quelles langues le site est-il disponible ?",
+      "En anglais, avec une sélection d’outils de plus en plus large en allemand, français, italien, espagnol, néerlandais et polonais. Chaque langue ne présente que les outils qui y ont été traduits ; utilisez la liste des langues, dans l’en-tête ou en bas de page, pour changer."
+    ],
+    [
+      "Puis-je me fier aux calculateurs ?",
+      "Ils donnent des estimations à partir des chiffres que vous saisissez. Le calculateur de TVA ne cherche pas le taux de votre pays, et aucun calculateur ne remplace un conseil financier ou fiscal."
+    ]
+  ],
+  "operator_known": "ToolsKit est exploité par {name}.",
+  "operator_unknown": "Le nom de la personne ou de l’organisation qui exploite ToolsKit n’a pas encore été publié.",
+  "contact_known": "Vous pouvez joindre ToolsKit par e-mail à l’adresse {email}.",
+  "contact_unknown": "Aucune adresse e-mail de contact n’a encore été publiée pour ToolsKit : il n’est donc pas possible d’envoyer un message depuis cette page pour le moment. Rien sur ce site n’envoie de message à votre place.",
+  "contact_title": "Contacter ToolsKit",
+  "contact_desc": "Comment contacter ToolsKit pour une question, un bug, une idée d’outil, une demande relative aux données personnelles ou une demande professionnelle.",
+  "contact_lead": "Questions, signalements de bugs, idées d’outils et demandes relatives à la vie privée sont les bienvenus.",
+  "contact_email_btn": "Écrire un e-mail",
+  "contact_unavailable": "Le contact par e-mail n’est pas encore disponible.",
+  "contact_safe_h": "Merci de ne pas envoyer de fichiers privés",
+  "contact_safe": "Les outils ToolsKit fonctionnent dans votre navigateur : nous n’avons donc jamais besoin de vos fichiers pour analyser un problème. Pour signaler un bug, décrivez le fichier (type et taille) au lieu de le joindre, et n’indiquez jamais de mots de passe, de numéros d’identité ni de données financières.",
+  "contact_topics": {
+    "general": {
+      "title": "Questions générales",
+      "subject": "Question générale",
+      "body": "Tout ce qui concerne le fonctionnement de ToolsKit et ce qu’il peut ou ne peut pas faire."
+    },
+    "bug": {
+      "title": "Signaler un bug",
+      "subject": "Signalement de bug",
+      "body": "Quelque chose n’a pas fonctionné comme la page l’indique.",
+      "include": [
+        "Le nom de l’outil et l’adresse de la page",
+        "Votre navigateur et votre appareil (par exemple Chrome sur Android)",
+        "Ce que vous avez fait, ce que vous attendiez et ce qui s’est passé",
+        "Le type et la taille approximative du fichier, mais pas le fichier lui-même"
+      ]
+    },
+    "suggest": {
+      "title": "Suggérer un outil",
+      "subject": "Suggestion d’outil",
+      "body": "Dites-nous quelle tâche vous vouliez accomplir sans y parvenir. ToolsKit ajoute des outils réellement utiles et qui peuvent fonctionner dans le navigateur."
+    },
+    "privacy": {
+      "title": "Questions sur la vie privée",
+      "subject": "Question sur la vie privée",
+      "body": "Questions sur les pratiques de ce site en matière de confidentialité, ou demande concernant des données personnelles que vous nous avez envoyées (par exemple un e-mail précédent)."
+    },
+    "business": {
+      "title": "Partenariats et demandes professionnelles",
+      "subject": "Demande professionnelle",
+      "body": "Partenariats, presse et autres demandes professionnelles."
+    }
+  },
+  "404_title": "Page introuvable | ToolsKit",
+  "404_desc": "La page que vous cherchiez n’existe pas sur ToolsKit. Recherchez un outil ou parcourez tous les outils.",
+  "about_title": "À propos de ToolsKit – outils en ligne gratuits",
+  "about_desc": "ToolsKit réunit des outils en ligne gratuits qui fonctionnent dans votre navigateur : PDF, images, QR codes, convertisseurs, calculateurs, CV et réseaux sociaux.",
+  "privacy_title": "Politique de confidentialité | ToolsKit",
+  "privacy_desc": "Comment ToolsKit traite vos fichiers, vos saisies et vos données : traitement dans le navigateur, stockage local, code tiers, mesure d’audience, journaux et vos droits.",
+  "terms_title": "Conditions d’utilisation | ToolsKit",
+  "terms_desc": "Les conditions d’utilisation des outils en ligne gratuits de ToolsKit : usage autorisé, limites, absence de garantie, avertissements sur les calculateurs et responsabilité.",
+  "llms_summary": "ToolsKit réunit des outils en ligne gratuits qui fonctionnent dans le navigateur : outils PDF, outils d’image, générateurs de QR code, convertisseurs d’unités, calculateurs, créateur de CV et générateurs de textes pour les réseaux sociaux à partir de modèles. Aucun compte n’est nécessaire. Les fichiers et les saisies sont traités dans le navigateur et ne sont pas envoyés à ToolsKit.",
+  "llms_pages": "Pages",
+  "llms_about": "ce qu’est ToolsKit, à qui il s’adresse, comment fonctionnent les outils et leurs limites",
+  "llms_all": "liste consultable de tous les outils",
+  "llms_tools": "Outils",
+  "llms_privacy_h": "Confidentialité et traitement",
+  "llms_privacy": [
+    "Les outils fonctionnent dans le navigateur du visiteur. Les fichiers et les saisies ne sont pas envoyés à un serveur ToolsKit.",
+    "Les outils PDF et QR code utilisent des bibliothèques open source (pdf-lib, PDF.js, JSZip, qrcodejs) servies depuis le site de ToolsKit, et non depuis un CDN tiers.",
+    "ToolsKit ne conserve que la liste des noms des outils récemment ouverts (et un brouillon de CV si le visiteur choisit Enregistrer le brouillon) dans le navigateur du visiteur. Il ne dépose aucun cookie et n’utilise actuellement ni mesure d’audience ni publicité."
+  ],
+  "llms_audience_h": "À qui il s’adresse",
+  "llms_audience": "Étudiants, salariés, indépendants, créateurs, petites entreprises et particuliers qui ont besoin d’un utilitaire rapide dans le navigateur.",
+  "llms_not_h": "Ce que ToolsKit ne fait pas",
+  "llms_not": [
+    "Pas de conversion de PDF en Word ou en Excel, pas de modification du texte d’un PDF, de signature, de suppression de mot de passe ni d’OCR.",
+    "Les calculateurs ne donnent que des estimations ; le calculateur de TVA utilise le taux saisi par le visiteur et ne recherche pas les taux des pays. Rien n’est un conseil fiscal ou financier.",
+    "Les générateurs pour les réseaux sociaux utilisent des modèles fixes, pas d’IA.",
+    "Disponible en anglais, ainsi que dans une sélection croissante de pages d’outils traduites (voir la liste des langues)."
+  ],
+  "or": "ou",
+  "reset": "Réinitialiser",
+  "next": "Suite :",
+  "months": [
+    "janvier",
+    "février",
+    "mars",
+    "avril",
+    "mai",
+    "juin",
+    "juillet",
+    "août",
+    "septembre",
+    "octobre",
+    "novembre",
+    "décembre"
+  ],
+  "lang_label": "Langue",
+  "lang_note": "Chaque langue présente les outils qui y ont été traduits. Votre choix est mémorisé uniquement sur cet appareil et ne modifie jamais la page de lui-même.",
+  "slugs": {
+    "tools": "outils",
+    "about": "a-propos.html",
+    "contact": "contact.html",
+    "privacy": "confidentialite.html",
+    "terms": "conditions-utilisation.html"
+  },
+  "search_words": {
+    "stop": [
+      "le",
+      "la",
+      "les",
+      "l",
+      "un",
+      "une",
+      "des",
+      "du",
+      "de",
+      "d",
+      "et",
+      "ou",
+      "pour",
+      "mon",
+      "ma",
+      "mes",
+      "comment",
+      "je",
+      "puis",
+      "peux",
+      "veux",
+      "voudrais",
+      "besoin",
+      "gratuit",
+      "gratuite",
+      "gratuits",
+      "gratuitement",
+      "ligne",
+      "online",
+      "outil",
+      "outils",
+      "svp",
+      "merci",
+      "avec",
+      "sur",
+      "dans",
+      "où",
+      "existe",
+      "il",
+      "y",
+      "a",
+      "utiliser",
+      "ce",
+      "cette"
+    ],
+    "conn": [
+      "en",
+      "vers",
+      "à",
+      "au",
+      "aux",
+      "2"
+    ],
+    "filler": [
+      "convertir",
+      "conversion",
+      "transformer",
+      "fichier",
+      "fichiers",
+      "document",
+      "documents",
+      "changer",
+      "modifier",
+      "créer",
+      "creer",
+      "faire",
+      "enregistrer",
+      "sauvegarder",
+      "exporter"
+    ]
+  },
+  "no_tool_for": "Aucun outil « {label} » n’est actuellement disponible sur ToolsKit.",
+  "no_tool_generic": "Aucun outil ne correspond actuellement à cette demande.",
+  "no_in_cat": "Aucun outil de cette catégorie ne correspond à cette demande.",
+  "n_tools_one": "{n} outil",
+  "n_tools_other": "{n} outils",
+  "none_tools": "Aucun outil trouvé",
+  "n_related": "{n} outils associés listés.",
+  "enter_number": "Saisissez un nombre.",
+  "min_msg": "Saisissez un nombre supérieur ou égal à {min}.",
+  "max_msg": "Saisissez un nombre inférieur ou égal à {max}.",
+  "copied": "Copié ✓",
+  "copied_sr": "Copié dans le presse-papiers",
+  "copy_fail": "Impossible de copier. Sélectionnez le texte et copiez-le manuellement.",
+  "qr_ok": "QR code généré. Utilisez le bouton Télécharger en PNG.",
+  "qr_lowcontrast": "Contraste faible, ou code clair sur fond sombre : ce QR code risque de ne pas être lu. Utilisez un code foncé sur un fond clair.",
+  "img_type": "Choisissez un fichier image (JPG, PNG ou WebP).",
+  "img_open": "Cette image n’a pas pu être ouverte. Essayez un fichier JPG, PNG ou WebP."
+}

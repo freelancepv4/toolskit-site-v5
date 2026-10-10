@@ -1,0 +1,23 @@
+{
+  "a_title": "Combien font x % de y ?",
+  "a_pct": "Pourcentage (%)",
+  "a_of": "De ce nombre",
+  "a_res": "{p} % de {y} = {r}",
+  "b_title": "x représente quel pourcentage de y ?",
+  "b_part": "Partie (x)",
+  "b_whole": "Total (y)",
+  "b_res": "{x} représente {r} % de {y}",
+  "c_title": "Évolution en pourcentage (hausse ou baisse)",
+  "c_from": "De (valeur de départ)",
+  "c_to": "À (valeur d’arrivée)",
+  "c_up": "Hausse de {r} % (de {f} à {t}, soit un écart de {d})",
+  "c_down": "Baisse de {r} % (de {f} à {t}, soit un écart de {d})",
+  "c_same": "Aucun changement : les deux valeurs sont égales à {f}.",
+  "d_title": "Prix après une remise",
+  "d_price": "Prix de départ",
+  "d_pct": "Remise (%)",
+  "d_res": "Prix final : {fin} | Économie : {save}",
+  "err_numbers": "Saisissez des nombres valides.",
+  "err_zero_whole": "Le total (y) ne peut pas être 0.",
+  "err_zero_from": "La valeur de départ ne peut pas être 0 : une évolution en pourcentage à partir de 0 n’est pas définie."
+}

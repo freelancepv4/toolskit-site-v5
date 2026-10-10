@@ -1,0 +1,23 @@
+{
+  "a_title": "Wie viel sind x % von y?",
+  "a_pct": "Prozentsatz (%)",
+  "a_of": "Von dieser Zahl",
+  "a_res": "{p} % von {y} sind {r}",
+  "b_title": "Wie viel Prozent sind x von y?",
+  "b_part": "Teilwert (x)",
+  "b_whole": "Grundwert (y)",
+  "b_res": "{x} sind {r} % von {y}",
+  "c_title": "Prozentuale Zu- oder Abnahme",
+  "c_from": "Von (alter Wert)",
+  "c_to": "Auf (neuer Wert)",
+  "c_up": "Zunahme um {r} % (von {f} auf {t}, Differenz: {d})",
+  "c_down": "Abnahme um {r} % (von {f} auf {t}, Differenz: {d})",
+  "c_same": "Keine Änderung: Beide Werte sind {f}.",
+  "d_title": "Preis nach Rabatt",
+  "d_price": "Ursprünglicher Preis",
+  "d_pct": "Rabatt (%)",
+  "d_res": "Endpreis: {fin} | Ersparnis: {save}",
+  "err_numbers": "Geben Sie gültige Zahlen ein.",
+  "err_zero_whole": "Der Grundwert (y) darf nicht 0 sein.",
+  "err_zero_from": "Der alte Wert darf nicht 0 sein: Eine prozentuale Änderung ausgehend von 0 ist nicht definiert."
+}

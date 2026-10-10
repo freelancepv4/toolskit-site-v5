@@ -1,0 +1,8 @@
+{
+  "amount": "Kreditbetrag",
+  "rate": "Jahreszins (%)",
+  "term": "Laufzeit (Jahre)",
+  "out_monthly": "Monatliche Rate: {v}",
+  "out_totals": "Gesamtzinsen: {interest} | Gesamtbetrag: {total}",
+  "err_numbers": "Geben Sie gültige Zahlen ein."
+}

@@ -1,0 +1,11 @@
+{
+  "amount": "Bedrag",
+  "rate": "Btw-tarief (%)",
+  "rate_default": "21",
+  "rate_help": "Vul het btw-tarief in dat voor jou geldt (er bestaat ook een verlaagd tarief). 21 is alleen een beginwaarde.",
+  "dir": "Richting",
+  "dir_add": "Exclusief btw → inclusief btw",
+  "dir_remove": "Inclusief btw → exclusief btw",
+  "out": "Excl. btw: {net} | Btw: {vat} | Incl. btw: {gross}",
+  "err_numbers": "Voer geldige getallen in."
+}

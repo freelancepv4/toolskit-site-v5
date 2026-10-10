@@ -1,0 +1,19 @@
+<div class="panel" style="margin-top:16px">
+    <div class="row">
+      <div class="field" style="flex:2"><label for="qrSsid">Network name (SSID)</label><input type="text" id="qrSsid" placeholder="MyWiFi"></div>
+      <div class="field" style="flex:2"><label for="qrPass">Password</label><input type="text" id="qrPass" placeholder="password"></div>
+      <div class="field" style="flex:1"><label for="qrEnc">Security</label><select id="qrEnc"><option value="WPA">WPA/WPA2</option><option value="WEP">WEP</option><option value="nopass">None</option></select></div>
+    </div>
+    
+<div class="row" style="margin-top:6px">
+  <div class="field" style="flex:1"><label for="qrFg">Foreground color</label><input type="color" id="qrFg" value="#22252b" style="height:40px;padding:2px"></div>
+  <div class="field" style="flex:1"><label for="qrBg">Background color</label><input type="color" id="qrBg" value="#ffffff" style="height:40px;padding:2px"></div>
+  <div class="field" style="flex:1"><label for="qrSize">Size (px)</label><input type="number" id="qrSize" value="280" min="120" max="600" step="20"></div>
+</div>
+<button class="btn btn-primary" id="qrGenBtn" type="button">Generate QR code</button>
+<div style="margin-top:16px;display:flex;gap:20px;flex-wrap:wrap;align-items:flex-start">
+  <div id="qrCanvasWrap" style="background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:14px;min-height:80px"></div>
+  <div id="qrDownloads" style="display:flex;flex-direction:column;gap:8px"></div>
+</div>
+
+  </div>

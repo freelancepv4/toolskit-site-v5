@@ -1,0 +1,59 @@
+<!-- LEGAL REVIEW: plain-language draft written from what the code actually does (no network calls from site scripts, no cookies, localStorage for tool names / CV draft, self-hosted libraries). Have a qualified professional review it, add the operator's identity and contact address (site.config.json), and re-check it whenever hosting, analytics or advertising changes. -->
+<h1>Polityka prywatności</h1>
+<p class="lead">Ta polityka wyjaśnia, co dzieje się z plikami, wpisanymi danymi i danymi osobowymi podczas korzystania z ToolsKit. Ostatnia aktualizacja: {{updated}}.</p>
+
+<section class="pg-sec" aria-labelledby="p1"><h2 id="p1">Podsumowanie</h2>
+<ul class="tk-list">
+<li>Narzędzia ToolsKit działają w przeglądarce. Dodane pliki i wpisany tekst są przetwarzane na urządzeniu i nie są przesyłane do ToolsKit.</li>
+<li>ToolsKit nie ustawia plików cookie, nie wyświetla reklam i obecnie nie używa analityki.</li>
+<li>Przeglądarka zapisuje krótką listę ostatnio otwartych narzędzi, wybrany język (jeśli został wybrany) oraz wersję roboczą CV, jeśli zostanie wybrany zapis wersji roboczej. Wszystko to zostaje na urządzeniu.</li>
+<li>Dostawca hostingu strony obsługuje zwykłe logi żądań, jak każdy host internetowy.</li>
+<li>Jeśli zostanie wysłany do nas e-mail, otrzymamy adres e-mail i treść wiadomości.</li>
+</ul></section>
+
+<section class="pg-sec" aria-labelledby="p2"><h2 id="p2">Kto odpowiada za dane</h2>
+<p>{{{operator}}} {{{contact}}}</p></section>
+
+<section class="pg-sec" aria-labelledby="p3"><h2 id="p3">Pliki i wpisane dane</h2>
+<p>Narzędzia do PDF-ów, obrazów, kodów QR, przeliczania jednostek, obliczeń, CV i mediów społecznościowych wykonują pracę za pomocą JavaScriptu w karcie przeglądarki. Wybrane pliki są odczytywane przez przeglądarkę, wyniki powstają na urządzeniu, a pobierany plik jest tworzony przez przeglądarkę. Żaden kod ToolsKit nie wysyła plików ani wpisanego tekstu do ToolsKit ani do nikogo innego, więc ToolsKit nie może ich zobaczyć, przechowywać ani odzyskać.</p>
+<p>Ponieważ przetwarzanie odbywa się na urządzeniu, wydajność zależy od jego pamięci, a narzędzie może zawieść przy bardzo dużych plikach. Po zamknięciu lub odświeżeniu strony nic nie jest zapisywane, z wyjątkiem elementów wymienionych w następnej sekcji.</p></section>
+
+<section class="pg-sec" aria-labelledby="p4"><h2 id="p4">Co zapisuje przeglądarka</h2>
+<ul class="tk-list">
+<li><strong>Ostatnio używane narzędzia</strong> – nazwy (identyfikatory) maksymalnie sześciu otwartych narzędzi, zapisane w pamięci lokalnej przeglądarki, aby strona Wszystkie narzędzia mogła je wyświetlić. Listę można wyczyścić na stronie <a href="{{u.tools}}">Wszystkie narzędzia</a> albo przez usunięcie danych witryny w przeglądarce.</li>
+<li><strong>Wybór języka</strong> – po wybraniu języka z listy jego kod (np. „pl”) jest zapisywany w pamięci lokalnej przeglądarki, aby strona główna mogła następnym razem wyświetlić ten język jako pierwszy. Nigdy nie służy do przekierowania i nigdzie nie jest wysyłany.</li>
+<li><strong>Wersja robocza CV</strong> – tylko po wybraniu opcji zapisu wersji roboczej w kreatorze CV. Zostaje w pamięci lokalnej przeglądarki, dopóki nie zostanie wyczyszczona opcją usunięcia wersji roboczej albo przez usunięcie danych witryny. Na wspólnym komputerze należy ją usunąć przed odejściem.</li>
+</ul>
+<p>Własny kod ToolsKit nie ustawia plików cookie.</p></section>
+
+<section class="pg-sec" aria-labelledby="p5"><h2 id="p5">Analityka i reklamy</h2>
+<p>ToolsKit obecnie nie używa analityki ani reklam i nie ładuje skryptów śledzących. Kod witryny zawiera opcjonalną warstwę pomiarową opartą na zgodzie, która jest wyłączona. Jeśli analityka lub reklamy zostaną kiedykolwiek włączone, ta polityka zostanie najpierw zaktualizowana, zgoda będzie wymagana tam, gdzie wymaga tego prawo, a zawartość plików, wpisane dane i wyszukiwane teksty nie będą zbierane.</p></section>
+
+<section class="pg-sec" aria-labelledby="p6"><h2 id="p6">Kod i usługi podmiotów zewnętrznych</h2>
+<p>ToolsKit nie ładuje kodu z zewnętrznego CDN. Potrzebne biblioteki open source są udostępniane z własnej witryny ToolsKit:</p>
+{{{libs_list}}}
+<p>Witryna nie używa czcionek zewnętrznych, wtyczek mediów społecznościowych ani osadzonych treści podmiotów zewnętrznych. Strony i biblioteki dostarcza dostawca hostingu, który jest usługą zewnętrzną (zob. następna sekcja). Linki na tej stronie zaczynające się od „mailto:” otwierają własny program pocztowy.</p></section>
+
+<section class="pg-sec" aria-labelledby="p7"><h2 id="p7">Logi serwera</h2>
+<p>Gdy przeglądarka żąda strony, dostawca hostingu otrzymuje informacje techniczne, takie jak adres IP, żądana strona, czas oraz typ przeglądarki i urządzenia. Hosty zwykle używają ich do dostarczania witryny, zapewnienia jej bezpieczeństwa i diagnozowania problemów oraz przechowują je przez ograniczony czas zgodnie z własnymi zasadami. Są to wyłącznie informacje o żądaniu: narzędzia ToolsKit nie wysyłają w tych żądaniach plików ani wpisanych danych. Dostawca hostingu może przetwarzać te dane w różnych krajach.</p></section>
+
+<section class="pg-sec" aria-labelledby="p8"><h2 id="p8">Kontakt z nami</h2>
+<p>Jeśli zostanie wysłany e-mail, otrzymamy adres e-mail i wszystko, co zostało napisane. Używamy tego wyłącznie do odpowiedzi, zbadania zgłoszonego problemu i prowadzenia rozsądnego zapisu rozmowy. Usuwamy te dane, gdy przestają być potrzebne, a wcześniej na prośbę. Prosimy nie wysyłać prywatnych plików, haseł ani danych finansowych.</p></section>
+
+<section class="pg-sec" aria-labelledby="p9"><h2 id="p9">Okres przechowywania</h2>
+<p>ToolsKit nie przechowuje kopii plików ani wpisanych danych. Elementy w pamięci lokalnej przeglądarki pozostają, dopóki nie zostaną usunięte. E-maile są przechowywane w sposób opisany powyżej. Logi serwera są przechowywane przez dostawcę hostingu przez jego własny okres.</p></section>
+
+<section class="pg-sec" aria-labelledby="p10"><h2 id="p10">Bezpieczeństwo</h2>
+<p>Przetwarzanie w przeglądarce oznacza, że pliki nie trafiają na serwer ToolsKit. ToolsKit ma być udostępniany przez HTTPS i wysyła nagłówki bezpieczeństwa, które ograniczają ładowanie kodu na stronie do własnej witryny. Żaden system nie jest idealnie bezpieczny: warto aktualizować przeglądarkę i zachować ostrożność na wspólnych komputerach. Trzeba pamiętać, że kod QR z Wi-Fi zawiera hasło do sieci w postaci czytelnej.</p></section>
+
+<section class="pg-sec" aria-labelledby="p11"><h2 id="p11">Prawa użytkownika</h2>
+<p>W zależności od miejsca zamieszkania (np. na podstawie RODO, brytyjskiego UK GDPR lub prawa kalifornijskiego) może przysługiwać prawo dostępu do danych osobowych, ich sprostowania lub usunięcia, sprzeciwu wobec ich wykorzystywania lub ograniczenia go, otrzymania kopii oraz złożenia skargi do organu ochrony danych. Jedyne dane osobowe, jakie ToolsKit może sam posiadać, to e-mail wysłany do nas, więc takie wnioski sprowadzają się do odnalezienia i usunięcia tej korespondencji. Wniosek można złożyć na <a href="{{u.contact}}">stronie Kontakt</a>. Dane przechowywane przez dostawcę hostingu podlegają jego własnej polityce.</p></section>
+
+<section class="pg-sec" aria-labelledby="p12"><h2 id="p12">Dzieci</h2>
+<p>ToolsKit jest witryną z narzędziami ogólnego przeznaczenia i nie jest skierowany do dzieci. Świadomie nie zbieramy danych osobowych dzieci.</p></section>
+
+<section class="pg-sec" aria-labelledby="p13"><h2 id="p13">Zmiany tej polityki</h2>
+<p>Zaktualizujemy tę stronę, gdy zmienią się praktyki ToolsKit, np. po dodaniu analityki lub reklam, i zmienimy datę ostatniej aktualizacji powyżej. Istotne zmiany zostaną opisane tutaj, zanim wejdą w życie.</p></section>
+
+<section class="pg-sec" aria-labelledby="p14"><h2 id="p14">Kontakt</h2>
+<p>W sprawie pytań lub wniosków dotyczących prywatności zob. <a href="{{u.contact}}">stronę Kontakt</a>.</p></section>

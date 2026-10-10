@@ -1,0 +1,157 @@
+[
+ {
+  "key": "pdf",
+  "name": "PDF Tools",
+  "dir": "pdf-tools",
+  "icon": "i-pdf",
+  "page": true,
+  "title": "PDF Tools — Merge, Split, Rotate, Compress | ToolsKit",
+  "description": "Free PDF tools: merge, split, rotate and compress PDF files, and convert between PDF and images. Runs in your browser.",
+  "intro": "Free online tools for merging, splitting, rotating, compressing and converting PDF files.",
+  "faq": [
+   [
+    "Is there a file size limit?",
+    "ToolsKit rejects single files over 150 MB. The practical limit depends on your device’s memory, and phones may struggle with large files."
+   ],
+   [
+    "Why did my PDF not get smaller?",
+    "Compress PDF re-saves the file more efficiently but does not recompress the images inside it, so photo-heavy PDFs may barely change."
+   ],
+   [
+    "Can I use password-protected PDFs?",
+    "No. Remove the password first, then add the file."
+   ],
+   [
+    "How do I choose which pages to extract?",
+    "In Split PDF, type page numbers like 1-3,5."
+   ]
+  ],
+  "card": "Merge, split, rotate, compress and convert PDF files."
+ },
+ {
+  "key": "image",
+  "name": "Image Tools",
+  "dir": "image-tools",
+  "icon": "i-img",
+  "page": true,
+  "title": "Image Tools — Compress, Resize, Convert | ToolsKit",
+  "description": "Free image tools: compress, resize, and convert images between JPEG, PNG and WebP online, in your browser.",
+  "intro": "Free online tools for compressing, resizing and converting images.",
+  "faq": [
+   [
+    "Which formats can I use?",
+    "Anything your browser can open as an image, such as JPG, PNG or WebP. Output formats are JPEG, PNG or WebP depending on the tool."
+   ],
+   [
+    "Why is a compressed image not smaller?",
+    "Images that are already well compressed may not shrink further. Each tool shows the real result size."
+   ]
+  ],
+  "card": "Compress, resize and convert images."
+ },
+ {
+  "key": "qr",
+  "name": "QR Codes",
+  "dir": "qr-tools",
+  "icon": "i-qr",
+  "page": true,
+  "title": "QR Code Generator — URL, Wi-Fi, Email, Contact | ToolsKit",
+  "description": "Free QR code generator for URLs, Wi-Fi, email, phone numbers, and contact cards. Generated locally in your browser.",
+  "intro": "Free online QR code generators for links, Wi-Fi networks, email, phone numbers and contact cards.",
+  "faq": [
+   [
+    "Do QR codes expire?",
+    "No. The code simply contains your data."
+   ],
+   [
+    "Which colours scan reliably?",
+    "A dark code on a light background."
+   ]
+  ],
+  "card": "Create QR codes for links, Wi-Fi, email, phone numbers and contacts."
+ },
+ {
+  "key": "conv",
+  "name": "Unit Converters",
+  "dir": "unit-converter",
+  "icon": "i-conv",
+  "page": true,
+  "title": "Unit Converter — Length, Weight, Temperature | ToolsKit",
+  "description": "Free unit converters for length, weight, temperature, area, volume and speed. Runs in your browser.",
+  "intro": "Free online unit converters for length, weight, temperature, area, volume and speed.",
+  "faq": [
+   [
+    "Which conversion factors are used?",
+    "They use standard conversion factors and show up to six decimal places."
+   ],
+   [
+    "Why are US and imperial units both listed?",
+    "Gallons and pints differ between the two systems, so the volume converter lists both."
+   ]
+  ],
+  "card": "Convert length, weight, temperature, area, volume and speed."
+ },
+ {
+  "key": "calc",
+  "name": "Calculators",
+  "dir": "calculators",
+  "icon": "i-calc",
+  "page": true,
+  "title": "Calculators — Discount, VAT, Loan, Compound Interest | ToolsKit",
+  "description": "Free calculators for percentage discounts, VAT, loans and compound interest. Results are estimates. Runs in your browser.",
+  "intro": "Free online calculators for percentage discounts, VAT, loans and compound interest. Results are estimates, not financial or tax advice.",
+  "faq": [
+   [
+    "Does the VAT calculator know my country’s rate?",
+    "No. You enter the rate that applies to you."
+   ],
+   [
+    "Are the results official?",
+    "No. They are estimates and not tax or financial advice."
+   ]
+  ],
+  "card": "Percentage discounts, VAT, loans and compound interest."
+ },
+ {
+  "key": "text",
+  "name": "Text Tools",
+  "dir": "text-tools",
+  "icon": "i-text",
+  "page": false,
+  "title": "Text Tools — Word Counter | ToolsKit",
+  "description": "Free text tools that run in your browser. Count words and characters.",
+  "intro": "Free online text tools.",
+  "faq": [],
+  "card": "Count words and characters in your text."
+ },
+ {
+  "key": "cv",
+  "name": "CV & Resume",
+  "dir": "cv-builder",
+  "icon": "i-cv",
+  "page": false,
+  "intro": "Build a CV with a live preview and print it or save it as a PDF.",
+  "card": "Build a CV with a live preview and save it as a PDF."
+ },
+ {
+  "key": "soc",
+  "name": "Social Media",
+  "dir": "social-media-tools",
+  "icon": "i-soc",
+  "page": true,
+  "title": "Social Media Tools — Captions, Hashtags, Bios | ToolsKit",
+  "description": "Free social media text generators: Instagram captions, hashtags, YouTube titles and descriptions, and bios. Template-based, not AI.",
+  "intro": "Free starter generators for captions, hashtags, video titles, descriptions and bios. They use templates, not AI, so edit the results before you post.",
+  "faq": [
+   [
+    "Is this AI?",
+    "No. These tools fill templates with your words."
+   ],
+   [
+    "Will the results perform well?",
+    "There is no guarantee. Edit them before you post."
+   ]
+  ],
+  "card": "Template-based captions, hashtags, titles, descriptions and bios."
+ }
+]

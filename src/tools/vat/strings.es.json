@@ -1,0 +1,11 @@
+{
+  "amount": "Importe",
+  "rate": "Tipo de IVA (%)",
+  "rate_default": "21",
+  "rate_help": "Introduce el tipo de IVA que te corresponda: existen tipos reducidos y en Canarias, Ceuta y Melilla el régimen es distinto. 21 es solo un valor inicial.",
+  "dir": "Operación",
+  "dir_add": "Sumar IVA (base → total)",
+  "dir_remove": "Quitar IVA (total → base)",
+  "out": "Base imponible: {net} | IVA: {vat} | Total: {gross}",
+  "err_numbers": "Introduce números válidos."
+}

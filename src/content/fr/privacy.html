@@ -1,0 +1,59 @@
+<!-- LEGAL REVIEW: plain-language draft written from what the code actually does (no network calls from site scripts, no cookies, localStorage for tool names / CV draft, self-hosted libraries). Have a qualified professional review it, add the operator's identity and contact address (site.config.json), and re-check it whenever hosting, analytics or advertising changes. French translation of the English draft: also needs review by a native-speaking legal professional (RGPD, règles françaises sur les traceurs, mentions légales) before launch. -->
+<h1>Politique de confidentialité</h1>
+<p class="lead">Cette politique explique ce qui arrive à vos fichiers, à vos saisies et à vos données lorsque vous utilisez ToolsKit. Dernière mise à jour : {{updated}}.</p>
+
+<section class="pg-sec" aria-labelledby="p1"><h2 id="p1">Résumé</h2>
+<ul class="tk-list">
+<li>Les outils ToolsKit fonctionnent dans votre navigateur. Les fichiers que vous ajoutez et le texte que vous saisissez sont traités sur votre appareil et ne sont pas envoyés à ToolsKit.</li>
+<li>ToolsKit ne dépose aucun cookie, n’affiche aucune publicité et n’utilise actuellement aucune mesure d’audience.</li>
+<li>Votre navigateur conserve une courte liste des noms des outils ouverts récemment, votre choix de langue si vous en choisissez une, et un brouillon de CV si vous choisissez Enregistrer le brouillon. Tout reste sur votre appareil.</li>
+<li>L’hébergeur du site traite les journaux ordinaires des requêtes, comme le fait tout hébergeur web.</li>
+<li>Si vous nous écrivez, nous recevons votre adresse e-mail et votre message.</li>
+</ul></section>
+
+<section class="pg-sec" aria-labelledby="p2"><h2 id="p2">Qui est responsable</h2>
+<p>{{{operator}}} {{{contact}}}</p></section>
+
+<section class="pg-sec" aria-labelledby="p3"><h2 id="p3">Vos fichiers et vos saisies</h2>
+<p>Les outils PDF, image, QR code, convertisseurs, calculateurs, CV et réseaux sociaux font leur travail avec JavaScript, dans l’onglet de votre navigateur. Les fichiers que vous choisissez sont lus par votre navigateur et les résultats sont créés sur votre appareil ; le téléchargement est produit par votre navigateur. Aucun code de ToolsKit n’envoie vos fichiers ou le texte que vous saisissez à ToolsKit ni à qui que ce soit d’autre : ToolsKit ne peut donc ni les voir, ni les conserver, ni les récupérer.</p>
+<p>Comme le traitement a lieu sur votre appareil, les performances dépendent de sa mémoire, et un outil peut échouer avec des fichiers très volumineux. Rien n’est conservé après la fermeture ou le rechargement de la page, à l’exception des éléments listés dans la section suivante.</p></section>
+
+<section class="pg-sec" aria-labelledby="p4"><h2 id="p4">Ce que votre navigateur conserve</h2>
+<ul class="tk-list">
+<li><strong>Outils utilisés récemment</strong> : les noms (identifiants) des six derniers outils ouverts au maximum, dans le stockage local de votre navigateur, afin que la page Tous les outils puisse les afficher. Vous pouvez vider cette liste depuis la page <a href="{{u.tools}}">Tous les outils</a> ou en effaçant les données du site dans votre navigateur.</li>
+<li><strong>Choix de langue</strong> : si vous choisissez une langue dans la liste des langues, son code (par exemple « fr ») est conservé dans le stockage local de votre navigateur pour que la page d’accueil puisse afficher cette langue en premier la prochaine fois. Il ne sert jamais à vous rediriger et n’est jamais envoyé nulle part.</li>
+<li><strong>Brouillon de CV</strong> : uniquement si vous choisissez Enregistrer le brouillon dans le créateur de CV. Il reste dans le stockage local de votre navigateur jusqu’à ce que vous choisissiez Effacer le brouillon ou que vous effaciez les données du site. Sur un ordinateur partagé, effacez-le avant de partir.</li>
+</ul>
+<p>Le code de ToolsKit lui-même ne dépose aucun cookie.</p></section>
+
+<section class="pg-sec" aria-labelledby="p5"><h2 id="p5">Mesure d’audience et publicité</h2>
+<p>ToolsKit n’utilise actuellement ni mesure d’audience ni publicité, et ne charge aucun script de suivi. Le code du site comprend une couche de mesure facultative, fondée sur le consentement, qui est désactivée. Si une mesure d’audience ou de la publicité devait un jour être activée, cette politique serait d’abord mise à jour, le consentement serait demandé lorsque la loi l’exige, et le contenu des fichiers, les saisies et les textes recherchés ne seraient pas collectés.</p></section>
+
+<section class="pg-sec" aria-labelledby="p6"><h2 id="p6">Code et services tiers</h2>
+<p>ToolsKit ne charge aucun code depuis un CDN tiers. Les bibliothèques open source dont il a besoin sont servies depuis le site de ToolsKit :</p>
+{{{libs_list}}}
+<p>Le site n’utilise ni polices tierces, ni widgets de réseaux sociaux, ni contenu tiers intégré. Les pages et les bibliothèques sont diffusées par un hébergeur web, qui est un service tiers (voir la section suivante). Les liens de ce site qui commencent par « mailto: » ouvrent votre propre logiciel de messagerie.</p></section>
+
+<section class="pg-sec" aria-labelledby="p7"><h2 id="p7">Journaux du serveur</h2>
+<p>Lorsque votre navigateur demande une page, l’hébergeur reçoit des informations techniques comme votre adresse IP, la page demandée, l’heure, ainsi que le type de navigateur et d’appareil. Les hébergeurs utilisent généralement ces données pour diffuser le site, le sécuriser et diagnostiquer les problèmes, et les conservent pendant une durée limitée selon leurs propres politiques. Il s’agit uniquement d’informations de requête : les outils ToolsKit n’envoient ni vos fichiers ni vos saisies dans ces requêtes. L’hébergeur peut traiter ces données dans différents pays.</p></section>
+
+<section class="pg-sec" aria-labelledby="p8"><h2 id="p8">Si vous nous contactez</h2>
+<p>Si vous envoyez un e-mail, nous recevons votre adresse e-mail et ce que vous écrivez. Nous l’utilisons uniquement pour répondre, pour étudier un problème signalé et pour conserver une trace raisonnable de l’échange. Nous la supprimons lorsqu’elle n’est plus nécessaire, et plus tôt si vous le demandez. Merci de ne pas envoyer de fichiers privés, de mots de passe ni de données financières.</p></section>
+
+<section class="pg-sec" aria-labelledby="p9"><h2 id="p9">Conservation</h2>
+<p>ToolsKit ne conserve aucune copie de vos fichiers ni de vos saisies. Les éléments du stockage local de votre navigateur restent jusqu’à ce que vous les effaciez. Les e-mails sont conservés comme indiqué ci-dessus. Les journaux du serveur sont conservés par l’hébergeur pendant sa propre durée de conservation.</p></section>
+
+<section class="pg-sec" aria-labelledby="p10"><h2 id="p10">Sécurité</h2>
+<p>Comme le traitement a lieu dans votre navigateur, vos fichiers ne transitent pas vers un serveur ToolsKit. ToolsKit est destiné à être diffusé en HTTPS et envoie des en-têtes de sécurité qui limitent le chargement de code à son propre site. Aucun système n’est parfaitement sûr : maintenez votre navigateur à jour et soyez prudent sur les ordinateurs partagés. Notez qu’un QR code Wi-Fi contient le mot de passe du réseau sous une forme lisible.</p></section>
+
+<section class="pg-sec" aria-labelledby="p11"><h2 id="p11">Vos droits</h2>
+<p>Selon votre lieu de résidence (par exemple au titre du RGPD, du RGPD britannique ou du droit californien), vous pouvez avoir le droit d’accéder aux données personnelles que nous détenons sur vous, de les corriger ou de les supprimer, de vous opposer à leur utilisation ou de la limiter, d’en recevoir une copie et d’introduire une réclamation auprès de votre autorité de protection des données. Les seules données personnelles que ToolsKit est susceptible de détenir sont un e-mail que vous nous avez envoyé : ces demandes consistent donc à retrouver et à supprimer cette correspondance. Utilisez la <a href="{{u.contact}}">page Contact</a> pour faire une demande. Les données détenues par l’hébergeur relèvent de sa propre politique.</p></section>
+
+<section class="pg-sec" aria-labelledby="p12"><h2 id="p12">Enfants</h2>
+<p>ToolsKit est un site d’utilitaires généraliste qui ne s’adresse pas aux enfants. Nous ne collectons pas sciemment de données personnelles auprès d’enfants.</p></section>
+
+<section class="pg-sec" aria-labelledby="p13"><h2 id="p13">Modifications de cette politique</h2>
+<p>Nous mettrons cette page à jour lorsque les pratiques de ToolsKit changeront, par exemple si une mesure d’audience ou de la publicité est ajoutée, et nous modifierons la date de « dernière mise à jour » ci-dessus. Les modifications importantes seront décrites ici avant leur entrée en vigueur.</p></section>
+
+<section class="pg-sec" aria-labelledby="p14"><h2 id="p14">Contact</h2>
+<p>Pour toute question ou demande relative à la vie privée, consultez la <a href="{{u.contact}}">page Contact</a>.</p></section>

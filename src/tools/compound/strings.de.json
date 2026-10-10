@@ -1,0 +1,13 @@
+{
+  "principal": "Anfangsbetrag",
+  "contrib": "Einzahlung pro Zinsperiode",
+  "rate": "Jahreszins (%)",
+  "freq": "Verzinsung",
+  "freq_m": "Monatlich",
+  "freq_q": "Vierteljährlich",
+  "freq_y": "Jährlich",
+  "years": "Anlagedauer (Jahre)",
+  "out_final": "Endwert: {v}",
+  "out_totals": "Eingezahlt insgesamt: {contrib} | Geschätzte Zinsen: {interest}",
+  "err_numbers": "Geben Sie gültige Zahlen ein."
+}

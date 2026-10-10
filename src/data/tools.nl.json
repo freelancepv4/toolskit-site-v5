@@ -1,0 +1,1228 @@
+{
+ "categories": {
+  "pdf": {
+   "name": "PDF-tools",
+   "dir": "pdf-tools",
+   "card": "PDF’s samenvoegen, splitsen, roteren, verkleinen en omzetten naar of van afbeeldingen.",
+   "intro": "Gratis online tools om pdf-bestanden samen te voegen, te splitsen, te roteren en te verkleinen, en om pdf’s en afbeeldingen in elkaar om te zetten.",
+   "title": "PDF-tools: samenvoegen, splitsen, verkleinen | ToolsKit",
+   "description": "Gratis pdf-tools: pdf samenvoegen, splitsen, roteren en verkleinen, en pdf omzetten naar afbeeldingen of andersom. Werkt in je browser, zonder account.",
+   "faq": [
+    [
+     "Is er een limiet voor de bestandsgrootte?",
+     "ToolsKit weigert losse bestanden van meer dan 150 MB. In de praktijk hangt de limiet af van het geheugen van je apparaat; telefoons hebben vaak moeite met grote bestanden."
+    ],
+    [
+     "Waarom is mijn pdf niet kleiner geworden?",
+     "PDF verkleinen slaat het bestand efficiënter op, maar comprimeert de afbeeldingen erin niet opnieuw. Bij pdf’s vol foto’s of scans verandert de grootte daarom vaak weinig."
+    ],
+    [
+     "Kan ik pdf’s met een wachtwoord gebruiken?",
+     "Nee. Verwijder eerst het wachtwoord en voeg het bestand daarna toe."
+    ],
+    [
+     "Hoe kies ik welke pagina’s ik uit een pdf haal?",
+     "Typ bij PDF splitsen de paginanummers in, bijvoorbeeld 1-3,5."
+    ],
+    [
+     "Worden mijn pdf’s geüpload?",
+     "Nee. De bestanden worden in je browser verwerkt en niet geüpload naar ToolsKit."
+    ]
+   ],
+   "syn": [
+    "pdf",
+    "pdf’s",
+    "pdfs",
+    "pdf tools",
+    "pdf bestanden",
+    "pdf bestand",
+    "pdf online",
+    "pdf programma"
+   ]
+  },
+  "calc": {
+   "name": "Rekentools",
+   "dir": "rekentools",
+   "card": "Percentage berekenen, btw berekenen, lening berekenen en samengestelde rente.",
+   "intro": "Gratis online rekentools voor percentages en korting, btw, leningen en samengestelde rente. De uitkomsten zijn schattingen, geen financieel of fiscaal advies.",
+   "title": "Rekentools: percentage, btw, lening, rente | ToolsKit",
+   "description": "Gratis rekentools: percentage en korting berekenen, btw berekenen, lening berekenen en samengestelde rente. Uitkomsten zijn schattingen. Werkt in je browser.",
+   "faq": [
+    [
+     "Kent de btw-tool het tarief van mijn land?",
+     "Nee. Je vult zelf het tarief in dat voor jou geldt. De waarde 21 is alleen een beginwaarde."
+    ],
+    [
+     "Zijn de uitkomsten bindend?",
+     "Nee. Het zijn schattingen en geen fiscaal of financieel advies. Wat telt, zijn de gegevens van je bank, adviseur, accountant of de Belastingdienst."
+    ]
+   ],
+   "syn": [
+    "rekenmachine",
+    "rekenmachines",
+    "rekentool",
+    "rekentools",
+    "calculator",
+    "calculators",
+    "online rekenmachine",
+    "berekenen",
+    "uitrekenen",
+    "rekenen",
+    "rekenhulp"
+   ]
+  },
+  "text": {
+   "name": "Teksttools",
+   "dir": "teksttools",
+   "card": "Tel woorden en tekens in je tekst.",
+   "syn": [
+    "tekst",
+    "teksten",
+    "woorden",
+    "tekens",
+    "letters",
+    "karakters",
+    "tellen",
+    "teller",
+    "teksttools",
+    "tekstlengte",
+    "lengte van tekst"
+   ]
+  }
+ },
+ "tools": {
+  "merge-pdf": {
+   "file": "pdf-samenvoegen.html",
+   "name": "PDF samenvoegen",
+   "h1": "PDF samenvoegen – meerdere pdf’s tot één bestand",
+   "title": "PDF samenvoegen – gratis online | ToolsKit",
+   "description": "Voeg meerdere pdf-bestanden samen tot één document en bepaal zelf de volgorde. Werkt in je browser, zonder account.",
+   "card": "Voeg meerdere pdf’s samen tot één bestand, in de volgorde die jij kiest.",
+   "lead": "Voeg meerdere pdf’s samen tot één bestand (ook wel pdf’s combineren of aan elkaar plakken) en bepaal zelf de volgorde.",
+   "steps": [
+    [
+     "Pdf’s toevoegen",
+     "Kies twee of meer pdf-bestanden of sleep ze naar het vak."
+    ],
+    [
+     "Volgorde bepalen",
+     "Verplaats bestanden omhoog of omlaag met de pijlen."
+    ],
+    [
+     "Downloaden",
+     "Download de samengevoegde pdf."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "In welke volgorde worden de bestanden samengevoegd?",
+     "In de volgorde van de lijst. Pas die vóór het samenvoegen aan met de pijlen."
+    ],
+    [
+     "Kan ik pdf’s met een wachtwoord samenvoegen?",
+     "Nee. Verwijder eerst het wachtwoord en voeg het bestand daarna opnieuw toe."
+    ],
+    [
+     "Blijven bladwijzers en formuliervelden behouden?",
+     "De pagina’s worden naar een nieuw document gekopieerd. Onderdelen die niet op de pagina’s zelf staan, zoals bladwijzers, worden daarom mogelijk niet meegenomen."
+    ]
+   ],
+   "good": "Zeer grote bestanden kunnen op een telefoon traag zijn of het geheugen vullen. Voeg in dat geval minder bestanden tegelijk samen.",
+   "limits": [
+    "Pdf’s met een wachtwoord kunnen niet worden samengevoegd. Verwijder eerst het wachtwoord.",
+    "Losse bestanden van meer dan 150 MB worden geweigerd; zeer grote bestanden kunnen ook mislukken op apparaten met weinig geheugen."
+   ],
+   "ws": {
+    "title": "Sleep je pdf’s hierheen",
+    "choose": "Pdf’s kiezen",
+    "hint": "Alleen pdf-bestanden. Voeg er twee of meer toe en pas zo nodig de volgorde aan."
+   },
+   "syn": [
+    "pdf samenvoegen",
+    "pdf’s samenvoegen",
+    "pdfs samenvoegen",
+    "pdf bestanden samenvoegen",
+    "pdf samenvoegen online",
+    "pdf samenvoegen gratis",
+    "pdf combineren",
+    "pdf’s combineren",
+    "pdf aan elkaar plakken",
+    "pdf verbinden",
+    "pdf samenvoegen tot één bestand",
+    "meerdere pdf tot één pdf",
+    "meerdere pdf’s in één pdf",
+    "pdf merge",
+    "pdf mergen"
+   ]
+  },
+  "split-pdf": {
+   "file": "pdf-splitsen.html",
+   "name": "PDF splitsen",
+   "h1": "PDF splitsen – pagina’s uit een pdf halen",
+   "title": "PDF splitsen – pagina’s eruit halen | ToolsKit",
+   "description": "Haal een paginabereik zoals 1-3,5 uit een pdf en bewaar het als nieuw bestand. Werkt in je browser; je pdf wordt niet geüpload.",
+   "card": "Haal een reeks pagina’s uit een pdf in een nieuw bestand.",
+   "lead": "Splits een pdf door de pagina’s die je nodig hebt eruit te halen en in één nieuw bestand te bewaren.",
+   "steps": [
+    [
+     "Pdf toevoegen",
+     "Kies of sleep één pdf."
+    ],
+    [
+     "Pagina’s invullen",
+     "Bijvoorbeeld 1-3,5."
+    ],
+    [
+     "Downloaden",
+     "Download een nieuwe pdf met alleen die pagina’s."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Hoe schrijf ik het paginabereik op?",
+     "Scheid pagina’s met komma’s en gebruik een streepje voor een reeks, zoals 1-3,5. De nummering begint bij 1."
+    ],
+    [
+     "Kan ik elke pagina als los bestand krijgen?",
+     "Nog niet. Deze tool haalt de pagina’s die je opgeeft in één nieuwe pdf."
+    ],
+    [
+     "Wat als ik een pagina invul die niet bestaat?",
+     "Je ziet een melding met het aantal pagina’s van je bestand, zodat je het bereik kunt corrigeren."
+    ]
+   ],
+   "good": "De pagina’s staan in het resultaat in oplopende volgorde, ongeacht in welke volgorde je ze typt.",
+   "limits": [
+    "Haalt de gekozen pagina’s in één nieuwe pdf. Het splitst een document niet in één keer in meerdere bestanden.",
+    "Pdf’s met een wachtwoord worden niet ondersteund."
+   ],
+   "ws": {
+    "title": "Sleep je pdf hierheen",
+    "choose": "Pdf kiezen",
+    "hint": "Eén pdf-bestand."
+   },
+   "syn": [
+    "pdf splitsen",
+    "pdf splitsen online",
+    "pdf splitsen gratis",
+    "pdf opdelen",
+    "pdf knippen",
+    "pdf pagina’s eruit halen",
+    "pdf pagina eruit halen",
+    "pdf pagina’s extraheren",
+    "pdf pagina’s selecteren",
+    "pdf uit elkaar halen",
+    "pdf pagina’s scheiden",
+    "pdf split",
+    "pdf splitter"
+   ]
+  },
+  "rotate-pdf": {
+   "file": "pdf-roteren.html",
+   "name": "PDF roteren",
+   "h1": "PDF roteren – pagina’s 90°, 180° of 270° draaien",
+   "title": "PDF roteren – pagina’s draaien | ToolsKit",
+   "description": "Roteer alle pagina’s van een pdf met 90°, 180° of 270° en download het resultaat. Werkt in je browser, zonder account.",
+   "card": "Roteer de pagina’s van een pdf met 90°, 180° of 270°.",
+   "lead": "Roteer alle pagina’s van een pdf met 90°, 180° of 270°, bijvoorbeeld als een scan op zijn kant staat.",
+   "steps": [
+    [
+     "Pdf toevoegen",
+     "Kies of sleep één pdf."
+    ],
+    [
+     "Rotatie kiezen",
+     "90° rechtsom, 180° of 90° linksom."
+    ],
+    [
+     "Downloaden",
+     "Download de geroteerde pdf."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Kan ik maar een deel van de pagina’s roteren?",
+     "Nog niet. De rotatie geldt voor alle pagina’s van het bestand."
+    ],
+    [
+     "Wordt het originele bestand aangepast?",
+     "Nee. Je downloadt een nieuw bestand; je origineel blijft zoals het was."
+    ]
+   ],
+   "good": "Als een pagina in het bestand al gedraaid was, wordt de nieuwe rotatie daarbovenop toegepast.",
+   "limits": [
+    "Alle pagina’s worden met dezelfde hoek geroteerd; losse pagina’s kunnen niet apart worden gedraaid."
+   ],
+   "ws": {
+    "title": "Sleep je pdf hierheen",
+    "choose": "Pdf kiezen",
+    "hint": "Eén pdf-bestand. Alle pagina’s worden met dezelfde hoek geroteerd."
+   },
+   "syn": [
+    "pdf roteren",
+    "pdf draaien",
+    "pdf roteren online",
+    "pdf pagina’s roteren",
+    "pdf pagina’s draaien",
+    "pdf pagina roteren",
+    "pdf pagina draaien",
+    "pdf 90 graden draaien",
+    "pdf 180 graden draaien",
+    "pdf scan draaien",
+    "pdf omdraaien",
+    "pdf kantelen"
+   ]
+  },
+  "compress-pdf": {
+   "file": "pdf-verkleinen.html",
+   "name": "PDF verkleinen",
+   "h1": "PDF verkleinen of comprimeren",
+   "title": "PDF verkleinen of comprimeren – online | ToolsKit",
+   "description": "Sla een pdf efficiënter op en vergelijk de grootte voor en na. Comprimeert afbeeldingen niet opnieuw. Werkt in je browser, zonder account.",
+   "card": "Sla een pdf efficiënter op. Comprimeert afbeeldingen niet opnieuw.",
+   "lead": "Maak een pdf kleiner waar dat kan (pdf verkleinen of comprimeren). Het resultaat verschilt per bestand.",
+   "steps": [
+    [
+     "Pdf toevoegen",
+     "Kies of sleep één pdf."
+    ],
+    [
+     "Verkleinen",
+     "Het bestand wordt met een efficiëntere structuur opnieuw opgeslagen."
+    ],
+    [
+     "Vergelijken en downloaden",
+     "Zie de grootte voor en na."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Waarom is mijn pdf niet kleiner geworden?",
+     "Deze tool slaat het bestand efficiënter op, maar comprimeert de afbeeldingen erin niet opnieuw. Pdf’s die groot zijn door foto’s of scans worden daardoor weinig of niet kleiner."
+    ],
+    [
+     "Verandert de kwaliteit?",
+     "Nee. Afbeeldingen en tekst worden niet opnieuw gecodeerd, dus het uiterlijk blijft gelijk."
+    ],
+    [
+     "Kan ik een pdf verkleinen tot een bepaalde grootte, zoals 1 MB?",
+     "Nee. Je kunt geen doelgrootte instellen; de tool laat alleen zien wat het resultaat is."
+    ],
+    [
+     "Is er een sterkere optie?",
+     "Niet in deze tool. Ingebedde afbeeldingen opnieuw comprimeren is een ander, zwaarder proces."
+    ]
+   ],
+   "good": "Is het resultaat niet kleiner, bewaar dan je originele bestand.",
+   "limits": [
+    "Comprimeert afbeeldingen niet opnieuw, dus pdf’s met veel foto’s of scans worden mogelijk nauwelijks kleiner.",
+    "Kan niet op een bepaalde bestandsgrootte mikken."
+   ],
+   "ws": {
+    "title": "Sleep je pdf hierheen",
+    "choose": "Pdf kiezen",
+    "hint": "Eén pdf-bestand."
+   },
+   "syn": [
+    "pdf verkleinen",
+    "pdf comprimeren",
+    "pdf verkleinen online",
+    "pdf verkleinen gratis",
+    "pdf comprimeren online",
+    "pdf kleiner maken",
+    "pdf bestand verkleinen",
+    "pdf bestandsgrootte verkleinen",
+    "pdf grootte verkleinen",
+    "pdf optimaliseren",
+    "pdf compressor",
+    "pdf compress",
+    "pdf verkleinen voor e-mail",
+    "pdf te groot"
+   ]
+  },
+  "pdf-to-images": {
+   "file": "pdf-naar-afbeeldingen.html",
+   "name": "PDF naar afbeeldingen",
+   "h1": "PDF naar afbeeldingen (PNG)",
+   "title": "PDF naar afbeeldingen – pdf naar PNG | ToolsKit",
+   "description": "Exporteer elke pagina van een pdf als PNG-afbeelding. Bij meerdere pagina’s krijg je een zipbestand. Werkt in je browser, zonder account.",
+   "card": "Exporteer elke pagina van een pdf als PNG-afbeelding.",
+   "lead": "Zet elke pagina van een pdf om naar een PNG-afbeelding. Let op: je krijgt PNG-bestanden, geen JPG.",
+   "steps": [
+    [
+     "Pdf toevoegen",
+     "Kies of sleep één pdf."
+    ],
+    [
+     "Kwaliteit kiezen",
+     "Standaard of Hoog."
+    ],
+    [
+     "Downloaden",
+     "Eén PNG, of een zipbestand bij meerdere pagina’s."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "In welk formaat zijn de afbeeldingen?",
+     "PNG. Eén pagina wordt één PNG-bestand; meerdere pagina’s worden in één zipbestand gedownload."
+    ],
+    [
+     "Kan ik een pdf naar jpg omzetten?",
+     "Niet rechtstreeks. Deze tool exporteert alleen PNG. Wil je JPG, zet de PNG-bestanden dan om met een afbeeldingsconverter."
+    ],
+    [
+     "Wat doet de kwaliteit Hoog?",
+     "De pagina’s worden groter weergegeven, wat grotere afbeeldingen en meer geheugen kost."
+    ],
+    [
+     "Waarom gaat een grote pdf traag?",
+     "Pagina’s worden één voor één in je browser getekend. Lange of beeldrijke documenten kunnen daardoor traag zijn of tegen de geheugengrens aanlopen, vooral op telefoons."
+    ]
+   ],
+   "good": "Begin met Standaard. Kies alleen Hoog als je grotere afbeeldingen nodig hebt.",
+   "limits": [
+    "Exporteert alleen PNG (geen JPG).",
+    "Hoge kwaliteit bij grote pagina’s kan het geheugen vullen, vooral op telefoons."
+   ],
+   "ws": {
+    "title": "Sleep je pdf hierheen",
+    "choose": "Pdf kiezen",
+    "hint": "Eén pdf-bestand. Pagina’s worden geëxporteerd als PNG-afbeeldingen."
+   },
+   "syn": [
+    "pdf naar afbeelding",
+    "pdf naar afbeeldingen",
+    "pdf naar png",
+    "pdf omzetten naar afbeelding",
+    "pdf omzetten naar png",
+    "pdf pagina als afbeelding opslaan",
+    "pdf pagina’s exporteren als afbeelding",
+    "pdf naar plaatje",
+    "pdf pagina naar png",
+    "pdf converteren naar afbeelding"
+   ]
+  },
+  "images-to-pdf": {
+   "file": "jpg-naar-pdf.html",
+   "name": "JPG en PNG naar PDF",
+   "h1": "JPG naar PDF – ook PNG-afbeeldingen",
+   "title": "JPG naar PDF – foto’s en PNG omzetten | ToolsKit",
+   "description": "Zet JPG- of PNG-afbeeldingen om naar één pdf, met één afbeelding per pagina. Werkt in je browser; je afbeeldingen worden niet geüpload.",
+   "card": "Zet JPG- of PNG-afbeeldingen om naar één pdf.",
+   "lead": "Zet JPG- of PNG-afbeeldingen om naar één pdf, met één afbeelding per pagina.",
+   "steps": [
+    [
+     "Afbeeldingen toevoegen",
+     "Kies of sleep JPG- of PNG-bestanden."
+    ],
+    [
+     "Volgorde controleren",
+     "De pagina’s volgen de volgorde van de lijst."
+    ],
+    [
+     "Downloaden",
+     "Download één pdf."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Welke afbeeldingsformaten werken?",
+     "JPG en PNG. Andere formaten, zoals WebP, worden hier niet ondersteund."
+    ],
+    [
+     "Welk paginaformaat wordt gebruikt?",
+     "Elke pagina krijgt de pixelgrootte van de bijbehorende afbeelding. Er wordt niet aangepast aan A4 of Letter."
+    ],
+    [
+     "Kan ik de volgorde van de afbeeldingen wijzigen?",
+     "De pagina’s volgen de volgorde waarin de bestanden zijn toegevoegd. Om dat te wijzigen verwijder je alles en voeg je de afbeeldingen opnieuw toe in de gewenste volgorde."
+    ]
+   ],
+   "good": "Grote foto’s geven een grote pdf. Verklein of comprimeer afbeeldingen eerst als het bestand klein moet blijven.",
+   "limits": [
+    "Accepteert alleen JPG en PNG.",
+    "Elke afbeelding wordt één pagina op zijn eigen formaat; er zijn geen opties voor paginaformaat of marges."
+   ],
+   "ws": {
+    "title": "Sleep je afbeeldingen hierheen",
+    "choose": "Afbeeldingen kiezen",
+    "hint": "JPG of PNG. De pagina’s volgen de volgorde hieronder."
+   },
+   "syn": [
+    "jpg naar pdf",
+    "jpeg naar pdf",
+    "png naar pdf",
+    "jpg naar pdf omzetten",
+    "jpg omzetten naar pdf",
+    "foto naar pdf",
+    "foto’s naar pdf",
+    "afbeelding naar pdf",
+    "afbeeldingen naar pdf",
+    "plaatje naar pdf",
+    "meerdere foto’s in één pdf",
+    "foto’s omzetten naar pdf",
+    "afbeelding omzetten naar pdf",
+    "jpg naar pdf online"
+   ]
+  },
+  "percentage": {
+   "file": "percentage-berekenen.html",
+   "name": "Percentage berekenen",
+   "h1": "Percentage berekenen – procent van, stijging en korting",
+   "title": "Percentage berekenen – procent, stijging, korting | ToolsKit",
+   "description": "Bereken X% van een getal, hoeveel procent het ene getal van het andere is, procentuele stijging of daling en de prijs na korting. Gratis, in je browser.",
+   "card": "Procent van een getal, procentuele verandering en korting, met de berekening erbij.",
+   "lead": "Vier percentagetools in één: procent van een getal, hoeveel procent, procentuele verandering en korting.",
+   "steps": [
+    [
+     "Kies je vraag",
+     "Op deze pagina staan vier rekentools: procent van een getal, hoeveel procent, procentuele verandering en prijs na korting."
+    ],
+    [
+     "Vul je getallen in",
+     "Vul de twee velden in van de tool die je nodig hebt. De uitkomst verschijnt terwijl je typt."
+    ],
+    [
+     "Lees de uitkomst",
+     "Uitkomsten worden afgerond op twee decimalen. Met Herstellen komen de voorbeeldwaarden terug."
+    ]
+   ],
+   "formula": "X% van Y = Y × X ÷ 100. X is (X ÷ Y × 100)% van Y. Verandering = (nieuw − oud) ÷ |oud| × 100. Prijs na korting = prijs × (1 − korting ÷ 100).",
+   "faq": [
+    [
+     "Hoe bereken ik een procentuele stijging?",
+     "Gebruik “Procentuele stijging of daling”: vul de oude waarde in bij Van en de nieuwe waarde bij Naar. Een positieve uitkomst is een stijging, een negatieve een daling."
+    ],
+    [
+     "Hoe bereken ik een korting?",
+     "Gebruik “Prijs na korting”: vul de oorspronkelijke prijs en het kortingspercentage in. Je ziet de nieuwe prijs en het bedrag dat je bespaart."
+    ],
+    [
+     "Waarom mag de oude waarde niet 0 zijn?",
+     "Een procentuele verandering vanaf 0 is niet te berekenen, omdat je dan door nul zou delen."
+    ],
+    [
+     "Is een percentage hetzelfde als procentpunten?",
+     "Nee. Van 10% naar 12% is een stijging van 2 procentpunten, maar een stijging van 20% van het percentage zelf. Deze tool geeft het tweede getal als je 10 en 12 invult bij Van en Naar."
+    ]
+   ],
+   "good": "Uitkomsten worden afgerond op twee decimalen. Het decimaalteken volgt de taalinstellingen van je browser.",
+   "limits": [
+    "Beantwoordt vier veelvoorkomende percentagevragen. Het rekent niet met samengestelde percentages over meerdere periodes (zie samengestelde rente) en ook niet terug, zoals “de prijs vóór 20% korting”."
+   ],
+   "disclaimer": "Alleen voor snelle prijsberekeningen. Controleer eindprijzen en btw aan de hand van de factuur of kassabon van de verkoper.",
+   "syn": [
+    "percentage berekenen",
+    "procenten berekenen",
+    "procent berekenen",
+    "procentberekening",
+    "percentage rekenmachine",
+    "procenten rekenmachine",
+    "percentage calculator",
+    "procentrekenen",
+    "procentuele stijging berekenen",
+    "procentuele daling berekenen",
+    "procentuele verandering berekenen",
+    "percentage stijging",
+    "percentage verschil berekenen",
+    "korting berekenen",
+    "kortingspercentage berekenen",
+    "prijs na korting",
+    "procent van een getal",
+    "hoeveel procent is",
+    "percentage van een bedrag",
+    "percentage uitrekenen"
+   ]
+  },
+  "vat": {
+   "file": "btw-berekenen.html",
+   "name": "Btw berekenen",
+   "h1": "Btw berekenen – exclusief en inclusief btw",
+   "title": "Btw berekenen: excl. en incl. btw | ToolsKit",
+   "description": "Bereken btw: van bedrag exclusief naar inclusief btw, of haal de btw eruit. Je vult zelf het tarief in. Een schatting, geen fiscaal advies.",
+   "card": "Reken btw erbij of haal de btw uit een bedrag, met het tarief dat jij invult.",
+   "lead": "Bereken het bedrag inclusief btw vanuit het bedrag exclusief btw, of haal de btw uit een bedrag inclusief btw.",
+   "steps": [
+    [
+     "Vul het bedrag in",
+     "Typ het bedrag en kies de richting: exclusief btw → inclusief btw, of inclusief btw → exclusief btw."
+    ],
+    [
+     "Controleer het tarief",
+     "Vul het btw-tarief in dat voor jou geldt."
+    ],
+    [
+     "Lees de uitkomst",
+     "De uitkomst wordt bijgewerkt terwijl je typt. Met Herstellen begin je opnieuw."
+    ]
+   ],
+   "formula": "Incl. btw = excl. btw × (1 + tarief ÷ 100). Excl. btw = incl. btw ÷ (1 + tarief ÷ 100). Btw = incl. btw − excl. btw.",
+   "faq": [
+    [
+     "Kent de tool het btw-tarief van mijn land?",
+     "Nee. Vul zelf het tarief in dat voor jou geldt. Tarieven verschillen per land en per soort product of dienst (er is bijvoorbeeld een standaardtarief en een verlaagd tarief); ToolsKit zoekt ze niet op. Het getal in het veld is alleen een beginwaarde."
+    ],
+    [
+     "Hoe haal ik de btw uit een bedrag inclusief btw?",
+     "Kies “Inclusief btw → exclusief btw” en vul het bedrag en het tarief in. De tool deelt het bedrag door (1 + tarief ÷ 100) en toont het bedrag exclusief btw en de btw."
+    ],
+    [
+     "Is dit officiële fiscale informatie?",
+     "Nee. Het is een eenvoudige rekentool. Officiële informatie krijg je bij de belastingdienst van je land of via een accountant."
+    ]
+   ],
+   "good": "Exclusief btw is de prijs vóór btw; inclusief btw is de prijs mét btw.",
+   "limits": [
+    "Gebruikt alleen het tarief dat je invult. Actuele btw-tarieven, vrijstellingen of afrondingsregels van een land worden niet opgezocht."
+   ],
+   "disclaimer": "Deze tool past het tarief toe dat je invult en controleert niet de actuele btw-regels of afronding. Laat bedragen controleren door de belastingdienst van je land of een accountant voordat je ze gebruikt op een factuur of in een aangifte.",
+   "syn": [
+    "btw berekenen",
+    "btw calculator",
+    "btw rekenmachine",
+    "btw uitrekenen",
+    "btw berekenen online",
+    "btw-bedrag berekenen",
+    "btw erbij rekenen",
+    "btw eraf halen",
+    "btw eruit halen",
+    "btw erbij",
+    "btw eraf",
+    "exclusief btw naar inclusief btw",
+    "inclusief btw naar exclusief btw",
+    "excl btw incl btw",
+    "bedrag exclusief btw",
+    "bedrag inclusief btw",
+    "prijs inclusief btw berekenen",
+    "omzetbelasting berekenen"
+   ]
+  },
+  "loan": {
+   "file": "lening-berekenen.html",
+   "name": "Lening berekenen",
+   "h1": "Lening berekenen – maandbedrag, rente en totaal",
+   "title": "Lening berekenen: maandbedrag en rente | ToolsKit",
+   "description": "Schat het maandbedrag, de totale rente en het totaal terug te betalen bedrag van een lening met vaste rente. Een schatting, geen advies.",
+   "card": "Schat het maandbedrag, de totale rente en het totaal te betalen van een lening met vaste rente.",
+   "lead": "Schat het maandbedrag van een lening met vaste rente en gelijke termijnen, bijvoorbeeld een persoonlijke lening of als grove indicatie voor een annuïtaire hypotheek.",
+   "steps": [
+    [
+     "Vul je gegevens in",
+     "Vul elk veld in."
+    ],
+    [
+     "Controleer de formule",
+     "Vul het leenbedrag, de rente per jaar en de looptijd in jaren in."
+    ],
+    [
+     "Lees de uitkomst",
+     "De uitkomst wordt bijgewerkt terwijl je typt. Met Herstellen begin je opnieuw."
+    ]
+   ],
+   "formula": "r = rente per jaar ÷ 12 ÷ 100; n = jaren × 12; maandbedrag = P × r ÷ (1 − (1 + r)^−n), waarbij P het leenbedrag is. Bij 0% rente: maandbedrag = P ÷ n.",
+   "faq": [
+    [
+     "Wat laat de berekening buiten beschouwing?",
+     "Kosten, verzekeringen, belastingen en fiscale aftrek, variabele rente en extra aflossingen. Er wordt uitgegaan van een vaste rente en gelijke maandbedragen (annuïteit)."
+    ],
+    [
+     "Is de ingevulde rente het jaarlijks kostenpercentage (JKP)?",
+     "Nee. Je vult de rente per jaar in zoals je die kent. Kosten en het JKP zitten niet in de berekening."
+    ],
+    [
+     "Kan ik hiermee een maximale hypotheek berekenen?",
+     "Nee. De tool berekent alleen het maandbedrag bij de gegevens die je invult. Hij berekent geen maximale hypotheek en rekent niet met een lineaire aflossing, waarbij het maandbedrag daalt."
+    ],
+    [
+     "Is dit financieel advies?",
+     "Nee. De uitkomsten zijn schattingen. De cijfers van je geldverstrekker zijn de cijfers die tellen."
+    ]
+   ],
+   "good": "Probeer verschillende looptijden om te zien hoe de totale rente verandert.",
+   "limits": [
+    "Gaat uit van een vaste rente en gelijke maandbedragen. Kosten, verzekeringen, belastingen, variabele rente en extra aflossingen zijn niet meegenomen."
+   ],
+   "disclaimer": "Werkelijke rentes, kosten, verzekeringen, belastingen en voorwaarden van geldverstrekkers verschillen, en deze uitkomst is geen aanbod voor een lening. Deze tool geeft geen financieel advies.",
+   "syn": [
+    "lening berekenen",
+    "lening calculator",
+    "leningcalculator",
+    "lening rekenmachine",
+    "lening uitrekenen",
+    "maandlasten lening berekenen",
+    "maandbedrag lening berekenen",
+    "persoonlijke lening berekenen",
+    "lening aflossen berekenen",
+    "aflossing berekenen",
+    "rente lening berekenen",
+    "krediet berekenen",
+    "annuïteit berekenen",
+    "annuiteit berekenen",
+    "maandlasten berekenen",
+    "hypotheek berekenen",
+    "hypotheek maandlasten berekenen",
+    "annuïteitenhypotheek berekenen"
+   ]
+  },
+  "compound": {
+   "file": "samengestelde-rente.html",
+   "name": "Samengestelde rente berekenen",
+   "h1": "Samengestelde rente berekenen – rente op rente",
+   "title": "Samengestelde rente berekenen | ToolsKit",
+   "description": "Bereken hoe spaargeld groeit met samengestelde rente (rente op rente) en regelmatige inleg. Met formule; een schatting, geen voorspelling.",
+   "card": "Bereken de groei van je geld met rente op rente en regelmatige inleg.",
+   "lead": "Bereken hoe je spaargeld groeit met samengestelde rente (rente op rente) en regelmatige inleg.",
+   "steps": [
+    [
+     "Vul je gegevens in",
+     "Vul elk veld in."
+    ],
+    [
+     "Controleer de formule",
+     "Vul het startbedrag, de inleg, de rente, de frequentie en de looptijd in."
+    ],
+    [
+     "Lees de uitkomst",
+     "De uitkomst wordt bijgewerkt terwijl je typt. Met Herstellen begin je opnieuw."
+    ]
+   ],
+   "formula": "groei = (1 + r/n)^(n × jaren); eindbedrag = start × groei + inleg × (groei − 1) ÷ (r/n), waarbij r de rente per jaar is als decimaal getal (6% = 0,06) en n het aantal periodes per jaar.",
+   "faq": [
+    [
+     "Wanneer wordt er ingelegd?",
+     "De tool gaat uit van één inleg aan het einde van elke periode waarin rente wordt bijgeschreven. De inlegfrequentie is dus gelijk aan de frequentie van de rentebijschrijving."
+    ],
+    [
+     "Is dit een voorspelling?",
+     "Nee. Werkelijke rendementen verschillen en zijn niet gegarandeerd."
+    ],
+    [
+     "Wat is samengestelde rente?",
+     "Je krijgt rente over je startbedrag én over de rente die al is bijgeschreven. Daardoor groeit het bedrag steeds sneller; dit heet ook rente op rente."
+    ]
+   ],
+   "good": "De uitkomsten zijn schattingen, geen voorspellingen.",
+   "limits": [
+    "Gaat uit van een vaste rente en één inleg per periode. Kosten, belastingen en inflatie zijn niet meegenomen."
+   ],
+   "disclaimer": "Werkelijke rendementen verschillen en zijn niet gegarandeerd; kosten, belastingen en inflatie zijn niet meegenomen. Deze tool geeft geen financieel advies.",
+   "syn": [
+    "samengestelde rente",
+    "samengestelde rente berekenen",
+    "samengestelde rente calculator",
+    "samengestelde rente rekenmachine",
+    "rente op rente",
+    "rente op rente berekenen",
+    "rente op rente calculator",
+    "sparen berekenen",
+    "spaarrente berekenen",
+    "spaargeld groei berekenen",
+    "vermogensgroei berekenen",
+    "sparen met inleg berekenen",
+    "eindbedrag sparen berekenen"
+   ]
+  },
+  "word-counter": {
+   "file": "woorden-tellen.html",
+   "name": "Woorden tellen",
+   "h1": "Woorden tellen en tekens tellen",
+   "title": "Woorden tellen en tekens tellen – online | ToolsKit",
+   "description": "Tel woorden, tekens (met en zonder spaties), zinnen en alinea’s terwijl je typt, met een schatting van de leestijd. Je tekst wordt niet geüpload.",
+   "card": "Tel woorden, tekens, zinnen en alinea’s in je tekst.",
+   "lead": "Plak of typ een tekst en zie direct het aantal woorden en tekens.",
+   "steps": [
+    [
+     "Tekst toevoegen",
+     "Typ of plak je tekst in het vak."
+    ],
+    [
+     "Lees de aantallen",
+     "Woorden, tekens, zinnen, alinea’s en leestijd worden bijgewerkt terwijl je typt."
+    ],
+    [
+     "Aanpassen en vergelijken",
+     "Pas de tekst aan en de aantallen volgen. Met Herstellen maak je het vak leeg."
+    ]
+   ],
+   "formula": "Woorden zijn groepen tekens gescheiden door spaties of regeleinden. Leestijd = aantal woorden ÷ 200 woorden per minuut, afgerond op hele minuten.",
+   "faq": [
+    [
+     "Hoe worden woorden geteld?",
+     "Als groepen tekens gescheiden door spaties of regeleinden, zoals de meeste tekstverwerkers doen. Een woord met een koppelteken, zoals “e-mail”, telt als één woord."
+    ],
+    [
+     "Tellen regeleinden mee als tekens?",
+     "Ja. Een regeleinde telt als één teken bij “Tekens”. “Tekens zonder spaties” negeert alle spaties, tabs en regeleinden."
+    ],
+    [
+     "Werkt het ook voor Chinees of Japans?",
+     "Die talen worden zonder spaties tussen woorden geschreven, dus het aantal woorden zegt weinig. Gebruik dan het aantal tekens."
+    ],
+    [
+     "Wordt mijn tekst geüpload?",
+     "Nee. Het tellen gebeurt in je browser en de tekst wordt niet naar ToolsKit gestuurd."
+    ]
+   ],
+   "good": "Het aantal zinnen is een benadering: het telt stukken tekst die eindigen op een punt, !, ? of …, dus afkortingen zoals “bijv.” kunnen extra zinnen opleveren. De leestijd gaat uit van ongeveer 200 woorden per minuut.",
+   "limits": [
+    "Woorden worden gescheiden door witruimte, dus het aantal woorden zegt weinig bij talen die zonder spaties worden geschreven (zoals Chinees, Japans of Thais).",
+    "Het aantal zinnen en de leestijd zijn schattingen."
+   ],
+   "syn": [
+    "woorden tellen",
+    "woorden tellen online",
+    "woordenteller",
+    "woorden teller",
+    "tekens tellen",
+    "tekens tellen online",
+    "tekenteller",
+    "tekens teller",
+    "letters tellen",
+    "karakters tellen",
+    "aantal woorden",
+    "aantal woorden tellen",
+    "aantal tekens",
+    "aantal tekens tellen",
+    "woorden en tekens tellen",
+    "tekst tellen",
+    "leestijd berekenen"
+   ]
+  }
+ },
+ "unsupported": [
+  {
+   "label": "PDF-naar-Word-omzetter",
+   "patterns": [
+    "pdf naar word",
+    "pdf naar doc",
+    "pdf naar docx",
+    "pdf omzetten naar word",
+    "pdf converteren naar word",
+    "pdf naar word omzetten",
+    "pdf naar word document",
+    "pdf in word",
+    "pdf bewerkbaar maken"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Word-naar-PDF-omzetter",
+   "patterns": [
+    "word naar pdf",
+    "doc naar pdf",
+    "docx naar pdf",
+    "word omzetten naar pdf",
+    "word document naar pdf",
+    "word opslaan als pdf"
+   ],
+   "related": [
+    "images-to-pdf",
+    "merge-pdf",
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "PDF-naar-Excel-omzetter",
+   "patterns": [
+    "pdf naar excel",
+    "pdf naar xlsx",
+    "pdf naar xls",
+    "pdf naar csv",
+    "pdf naar spreadsheet",
+    "pdf naar tabel",
+    "pdf omzetten naar excel"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Excel-naar-PDF-omzetter",
+   "patterns": [
+    "excel naar pdf",
+    "xlsx naar pdf",
+    "xls naar pdf",
+    "csv naar pdf",
+    "excel omzetten naar pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "PDF-naar-PowerPoint-omzetter",
+   "patterns": [
+    "pdf naar powerpoint",
+    "pdf naar ppt",
+    "pdf naar pptx",
+    "pdf naar presentatie"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "PowerPoint-naar-PDF-omzetter",
+   "patterns": [
+    "powerpoint naar pdf",
+    "ppt naar pdf",
+    "pptx naar pdf",
+    "presentatie naar pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "PDF-naar-JPG-omzetter",
+   "patterns": [
+    "pdf naar jpg",
+    "pdf naar jpeg",
+    "pdf omzetten naar jpg",
+    "pdf converteren naar jpg",
+    "pdf naar jpg omzetten",
+    "pdf als jpg opslaan",
+    "pdf naar foto"
+   ],
+   "related": [
+    "pdf-to-images",
+    "cat:pdf"
+   ],
+   "note": "PDF naar afbeeldingen exporteert PNG-bestanden, geen JPG."
+  },
+  {
+   "label": "PDF-editor",
+   "patterns": [
+    "pdf bewerken",
+    "pdf editor",
+    "pdf tekst bewerken",
+    "pdf tekst wijzigen",
+    "pdf aanpassen",
+    "pdf invullen",
+    "pdf formulier invullen",
+    "pdf annoteren",
+    "pdf commentaar toevoegen"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "tool om pdf’s te ondertekenen",
+   "patterns": [
+    "pdf ondertekenen",
+    "pdf handtekening",
+    "pdf handtekening zetten",
+    "pdf digitaal ondertekenen",
+    "pdf tekenen",
+    "pdf signeren",
+    "elektronische handtekening",
+    "digitale handtekening"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "tool voor pdf-wachtwoorden",
+   "patterns": [
+    "pdf wachtwoord verwijderen",
+    "pdf ontgrendelen",
+    "pdf beveiliging verwijderen",
+    "pdf wachtwoord kraken",
+    "pdf beveiligen",
+    "pdf met wachtwoord beveiligen",
+    "pdf wachtwoord",
+    "pdf versleutelen",
+    "pdf ontsleutelen"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "tool voor tekstherkenning (ocr)",
+   "patterns": [
+    "ocr",
+    "pdf ocr",
+    "tekstherkenning",
+    "tekst herkennen",
+    "afbeelding naar tekst",
+    "foto naar tekst",
+    "pdf naar tekst",
+    "scan naar tekst",
+    "pdf doorzoekbaar maken"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "tool voor watermerken, paginanummers of pagina’s verwijderen in pdf’s",
+   "patterns": [
+    "pdf watermerk",
+    "watermerk pdf",
+    "watermerk toevoegen aan pdf",
+    "pdf paginanummers",
+    "paginanummers toevoegen pdf",
+    "pdf pagina’s verwijderen",
+    "pdf paginas verwijderen",
+    "pdf pagina verwijderen",
+    "pagina’s uit pdf verwijderen",
+    "pdf pagina’s herschikken",
+    "pdf pagina’s sorteren"
+   ],
+   "related": [
+    "split-pdf",
+    "merge-pdf",
+    "rotate-pdf"
+   ]
+  },
+  {
+   "label": "tool om achtergronden uit afbeeldingen te verwijderen",
+   "patterns": [
+    "achtergrond verwijderen",
+    "achtergrond verwijderen foto",
+    "foto achtergrond verwijderen",
+    "afbeelding achtergrond verwijderen",
+    "achtergrond weghalen",
+    "transparante achtergrond"
+   ],
+   "related": []
+  },
+  {
+   "label": "tool om afbeeldingen bij te snijden",
+   "patterns": [
+    "afbeelding bijsnijden",
+    "foto bijsnijden",
+    "afbeelding croppen",
+    "foto croppen",
+    "plaatje bijsnijden"
+   ],
+   "related": []
+  },
+  {
+   "label": "fotobewerker",
+   "patterns": [
+    "foto bewerken",
+    "afbeelding bewerken",
+    "fotobewerking",
+    "fotoeditor",
+    "foto editor",
+    "beeldbewerking",
+    "tekst op foto zetten",
+    "tekst in afbeelding zetten"
+   ],
+   "related": []
+  },
+  {
+   "label": "HEIC-omzetter",
+   "patterns": [
+    "heic naar jpg",
+    "heic naar png",
+    "heic naar jpeg",
+    "heic omzetten",
+    "heic converteren"
+   ],
+   "related": []
+  },
+  {
+   "label": "tool voor SVG of GIF",
+   "patterns": [
+    "svg naar png",
+    "png naar svg",
+    "gif maken",
+    "gif maker",
+    "gif naar mp4",
+    "video naar gif"
+   ],
+   "related": []
+  },
+  {
+   "label": "valutaomrekenaar",
+   "patterns": [
+    "valuta omrekenen",
+    "valutaomrekenaar",
+    "wisselkoers",
+    "wisselkoersen",
+    "euro naar dollar",
+    "dollar naar euro",
+    "euro naar usd",
+    "usd naar euro",
+    "euro naar pond",
+    "pond naar euro"
+   ],
+   "related": [
+    "cat:calc"
+   ]
+  },
+  {
+   "label": "ontwikkelaarstool voor tekst (JSON, Base64, UUID)",
+   "patterns": [
+    "json formatter",
+    "json validator",
+    "json formatteren",
+    "base64",
+    "base64 decode",
+    "base64 encode",
+    "base64 decoderen",
+    "uuid generator",
+    "url encoder",
+    "regex tester"
+   ],
+   "related": []
+  },
+  {
+   "label": "wachtwoordgenerator",
+   "patterns": [
+    "wachtwoord generator",
+    "wachtwoordgenerator",
+    "wachtwoord maken",
+    "willekeurig wachtwoord",
+    "veilig wachtwoord genereren",
+    "sterk wachtwoord maken"
+   ],
+   "related": []
+  },
+  {
+   "label": "lorem-ipsum-generator",
+   "patterns": [
+    "lorem ipsum",
+    "lorem ipsum generator",
+    "dummytekst",
+    "dummy tekst",
+    "nepttekst",
+    "opvultekst"
+   ],
+   "related": []
+  },
+  {
+   "label": "gezondheidsrekenmachine",
+   "patterns": [
+    "bmi berekenen",
+    "bmi calculator",
+    "bmi rekenmachine",
+    "calorieën berekenen",
+    "calorieen berekenen",
+    "caloriebehoefte berekenen",
+    "bmr berekenen",
+    "zwangerschap berekenen",
+    "uitgerekende datum berekenen"
+   ],
+   "related": [
+    "cat:calc"
+   ]
+  },
+  {
+   "label": "datum- of leeftijdsrekenmachine",
+   "patterns": [
+    "leeftijd berekenen",
+    "leeftijd uitrekenen",
+    "dagen tussen twee datums",
+    "aantal dagen tussen datums",
+    "datum berekenen",
+    "datumrekenmachine",
+    "tijdzone omrekenen",
+    "dagen rekenen"
+   ],
+   "related": [
+    "cat:calc"
+   ]
+  },
+  {
+   "label": "salaris- of belastingrekenmachine",
+   "patterns": [
+    "bruto netto berekenen",
+    "bruto netto",
+    "netto bruto",
+    "bruto netto salaris",
+    "salaris berekenen",
+    "netto salaris berekenen",
+    "loonheffing berekenen",
+    "inkomstenbelasting berekenen",
+    "belasting berekenen",
+    "belastingcalculator",
+    "fooi berekenen",
+    "fooi calculator"
+   ],
+   "related": [
+    "vat",
+    "percentage",
+    "cat:calc"
+   ]
+  },
+  {
+   "label": "rekenmachine voor de maximale hypotheek",
+   "patterns": [
+    "maximale hypotheek",
+    "maximale hypotheek berekenen",
+    "hoeveel hypotheek kan ik krijgen",
+    "hypotheek advies",
+    "hypotheekadvies"
+   ],
+   "related": [
+    "loan",
+    "cat:calc"
+   ],
+   "note": "Lening berekenen schat alleen het maandbedrag bij vaste rente en gelijke termijnen; het berekent geen maximale hypotheek en geeft geen hypotheekadvies."
+  },
+  {
+   "label": "barcodegenerator",
+   "patterns": [
+    "barcode generator",
+    "barcode maken",
+    "barcode aanmaken",
+    "streepjescode maken",
+    "ean code generator"
+   ],
+   "related": []
+  },
+  {
+   "label": "QR-codescanner",
+   "patterns": [
+    "qr code scanner",
+    "qr scanner",
+    "qr code lezen",
+    "qr code scannen",
+    "qr code reader",
+    "qr code uitlezen"
+   ],
+   "related": []
+  },
+  {
+   "label": "audio- of videoconverter",
+   "patterns": [
+    "mp4 converter",
+    "mp3 converter",
+    "video converter",
+    "audio converter",
+    "youtube downloader",
+    "video downloader",
+    "youtube naar mp3",
+    "mp4 naar mp3",
+    "video downloaden"
+   ],
+   "related": []
+  },
+  {
+   "label": "vertaaltool",
+   "patterns": [
+    "vertaler",
+    "tekst vertalen",
+    "online vertaler",
+    "engels nederlands vertalen",
+    "nederlands engels vertaler"
+   ],
+   "related": []
+  }
+ ]
+}

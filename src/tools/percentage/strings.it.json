@@ -1,0 +1,23 @@
+{
+  "a_title": "Quanto fa il X% di Y?",
+  "a_pct": "Percentuale (%)",
+  "a_of": "Di questo numero",
+  "a_res": "{p}% di {y} = {r}",
+  "b_title": "X è quanto per cento di Y?",
+  "b_part": "Parte (X)",
+  "b_whole": "Totale (Y)",
+  "b_res": "{x} su {y} = {r}%",
+  "c_title": "Variazione percentuale (aumento o diminuzione)",
+  "c_from": "Da (valore iniziale)",
+  "c_to": "A (valore finale)",
+  "c_up": "Aumento: {r}% (da {f} a {t}, differenza di {d})",
+  "c_down": "Diminuzione: {r}% (da {f} a {t}, differenza di {d})",
+  "c_same": "Nessuna variazione: entrambi i valori sono {f}.",
+  "d_title": "Prezzo dopo uno sconto",
+  "d_price": "Prezzo originale",
+  "d_pct": "Sconto (%)",
+  "d_res": "Prezzo finale: {fin} | Risparmio: {save}",
+  "err_numbers": "Inserisca numeri validi.",
+  "err_zero_whole": "Il totale (Y) non può essere 0.",
+  "err_zero_from": "Il valore iniziale non può essere 0: la variazione percentuale a partire da 0 non è definita."
+}

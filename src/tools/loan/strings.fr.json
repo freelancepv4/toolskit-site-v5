@@ -1,0 +1,8 @@
+{
+  "amount": "Montant emprunté",
+  "rate": "Taux d’intérêt annuel (%)",
+  "term": "Durée (années)",
+  "out_monthly": "Mensualité : {v}",
+  "out_totals": "Total des intérêts : {interest} | Total remboursé : {total}",
+  "err_numbers": "Saisissez des nombres valides."
+}

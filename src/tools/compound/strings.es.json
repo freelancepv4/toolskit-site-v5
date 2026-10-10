@@ -1,0 +1,13 @@
+{
+  "principal": "Capital inicial",
+  "contrib": "Aportación por periodo",
+  "rate": "Tipo de interés anual (%)",
+  "freq": "Capitalización",
+  "freq_m": "Mensual",
+  "freq_q": "Trimestral",
+  "freq_y": "Anual",
+  "years": "Duración de la inversión (años)",
+  "out_final": "Valor final: {v}",
+  "out_totals": "Total aportado: {contrib} | Intereses estimados: {interest}",
+  "err_numbers": "Introduce números válidos."
+}

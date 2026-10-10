@@ -1,0 +1,18 @@
+<div class="panel" style="margin-top:16px">
+    <div id="imgDrop" class="tk-drop"><p class="tk-drop-title">Drag &amp; drop your image here</p><p class="tk-drop-msg">or</p><label class="btn btn-primary">Choose image<input class="tk-vh" type="file" id="imgFile" accept="image/*"></label><p class="tk-drop-msg">Use a JPG, PNG or WebP image.</p></div>
+    <div id="ctrl" class="hidden" style="margin-top:14px">
+      <p class="note" id="origInfo" style="margin-top:0"></p>
+      <div class="row">
+        <div class="field" style="flex:1"><label for="rw">Width (px)</label><input type="number" id="rw" min="1" max="10000" step="1" inputmode="numeric"></div>
+        <div class="field" style="flex:1"><label for="rh">Height (px)</label><input type="number" id="rh" min="1" max="10000" step="1" inputmode="numeric"></div>
+      </div>
+      <label class="tk-check"><input type="checkbox" id="lock" checked> Lock aspect ratio</label>
+      <div class="row">
+        <div class="field" style="flex:2 1 12rem"><label for="rfmt">Save as</label><select id="rfmt"></select></div>
+        <div class="field" style="flex:1 1 7rem" id="rqWrap"><label for="rq">Quality (1–100)</label><input type="number" id="rq" value="90" min="1" max="100" inputmode="numeric"></div>
+      </div>
+      <p class="note" id="rnote" style="margin-top:0" hidden></p>
+      <button class="btn btn-primary" id="go" type="button">Resize image</button>
+      <div class="result" id="out">—</div>
+    </div>
+  </div>

@@ -1,0 +1,275 @@
+{
+ "cls": {
+  "/@390": 0,
+  "/tools/@390": 0,
+  "/pdf-tools/compress-pdf.html@390": 0.006,
+  "/pdf-tools/merge-pdf.html@390": 0.0055,
+  "/pdf-tools/pdf-to-images.html@390": 0.006,
+  "/image-tools/image-resizer.html@390": 0,
+  "/qr-tools/url-qr-code.html@390": 0,
+  "/unit-converter/weight.html@390": 0.0083,
+  "/calculators/vat-calculator.html@390": 0.0075,
+  "/cv-builder/@390": 0,
+  "/social-media-tools/hashtag-generator.html@390": 0,
+  "/about.html@390": 0,
+  "/privacy.html@390": 0,
+  "/pdf-tools/@390": 0,
+  "/@1280": 0,
+  "/tools/@1280": 0,
+  "/pdf-tools/compress-pdf.html@1280": 0.004,
+  "/pdf-tools/merge-pdf.html@1280": 0.0039,
+  "/pdf-tools/pdf-to-images.html@1280": 0.0039,
+  "/image-tools/image-resizer.html@1280": 0,
+  "/qr-tools/url-qr-code.html@1280": 0,
+  "/unit-converter/weight.html@1280": 0.0017,
+  "/calculators/vat-calculator.html@1280": 0.001,
+  "/cv-builder/@1280": 0.0012,
+  "/social-media-tools/hashtag-generator.html@1280": 0,
+  "/about.html@1280": 0,
+  "/privacy.html@1280": 0,
+  "/pdf-tools/@1280": 0
+ },
+ "weight": {
+  "/": {
+   "total": 91860,
+   "js": 41297,
+   "css": 28463,
+   "html": 22100,
+   "other": 0,
+   "requests": 6,
+   "files": {
+    "/": 22100,
+    "/assets/style.css": 28463,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/i18n.js": 1182,
+    "/assets/search.js": 5036,
+    "/assets/main.js": 10608
+   }
+  },
+  "/tools/": {
+   "total": 100537,
+   "js": 41297,
+   "css": 28463,
+   "html": 30777,
+   "other": 0,
+   "requests": 6,
+   "files": {
+    "/assets/style.css": 28463,
+    "/tools/": 30777,
+    "/assets/i18n.js": 1182,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/main.js": 10608,
+    "/assets/search.js": 5036
+   }
+  },
+  "/pdf-tools/compress-pdf.html": {
+   "total": 96908,
+   "js": 54278,
+   "css": 28463,
+   "html": 14167,
+   "other": 0,
+   "requests": 7,
+   "files": {
+    "/pdf-tools/compress-pdf.html": 14167,
+    "/assets/style.css": 28463,
+    "/assets/i18n.js": 1182,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/search.js": 5036,
+    "/assets/main.js": 10608,
+    "/assets/pdf-workspace.js": 12981
+   }
+  },
+  "/pdf-tools/merge-pdf.html": {
+   "total": 96875,
+   "js": 54278,
+   "css": 28463,
+   "html": 14134,
+   "other": 0,
+   "requests": 7,
+   "files": {
+    "/pdf-tools/merge-pdf.html": 14134,
+    "/assets/style.css": 28463,
+    "/assets/i18n.js": 1182,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/search.js": 5036,
+    "/assets/pdf-workspace.js": 12981,
+    "/assets/main.js": 10608
+   }
+  },
+  "/pdf-tools/pdf-to-images.html": {
+   "total": 96912,
+   "js": 54278,
+   "css": 28463,
+   "html": 14171,
+   "other": 0,
+   "requests": 7,
+   "files": {
+    "/pdf-tools/pdf-to-images.html": 14171,
+    "/assets/style.css": 28463,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/i18n.js": 1182,
+    "/assets/search.js": 5036,
+    "/assets/main.js": 10608,
+    "/assets/pdf-workspace.js": 12981
+   }
+  },
+  "/image-tools/image-resizer.html": {
+   "total": 96042,
+   "js": 54006,
+   "css": 28463,
+   "html": 13573,
+   "other": 0,
+   "requests": 8,
+   "files": {
+    "/image-tools/image-resizer.html": 13573,
+    "/assets/style.css": 28463,
+    "/assets/i18n.js": 1182,
+    "/assets/search.js": 5036,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/tool-ui.js": 8485,
+    "/assets/main.js": 10608,
+    "/assets/tools/resize-image.js": 4224
+   }
+  },
+  "/qr-tools/url-qr-code.html": {
+   "total": 112667,
+   "js": 70955,
+   "css": 28463,
+   "html": 13249,
+   "other": 0,
+   "requests": 9,
+   "files": {
+    "/qr-tools/url-qr-code.html": 13249,
+    "/assets/style.css": 28463,
+    "/assets/i18n.js": 1182,
+    "/assets/search.js": 5036,
+    "/assets/vendor/qrcode.min.js": 19927,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/tools/url-qr-code.js": 1246,
+    "/assets/tool-ui.js": 8485,
+    "/assets/main.js": 10608
+   }
+  },
+  "/unit-converter/weight.html": {
+   "total": 91495,
+   "js": 50827,
+   "css": 28463,
+   "html": 12205,
+   "other": 0,
+   "requests": 8,
+   "files": {
+    "/unit-converter/weight.html": 12205,
+    "/assets/style.css": 28463,
+    "/assets/i18n.js": 1182,
+    "/assets/main.js": 10608,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/search.js": 5036,
+    "/assets/tool-ui.js": 8485,
+    "/assets/tools/weight.js": 1045
+   }
+  },
+  "/calculators/vat-calculator.html": {
+   "total": 93982,
+   "js": 50651,
+   "css": 28463,
+   "html": 14868,
+   "other": 0,
+   "requests": 8,
+   "files": {
+    "/assets/style.css": 28463,
+    "/calculators/vat-calculator.html": 14868,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/i18n.js": 1182,
+    "/assets/search.js": 5036,
+    "/assets/main.js": 10608,
+    "/assets/tool-ui.js": 8485,
+    "/assets/tools/vat.js": 869
+   }
+  },
+  "/cv-builder/": {
+   "total": 101566,
+   "js": 56743,
+   "css": 28463,
+   "html": 16360,
+   "other": 0,
+   "requests": 8,
+   "files": {
+    "/cv-builder/": 16360,
+    "/assets/i18n.js": 1182,
+    "/assets/style.css": 28463,
+    "/assets/main.js": 10608,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/tool-ui.js": 8485,
+    "/assets/search.js": 5036,
+    "/assets/tools/cv.js": 6961
+   }
+  },
+  "/social-media-tools/hashtag-generator.html": {
+   "total": 92389,
+   "js": 51224,
+   "css": 28463,
+   "html": 12702,
+   "other": 0,
+   "requests": 8,
+   "files": {
+    "/social-media-tools/hashtag-generator.html": 12702,
+    "/assets/style.css": 28463,
+    "/assets/search.js": 5036,
+    "/assets/main.js": 10608,
+    "/assets/tool-ui.js": 8485,
+    "/assets/i18n.js": 1182,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/tools/hashtag.js": 1442
+   }
+  },
+  "/about.html": {
+   "total": 82581,
+   "js": 41297,
+   "css": 28463,
+   "html": 12821,
+   "other": 0,
+   "requests": 6,
+   "files": {
+    "/assets/style.css": 28463,
+    "/assets/i18n.js": 1182,
+    "/about.html": 12821,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/main.js": 10608,
+    "/assets/search.js": 5036
+   }
+  },
+  "/privacy.html": {
+   "total": 85626,
+   "js": 41297,
+   "css": 28463,
+   "html": 15866,
+   "other": 0,
+   "requests": 6,
+   "files": {
+    "/privacy.html": 15866,
+    "/assets/style.css": 28463,
+    "/assets/i18n.js": 1182,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/main.js": 10608,
+    "/assets/search.js": 5036
+   }
+  },
+  "/pdf-tools/": {
+   "total": 84188,
+   "js": 41297,
+   "css": 28463,
+   "html": 14428,
+   "other": 0,
+   "requests": 6,
+   "files": {
+    "/pdf-tools/": 14428,
+    "/assets/style.css": 28463,
+    "/assets/i18n.js": 1182,
+    "/assets/tk-data-en.js": 24471,
+    "/assets/search.js": 5036,
+    "/assets/main.js": 10608
+   }
+  }
+ },
+ "failures": []
+}

@@ -1,0 +1,765 @@
+{
+  "de": {
+    "merge-pdf": {
+      "primary_query": "pdf zusammenfügen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "compress-pdf": {
+      "primary_query": "pdf komprimieren",
+      "secondary": [
+        "pdf verkleinern"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "split-pdf": {
+      "primary_query": "pdf teilen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "rotate-pdf": {
+      "primary_query": "pdf drehen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "pdf-to-images": {
+      "primary_query": "pdf in jpg",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "images-to-pdf": {
+      "primary_query": "jpg in pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "compress-image": {
+      "primary_query": "bild verkleinern",
+      "secondary": [
+        "bild komprimieren"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "resize-image": {
+      "primary_query": "bildgröße ändern",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "url-qr-code": {
+      "primary_query": "qr code generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "wifi-qr-code": {
+      "primary_query": "wlan qr code",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "percentage": {
+      "primary_query": "prozentrechner",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "vat": {
+      "primary_query": "mehrwertsteuer rechner",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "loan": {
+      "primary_query": "kreditrechner",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "compound": {
+      "primary_query": "zinseszinsrechner",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "cv": {
+      "primary_query": "lebenslauf erstellen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "temperature": {
+      "primary_query": "temperatur umrechnen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "length": {
+      "primary_query": "längenumrechner",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "area": {
+      "primary_query": "quadratmeter umrechnen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "hashtag": {
+      "primary_query": "instagram hashtag generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "bio": {
+      "primary_query": "instagram bio generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "yt-title": {
+      "primary_query": "youtube titel generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    },
+    "convert-image": {
+      "primary_query": "webp in jpg",
+      "secondary": [
+        "webp in png",
+        "heic in jpg"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale de; volumes in opportunity-matrix.csv"
+    }
+  },
+  "fr": {
+    "merge-pdf": {
+      "primary_query": "fusionner pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "compress-pdf": {
+      "primary_query": "compresser pdf",
+      "secondary": [
+        "réduire taille pdf"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "split-pdf": {
+      "primary_query": "diviser pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "rotate-pdf": {
+      "primary_query": "rotation pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "pdf-to-images": {
+      "primary_query": "pdf en jpg",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "images-to-pdf": {
+      "primary_query": "jpg en pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "compress-image": {
+      "primary_query": "compresser image",
+      "secondary": [
+        "réduire taille image"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "resize-image": {
+      "primary_query": "redimensionner image",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "url-qr-code": {
+      "primary_query": "qr code generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "percentage": {
+      "primary_query": "calcul pourcentage",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "vat": {
+      "primary_query": "calcul tva",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "loan": {
+      "primary_query": "simulateur prêt",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "compound": {
+      "primary_query": "intérêts composés",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "cv": {
+      "primary_query": "créer cv",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "temperature": {
+      "primary_query": "convertisseur celsius fahrenheit",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "length": {
+      "primary_query": "convertisseur de longueur",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "area": {
+      "primary_query": "convertisseur mètre carré",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "hashtag": {
+      "primary_query": "générateur hashtag instagram",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    },
+    "convert-image": {
+      "primary_query": "heic en jpg",
+      "secondary": [
+        "webp en jpg",
+        "webp en png"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale fr; volumes in opportunity-matrix.csv"
+    }
+  },
+  "it": {
+    "merge-pdf": {
+      "primary_query": "unire pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "compress-pdf": {
+      "primary_query": "comprimere pdf",
+      "secondary": [
+        "ridurre dimensione pdf"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "split-pdf": {
+      "primary_query": "dividere pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "rotate-pdf": {
+      "primary_query": "ruotare pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "pdf-to-images": {
+      "primary_query": "pdf in jpg",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "images-to-pdf": {
+      "primary_query": "jpg in pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "compress-image": {
+      "primary_query": "comprimere immagini",
+      "secondary": [
+        "ridurre peso foto"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "resize-image": {
+      "primary_query": "ridimensionare immagine",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "url-qr-code": {
+      "primary_query": "generatore qr code",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "percentage": {
+      "primary_query": "calcolo percentuale",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "vat": {
+      "primary_query": "calcolo iva",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "loan": {
+      "primary_query": "calcolo prestito",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "compound": {
+      "primary_query": "interesse composto",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "cv": {
+      "primary_query": "creare curriculum",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "temperature": {
+      "primary_query": "convertitore celsius fahrenheit",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "length": {
+      "primary_query": "convertitore lunghezza",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "area": {
+      "primary_query": "convertitore metri quadri",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "hashtag": {
+      "primary_query": "generatore hashtag instagram",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "bio": {
+      "primary_query": "generatore bio instagram",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    },
+    "convert-image": {
+      "primary_query": "webp in jpg",
+      "secondary": [
+        "webp in png",
+        "heic in jpg"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale it; volumes in opportunity-matrix.csv"
+    }
+  },
+  "es": {
+    "merge-pdf": {
+      "primary_query": "unir pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "compress-pdf": {
+      "primary_query": "comprimir pdf",
+      "secondary": [
+        "reducir tamaño pdf"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "split-pdf": {
+      "primary_query": "dividir pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "rotate-pdf": {
+      "primary_query": "rotar pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "pdf-to-images": {
+      "primary_query": "pdf a jpg",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "images-to-pdf": {
+      "primary_query": "jpg a pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "compress-image": {
+      "primary_query": "comprimir imagen",
+      "secondary": [
+        "reducir tamaño imagen"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "resize-image": {
+      "primary_query": "redimensionar imagen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "url-qr-code": {
+      "primary_query": "generador qr",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "percentage": {
+      "primary_query": "calcular porcentaje",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "vat": {
+      "primary_query": "calculadora iva",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "loan": {
+      "primary_query": "calculadora de préstamos",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "compound": {
+      "primary_query": "interés compuesto",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "cv": {
+      "primary_query": "crear curriculum",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "temperature": {
+      "primary_query": "convertir celsius a fahrenheit",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "length": {
+      "primary_query": "conversor de longitud",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "area": {
+      "primary_query": "convertir metros cuadrados",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "hashtag": {
+      "primary_query": "generador de hashtags instagram",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    },
+    "convert-image": {
+      "primary_query": "heic a jpg",
+      "secondary": [
+        "webp a jpg",
+        "webp a png"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale es; volumes in opportunity-matrix.csv"
+    }
+  },
+  "nl": {
+    "merge-pdf": {
+      "primary_query": "pdf samenvoegen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "compress-pdf": {
+      "primary_query": "pdf verkleinen",
+      "secondary": [
+        "pdf comprimeren"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "split-pdf": {
+      "primary_query": "pdf splitsen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "rotate-pdf": {
+      "primary_query": "pdf roteren",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "pdf-to-images": {
+      "primary_query": "pdf naar jpg",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "images-to-pdf": {
+      "primary_query": "jpg naar pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "compress-image": {
+      "primary_query": "foto verkleinen",
+      "secondary": [
+        "afbeelding comprimeren"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "resize-image": {
+      "primary_query": "afbeelding verkleinen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "url-qr-code": {
+      "primary_query": "qr code generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "percentage": {
+      "primary_query": "percentage berekenen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "vat": {
+      "primary_query": "btw berekenen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "loan": {
+      "primary_query": "lening berekenen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "compound": {
+      "primary_query": "samengestelde rente",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "cv": {
+      "primary_query": "cv maken",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "temperature": {
+      "primary_query": "celsius naar fahrenheit",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "length": {
+      "primary_query": "lengte omrekenen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "area": {
+      "primary_query": "vierkante meter omrekenen",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "hashtag": {
+      "primary_query": "instagram hashtag generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    },
+    "convert-image": {
+      "primary_query": "heic naar jpg",
+      "secondary": [
+        "webp naar jpg",
+        "webp naar png"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale nl; volumes in opportunity-matrix.csv"
+    }
+  },
+  "pl": {
+    "merge-pdf": {
+      "primary_query": "połącz pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "compress-pdf": {
+      "primary_query": "kompresja pdf",
+      "secondary": [
+        "zmniejsz pdf"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "split-pdf": {
+      "primary_query": "podziel pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "rotate-pdf": {
+      "primary_query": "obróć pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "pdf-to-images": {
+      "primary_query": "pdf na jpg",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "images-to-pdf": {
+      "primary_query": "jpg na pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "compress-image": {
+      "primary_query": "kompresja zdjęć",
+      "secondary": [
+        "zmniejsz zdjęcie"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "resize-image": {
+      "primary_query": "zmiana rozmiaru zdjęcia",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "url-qr-code": {
+      "primary_query": "generator kodów qr",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "percentage": {
+      "primary_query": "kalkulator procentowy",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "vat": {
+      "primary_query": "kalkulator vat",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "loan": {
+      "primary_query": "kalkulator kredytowy",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "compound": {
+      "primary_query": "procent składany kalkulator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "cv": {
+      "primary_query": "kreator cv",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "temperature": {
+      "primary_query": "celsjusz na fahrenheit",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "length": {
+      "primary_query": "przelicznik długości",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "area": {
+      "primary_query": "przelicznik metrów kwadratowych",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "hashtag": {
+      "primary_query": "generator hashtagów instagram",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    },
+    "convert-image": {
+      "primary_query": "heic na jpg",
+      "secondary": [
+        "webp na jpg",
+        "webp na png"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale pl; volumes in opportunity-matrix.csv"
+    }
+  },
+  "en-GB": {
+    "merge-pdf": {
+      "primary_query": "merge pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "compress-pdf": {
+      "primary_query": "compress pdf",
+      "secondary": [
+        "reduce pdf size"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "split-pdf": {
+      "primary_query": "split pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "rotate-pdf": {
+      "primary_query": "rotate pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "pdf-to-images": {
+      "primary_query": "pdf to jpg",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "images-to-pdf": {
+      "primary_query": "jpg to pdf",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "compress-image": {
+      "primary_query": "compress image",
+      "secondary": [
+        "compress image to 100kb"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "resize-image": {
+      "primary_query": "resize image",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "url-qr-code": {
+      "primary_query": "qr code generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "wifi-qr-code": {
+      "primary_query": "wifi qr code generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "percentage": {
+      "primary_query": "percentage calculator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "vat": {
+      "primary_query": "vat calculator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "loan": {
+      "primary_query": "loan calculator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "compound": {
+      "primary_query": "compound interest calculator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "cv": {
+      "primary_query": "cv maker",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "temperature": {
+      "primary_query": "celsius to fahrenheit",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "length": {
+      "primary_query": "unit converter",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "area": {
+      "primary_query": "square meters to square feet",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "hashtag": {
+      "primary_query": "instagram hashtag generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "bio": {
+      "primary_query": "instagram bio generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "yt-title": {
+      "primary_query": "youtube title generator",
+      "secondary": [],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    },
+    "convert-image": {
+      "primary_query": "heic to jpg",
+      "secondary": [
+        "webp to jpg",
+        "webp to png"
+      ],
+      "source": "OpenSEO get_keyword_metrics 2026-10-10, locale en-GB; volumes in opportunity-matrix.csv"
+    }
+  }
+}

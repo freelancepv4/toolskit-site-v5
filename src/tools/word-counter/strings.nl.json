@@ -1,0 +1,12 @@
+{
+  "label": "Jouw tekst",
+  "placeholder": "Typ of plak hier je tekst…",
+  "words": "Woorden",
+  "chars": "Tekens",
+  "chars_ns": "Tekens zonder spaties",
+  "sentences": "Zinnen",
+  "paragraphs": "Alinea’s",
+  "reading": "Leestijd",
+  "read_lt1": "minder dan 1 min",
+  "read_n": "ongeveer {n} min"
+}

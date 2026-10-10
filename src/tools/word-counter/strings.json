@@ -1,0 +1,14 @@
+{
+ "en": {
+  "label": "Your text",
+  "placeholder": "Type or paste your text here…",
+  "words": "Words",
+  "chars": "Characters",
+  "chars_ns": "Characters without spaces",
+  "sentences": "Sentences",
+  "paragraphs": "Paragraphs",
+  "reading": "Reading time",
+  "read_lt1": "under 1 min",
+  "read_n": "about {n} min"
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "en": {
+  "amount": "Loan amount",
+  "rate": "Annual interest rate (%)",
+  "term": "Term (years)",
+  "out_monthly": "Monthly payment: {v}",
+  "out_totals": "Total interest: {interest} | Total repayment: {total}",
+  "err_numbers": "Enter valid numbers."
+ }
+}

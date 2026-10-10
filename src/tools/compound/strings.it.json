@@ -1,0 +1,13 @@
+{
+  "principal": "Capitale iniziale",
+  "contrib": "Versamento per periodo",
+  "rate": "Tasso di interesse annuo (%)",
+  "freq": "Frequenza di capitalizzazione",
+  "freq_m": "Mensile",
+  "freq_q": "Trimestrale",
+  "freq_y": "Annuale",
+  "years": "Durata dell’investimento (anni)",
+  "out_final": "Montante finale: {v}",
+  "out_totals": "Totale versato: {contrib} | Interessi stimati: {interest}",
+  "err_numbers": "Inserisca numeri validi."
+}

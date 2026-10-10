@@ -1,0 +1,51 @@
+<section class="hero" aria-labelledby="h1"><div class="wrap">
+<h1 id="h1">Darmowe narzędzia online do codziennych zadań.</h1>
+<p>Połącz, podziel i skompresuj PDF, policz procenty, VAT i ratę kredytu, sprawdź liczbę słów i znaków – w przeglądarce i bez konta.</p>
+<div class="cta-row"><a class="btn btn-primary" href="{{u.tools}}">Zobacz wszystkie narzędzia ({{tool_count}})</a><a class="btn btn-secondary" href="#popular">Popularne narzędzia</a></div>
+</div></section>
+
+<section class="search-sec" id="search" aria-labelledby="sh"><div class="wrap">
+<h2 id="sh">Co trzeba zrobić?</h2>
+{{{search_box}}}
+<ul class="chips" aria-label="Popularne zadania">{{{task_chips}}}</ul></div></section>
+
+<section id="popular" aria-labelledby="ph"><div class="wrap">
+<h2 id="ph">Popularne narzędzia</h2>
+{{{popular_grid}}}</div></section>
+
+<section id="categories" aria-labelledby="ch"><div class="wrap">
+<h2 id="ch">Kategorie</h2>
+<div class="cat-grid">{{{category_cards}}}</div></div></section>
+
+<section aria-labelledby="wh"><div class="wrap">
+<h2 id="wh">Dlaczego ToolsKit</h2>
+<ul class="pts">
+<li><h3>Od razu do narzędzia</h3><p>Każde zadanie ma własną stronę, a narzędzie znajduje się na samej górze.</p></li>
+<li><h3>Prosto</h3><p>Czytelne interfejsy do codziennych zadań, a ograniczenia opisane wprost.</p></li>
+<li><h3>Działa w przeglądarce</h3><p>Pliki i wpisane dane są przetwarzane na urządzeniu i nie są przesyłane do ToolsKit.</p></li>
+<li><h3>Bez konta</h3><p>Żadne z obecnych narzędzi nie wymaga rejestracji, a wszystkie są darmowe.</p></li>
+</ul></div></section>
+
+<section aria-labelledby="hw"><div class="wrap">
+<h2 id="hw">Jak to działa</h2>
+<ol class="pts">
+<li><span class="step-n">01</span><h3>Wybierz narzędzie</h3><p>Skorzystaj z wyszukiwarki albo wybierz kategorię.</p></li>
+<li><span class="step-n">02</span><h3>Wykonaj zadanie</h3><p>Dodaj plik albo wpisz wartości.</p></li>
+<li><span class="step-n">03</span><h3>Odbierz wynik</h3><p>Pobierz go, skopiuj albo od razu odczytaj.</p></li>
+</ol></div></section>
+
+<section aria-labelledby="pv"><div class="wrap"><div class="panel" style="max-width:none">
+<h2 id="pv" style="margin-top:0">Prywatność od początku.</h2>
+<p style="margin:0 0 var(--s3)">Dodane pliki są przetwarzane w przeglądarce i nie są przesyłane do ToolsKit. Biblioteki PDF i QR są udostępniane z własnej witryny ToolsKit, a nie z zewnętrznego CDN.</p>
+<p class="note" style="margin:0">Szczegóły znajdują się w <a href="{{u.privacy}}">Polityce prywatności</a>.</p>
+</div></div></section>
+
+<section aria-labelledby="fh"><div class="wrap">
+<div style="max-width:48rem">{{{faq}}}</div></div></section>
+
+{{{language_chooser}}}
+
+<section class="cta-sec" aria-labelledby="ct"><div class="wrap">
+<h2 id="ct">Znajdź potrzebne narzędzie.</h2>
+<div class="cta-row"><a class="btn btn-primary" href="#search">Szukaj narzędzi</a><a class="btn btn-secondary" href="#categories">Przeglądaj kategorie</a></div>
+</div></section>

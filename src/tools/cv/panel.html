@@ -1,0 +1,38 @@
+<div id="cvGrid" class="cv-grid" data-view="edit">
+  <div class="cv-switch" role="group" aria-label="CV builder view">
+    <button type="button" class="btn btn-secondary" id="cvTabEdit" aria-pressed="true" aria-controls="cvEdit">Edit</button>
+    <button type="button" class="btn btn-secondary" id="cvTabPrev" aria-pressed="false" aria-controls="cvPreviewWrap">Preview</button>
+  </div>
+  <section class="panel" id="cvEdit" aria-labelledby="cvEditH">
+    <h2 id="cvEditH" class="cv-h" tabindex="-1">Your details</h2>
+    <div class="row">
+      <div class="field" style="flex:1"><label for="cvName">Full name</label><input type="text" id="cvName" autocomplete="name" placeholder="Jane Doe"></div>
+      <div class="field" style="flex:1"><label for="cvTitle">Job title</label><input type="text" id="cvTitle" autocomplete="organization-title" placeholder="Product Designer"></div>
+    </div>
+    <div class="row">
+      <div class="field" style="flex:1"><label for="cvEmail">Email</label><input type="email" id="cvEmail" autocomplete="email" placeholder="jane@example.com"></div>
+      <div class="field" style="flex:1"><label for="cvPhone">Phone</label><input type="tel" id="cvPhone" autocomplete="tel" placeholder="+1 555 123 4567"></div>
+      <div class="field" style="flex:1"><label for="cvLocation">Location</label><input type="text" id="cvLocation" autocomplete="address-level2" placeholder="London, UK"></div>
+    </div>
+    <div class="field"><label for="cvSummary">Professional summary</label><textarea id="cvSummary" rows="3"></textarea></div>
+    <div class="field"><label for="cvSkills">Skills (comma separated)</label><input type="text" id="cvSkills" placeholder="Figma, User research, Prototyping"></div>
+    <h3 class="cv-sub">Experience</h3>
+    <div id="cvExpList"></div>
+    <button class="btn btn-secondary" id="cvAddExp" type="button">+ Add experience</button>
+    <h3 class="cv-sub">Education</h3>
+    <div id="cvEduList"></div>
+    <button class="btn btn-secondary" id="cvAddEdu" type="button">+ Add education</button>
+    <div class="cv-actions">
+      <button class="btn btn-primary" id="cvPrint" type="button">Print / Save as PDF</button>
+      <button class="btn btn-secondary cv-only-small" id="cvSeePrev" type="button">Preview CV</button>
+      <button class="btn btn-secondary" id="cvSave" type="button">Save draft</button>
+      <button class="btn btn-secondary" id="cvClear" type="button">Clear draft</button>
+    </div>
+    <p class="note" id="cvSaveStatus" role="status"></p><p class="note">Print / Save as PDF opens your browser’s print dialog. Choose “Save as PDF” as the destination.</p>
+  </section>
+  <section id="cvPreviewWrap" aria-labelledby="cvPrevH">
+    <h2 id="cvPrevH" class="cv-h cv-noprint" tabindex="-1">Live preview</h2>
+    <div class="panel cv-sheet" id="cvPreview"></div>
+    <div class="cv-actions cv-only-small cv-noprint"><button class="btn btn-secondary" id="cvBackEdit" type="button">Back to editing</button><button class="btn btn-primary" id="cvPrint2" type="button">Print / Save as PDF</button></div>
+  </section>
+</div>

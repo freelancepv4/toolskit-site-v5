@@ -1,0 +1,47 @@
+legacy_url (v3),legacy_canonical (v3),tool_id,category,new_url,canonical,status
+/index.html,/index.html,,,/,https://toolskit-site-v5.vercel.app/,canonicalised: / is canonical; /index.html 308-redirects
+/tools/index.html,/tools/index.html,,,/tools/,https://toolskit-site-v5.vercel.app/tools/,canonicalised: folder URL is canonical; /tools/index.html 308-redirects
+/tools.html,(noindex leftover),,,/tools/,https://toolskit-site-v5.vercel.app/tools/,removed file; 308-redirects to /tools/
+/about.html,/about.html,,,/about.html,https://toolskit-site-v5.vercel.app/about.html,unchanged
+—,—,,,/privacy.html,https://toolskit-site-v5.vercel.app/privacy.html,new
+—,—,,,/terms.html,https://toolskit-site-v5.vercel.app/terms.html,new
+—,—,,,/contact.html,https://toolskit-site-v5.vercel.app/contact.html,new
+—,—,,,/404.html,(noindex),new (served for unknown URLs)
+/pdf-tools/index.html,/pdf-tools/index.html,,pdf,/pdf-tools/,https://toolskit-site-v5.vercel.app/pdf-tools/,canonicalised: folder URL is canonical; /index.html 308-redirects
+/image-tools/index.html,/image-tools/index.html,,image,/image-tools/,https://toolskit-site-v5.vercel.app/image-tools/,canonicalised: folder URL is canonical; /index.html 308-redirects
+/qr-tools/index.html,/qr-tools/index.html,,qr,/qr-tools/,https://toolskit-site-v5.vercel.app/qr-tools/,canonicalised: folder URL is canonical; /index.html 308-redirects
+/unit-converter/index.html,/unit-converter/index.html,,conv,/unit-converter/,https://toolskit-site-v5.vercel.app/unit-converter/,canonicalised: folder URL is canonical; /index.html 308-redirects
+/calculators/index.html,/calculators/index.html,,calc,/calculators/,https://toolskit-site-v5.vercel.app/calculators/,canonicalised: folder URL is canonical; /index.html 308-redirects
+/social-media-tools/index.html,/social-media-tools/index.html,,soc,/social-media-tools/,https://toolskit-site-v5.vercel.app/social-media-tools/,canonicalised: folder URL is canonical; /index.html 308-redirects
+/pdf-tools/merge-pdf.html,https://toolskit-site-v5.vercel.app/pdf-tools/merge-pdf.html,merge-pdf,pdf,/pdf-tools/merge-pdf.html,https://toolskit-site-v5.vercel.app/pdf-tools/merge-pdf.html,unchanged
+/pdf-tools/split-pdf.html,https://toolskit-site-v5.vercel.app/pdf-tools/split-pdf.html,split-pdf,pdf,/pdf-tools/split-pdf.html,https://toolskit-site-v5.vercel.app/pdf-tools/split-pdf.html,unchanged
+/pdf-tools/rotate-pdf.html,https://toolskit-site-v5.vercel.app/pdf-tools/rotate-pdf.html,rotate-pdf,pdf,/pdf-tools/rotate-pdf.html,https://toolskit-site-v5.vercel.app/pdf-tools/rotate-pdf.html,unchanged
+/pdf-tools/compress-pdf.html,https://toolskit-site-v5.vercel.app/pdf-tools/compress-pdf.html,compress-pdf,pdf,/pdf-tools/compress-pdf.html,https://toolskit-site-v5.vercel.app/pdf-tools/compress-pdf.html,unchanged
+/pdf-tools/pdf-to-images.html,https://toolskit-site-v5.vercel.app/pdf-tools/pdf-to-images.html,pdf-to-images,pdf,/pdf-tools/pdf-to-images.html,https://toolskit-site-v5.vercel.app/pdf-tools/pdf-to-images.html,unchanged
+/pdf-tools/images-to-pdf.html,https://toolskit-site-v5.vercel.app/pdf-tools/images-to-pdf.html,images-to-pdf,pdf,/pdf-tools/images-to-pdf.html,https://toolskit-site-v5.vercel.app/pdf-tools/images-to-pdf.html,unchanged
+/image-tools/image-compressor.html,https://toolskit-site-v5.vercel.app/image-tools/image-compressor.html,compress-image,image,/image-tools/image-compressor.html,https://toolskit-site-v5.vercel.app/image-tools/image-compressor.html,unchanged
+/image-tools/image-resizer.html,https://toolskit-site-v5.vercel.app/image-tools/image-resizer.html,resize-image,image,/image-tools/image-resizer.html,https://toolskit-site-v5.vercel.app/image-tools/image-resizer.html,unchanged
+/image-tools/image-converter.html,https://toolskit-site-v5.vercel.app/image-tools/image-converter.html,convert-image,image,/image-tools/image-converter.html,https://toolskit-site-v5.vercel.app/image-tools/image-converter.html,unchanged
+/qr-tools/url-qr-code.html,https://toolskit-site-v5.vercel.app/qr-tools/url-qr-code.html,url-qr-code,qr,/qr-tools/url-qr-code.html,https://toolskit-site-v5.vercel.app/qr-tools/url-qr-code.html,unchanged
+/qr-tools/wifi-qr-code.html,https://toolskit-site-v5.vercel.app/qr-tools/wifi-qr-code.html,wifi-qr-code,qr,/qr-tools/wifi-qr-code.html,https://toolskit-site-v5.vercel.app/qr-tools/wifi-qr-code.html,unchanged
+/qr-tools/email-qr-code.html,https://toolskit-site-v5.vercel.app/qr-tools/email-qr-code.html,email-qr-code,qr,/qr-tools/email-qr-code.html,https://toolskit-site-v5.vercel.app/qr-tools/email-qr-code.html,unchanged
+/qr-tools/phone-qr-code.html,https://toolskit-site-v5.vercel.app/qr-tools/phone-qr-code.html,phone-qr-code,qr,/qr-tools/phone-qr-code.html,https://toolskit-site-v5.vercel.app/qr-tools/phone-qr-code.html,unchanged
+/qr-tools/contact-qr-code.html,https://toolskit-site-v5.vercel.app/qr-tools/contact-qr-code.html,contact-qr-code,qr,/qr-tools/contact-qr-code.html,https://toolskit-site-v5.vercel.app/qr-tools/contact-qr-code.html,unchanged
+/unit-converter/length.html,https://toolskit-site-v5.vercel.app/unit-converter/length.html,length,conv,/unit-converter/length.html,https://toolskit-site-v5.vercel.app/unit-converter/length.html,unchanged
+/unit-converter/weight.html,https://toolskit-site-v5.vercel.app/unit-converter/weight.html,weight,conv,/unit-converter/weight.html,https://toolskit-site-v5.vercel.app/unit-converter/weight.html,unchanged
+/unit-converter/temperature.html,https://toolskit-site-v5.vercel.app/unit-converter/temperature.html,temperature,conv,/unit-converter/temperature.html,https://toolskit-site-v5.vercel.app/unit-converter/temperature.html,unchanged
+/unit-converter/area.html,https://toolskit-site-v5.vercel.app/unit-converter/area.html,area,conv,/unit-converter/area.html,https://toolskit-site-v5.vercel.app/unit-converter/area.html,unchanged
+/unit-converter/volume.html,https://toolskit-site-v5.vercel.app/unit-converter/volume.html,volume,conv,/unit-converter/volume.html,https://toolskit-site-v5.vercel.app/unit-converter/volume.html,unchanged
+/unit-converter/speed.html,https://toolskit-site-v5.vercel.app/unit-converter/speed.html,speed,conv,/unit-converter/speed.html,https://toolskit-site-v5.vercel.app/unit-converter/speed.html,unchanged
+/text-tools/word-counter.html,https://toolskit-site-v5.vercel.app/text-tools/word-counter.html,word-counter,text,/text-tools/word-counter.html,https://toolskit-site-v5.vercel.app/text-tools/word-counter.html,unchanged
+/calculators/percentage-calculator.html,https://toolskit-site-v5.vercel.app/calculators/percentage-calculator.html,percentage,calc,/calculators/percentage-calculator.html,https://toolskit-site-v5.vercel.app/calculators/percentage-calculator.html,unchanged
+/calculators/percentage-discount-calculator.html,https://toolskit-site-v5.vercel.app/calculators/percentage-discount-calculator.html,percentage,calc,/calculators/percentage-calculator.html,https://toolskit-site-v5.vercel.app/calculators/percentage-calculator.html,renamed: the old URL 308-redirects to the new one
+/calculators/vat-calculator.html,https://toolskit-site-v5.vercel.app/calculators/vat-calculator.html,vat,calc,/calculators/vat-calculator.html,https://toolskit-site-v5.vercel.app/calculators/vat-calculator.html,unchanged
+/calculators/loan-mortgage-calculator.html,https://toolskit-site-v5.vercel.app/calculators/loan-mortgage-calculator.html,loan,calc,/calculators/loan-mortgage-calculator.html,https://toolskit-site-v5.vercel.app/calculators/loan-mortgage-calculator.html,unchanged
+/calculators/compound-interest-calculator.html,https://toolskit-site-v5.vercel.app/calculators/compound-interest-calculator.html,compound,calc,/calculators/compound-interest-calculator.html,https://toolskit-site-v5.vercel.app/calculators/compound-interest-calculator.html,unchanged
+/cv-builder/index.html,https://toolskit-site-v5.vercel.app/cv-builder/index.html,cv,cv,/cv-builder/,https://toolskit-site-v5.vercel.app/cv-builder/,canonicalised: folder URL is canonical; /index.html 308-redirects
+/social-media-tools/instagram-caption-generator.html,https://toolskit-site-v5.vercel.app/social-media-tools/instagram-caption-generator.html,instagram,soc,/social-media-tools/instagram-caption-generator.html,https://toolskit-site-v5.vercel.app/social-media-tools/instagram-caption-generator.html,unchanged
+/social-media-tools/hashtag-generator.html,https://toolskit-site-v5.vercel.app/social-media-tools/hashtag-generator.html,hashtag,soc,/social-media-tools/hashtag-generator.html,https://toolskit-site-v5.vercel.app/social-media-tools/hashtag-generator.html,unchanged
+/social-media-tools/youtube-title-generator.html,https://toolskit-site-v5.vercel.app/social-media-tools/youtube-title-generator.html,yt-title,soc,/social-media-tools/youtube-title-generator.html,https://toolskit-site-v5.vercel.app/social-media-tools/youtube-title-generator.html,unchanged
+/social-media-tools/youtube-description-generator.html,https://toolskit-site-v5.vercel.app/social-media-tools/youtube-description-generator.html,yt-desc,soc,/social-media-tools/youtube-description-generator.html,https://toolskit-site-v5.vercel.app/social-media-tools/youtube-description-generator.html,unchanged
+/social-media-tools/social-bio-generator.html,https://toolskit-site-v5.vercel.app/social-media-tools/social-bio-generator.html,bio,soc,/social-media-tools/social-bio-generator.html,https://toolskit-site-v5.vercel.app/social-media-tools/social-bio-generator.html,unchanged

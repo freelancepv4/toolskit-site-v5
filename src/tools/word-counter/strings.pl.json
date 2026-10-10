@@ -1,0 +1,12 @@
+{
+  "label": "Tekst",
+  "placeholder": "Wpisz lub wklej tekst tutaj…",
+  "words": "Słowa",
+  "chars": "Znaki",
+  "chars_ns": "Znaki bez spacji",
+  "sentences": "Zdania",
+  "paragraphs": "Akapity",
+  "reading": "Czas czytania",
+  "read_lt1": "poniżej 1 min",
+  "read_n": "około {n} min"
+}

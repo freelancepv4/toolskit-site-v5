@@ -1,0 +1,12 @@
+{
+  "label": "Il suo testo",
+  "placeholder": "Digiti o incolli qui il testo…",
+  "words": "Parole",
+  "chars": "Caratteri",
+  "chars_ns": "Caratteri senza spazi",
+  "sentences": "Frasi",
+  "paragraphs": "Paragrafi",
+  "reading": "Tempo di lettura",
+  "read_lt1": "meno di 1 min",
+  "read_n": "circa {n} min"
+}

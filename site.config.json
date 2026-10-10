@@ -1,0 +1,59 @@
+{
+  "name": "ToolsKit",
+  "siteUrl": "https://toolskit-site-v5.vercel.app",
+  "siteUrlConfirmed": false,
+  "urlStyle": "html",
+  "defaultLanguage": "en",
+  "languages": [
+    {
+      "code": "en",
+      "label": "English",
+      "enabled": true
+    },
+    {
+      "code": "de",
+      "label": "Deutsch",
+      "enabled": true
+    },
+    {
+      "code": "fr",
+      "label": "Français",
+      "enabled": true
+    },
+    {
+      "code": "it",
+      "label": "Italiano",
+      "enabled": true
+    },
+    {
+      "code": "es",
+      "label": "Español",
+      "enabled": true
+    },
+    {
+      "code": "nl",
+      "label": "Nederlands",
+      "enabled": true
+    },
+    {
+      "code": "pl",
+      "label": "Polski",
+      "enabled": true
+    }
+  ],
+  "contactEmail": "contact@weathercompare.eu",
+  "operatorName": "ToolsKit Administration",
+  "lastUpdated": "2026-10-10",
+  "analytics": {
+    "enabled": false,
+    "ga4": ""
+  },
+  "_notes": {
+    "siteUrl": "Single source for every canonical, Open Graph, sitemap and structured-data URL. Currently the Vercel STAGING address. The permanent production domain is not decided; set it here (and siteUrlConfirmed) when it is. Override at build time with SITE_URL.",
+    "urlStyle": "'html' keeps the existing .html URLs. 'clean' drops .html (Vercel cleanUrls). Same pages, no duplicates: canonicals and redirects follow this setting.",
+    "contactEmail": "Staging value supplied by the site owner. Shown on the Contact page and in Privacy/Terms. Confirm before production.",
+    "operatorName": "Staging label supplied by the site owner. It is a label, not a registered legal entity: no company number, address or legal form is stated anywhere.",
+    "languages": "A language is built only when enabled here AND it has src/locales/<code>.json and src/data/tools.<code>.json. A language lists only the tools it has localized; other tools stay English-only. hreflang is emitted only between pages that really exist in both languages."
+  },
+  "frameAncestors": "'none'"
+}

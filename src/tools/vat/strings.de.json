@@ -1,0 +1,11 @@
+{
+  "amount": "Betrag",
+  "rate": "Mehrwertsteuersatz (%)",
+  "rate_default": "19",
+  "rate_help": "Geben Sie den Mehrwertsteuersatz ein, der für Sie gilt (es gibt auch einen ermäßigten Satz). 19 ist nur ein Startwert.",
+  "dir": "Richtung",
+  "dir_add": "Netto → Brutto",
+  "dir_remove": "Brutto → Netto (herausrechnen)",
+  "out": "Netto: {net} | MwSt.: {vat} | Brutto: {gross}",
+  "err_numbers": "Geben Sie gültige Zahlen ein."
+}

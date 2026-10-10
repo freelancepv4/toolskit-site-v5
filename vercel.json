@@ -1,0 +1,248 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "outputDirectory": "dist",
+  "cleanUrls": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tools.html",
+      "destination": "/tools/",
+      "permanent": true
+    },
+    {
+      "source": "/tools/index.html",
+      "destination": "/tools/",
+      "permanent": true
+    },
+    {
+      "source": "/pdf-tools/index.html",
+      "destination": "/pdf-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/image-tools/index.html",
+      "destination": "/image-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/qr-tools/index.html",
+      "destination": "/qr-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/unit-converter/index.html",
+      "destination": "/unit-converter/",
+      "permanent": true
+    },
+    {
+      "source": "/calculators/index.html",
+      "destination": "/calculators/",
+      "permanent": true
+    },
+    {
+      "source": "/cv-builder/index.html",
+      "destination": "/cv-builder/",
+      "permanent": true
+    },
+    {
+      "source": "/social-media-tools/index.html",
+      "destination": "/social-media-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/calculators/percentage-discount-calculator.html",
+      "destination": "/calculators/percentage-calculator.html",
+      "permanent": true
+    },
+    {
+      "source": "/de/index.html",
+      "destination": "/de/",
+      "permanent": true
+    },
+    {
+      "source": "/de/werkzeuge/index.html",
+      "destination": "/de/werkzeuge/",
+      "permanent": true
+    },
+    {
+      "source": "/de/pdf-werkzeuge/index.html",
+      "destination": "/de/pdf-werkzeuge/",
+      "permanent": true
+    },
+    {
+      "source": "/de/rechner/index.html",
+      "destination": "/de/rechner/",
+      "permanent": true
+    },
+    {
+      "source": "/de/rechner/percentage-discount-calculator.html",
+      "destination": "/de/rechner/prozentrechner.html",
+      "permanent": true
+    },
+    {
+      "source": "/fr/index.html",
+      "destination": "/fr/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/outils/index.html",
+      "destination": "/fr/outils/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/outils-pdf/index.html",
+      "destination": "/fr/outils-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/calculateurs/index.html",
+      "destination": "/fr/calculateurs/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/calculateurs/percentage-discount-calculator.html",
+      "destination": "/fr/calculateurs/calcul-pourcentage.html",
+      "permanent": true
+    },
+    {
+      "source": "/it/index.html",
+      "destination": "/it/",
+      "permanent": true
+    },
+    {
+      "source": "/it/strumenti/index.html",
+      "destination": "/it/strumenti/",
+      "permanent": true
+    },
+    {
+      "source": "/it/strumenti-pdf/index.html",
+      "destination": "/it/strumenti-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/it/calcolatori/index.html",
+      "destination": "/it/calcolatori/",
+      "permanent": true
+    },
+    {
+      "source": "/it/calcolatori/percentage-discount-calculator.html",
+      "destination": "/it/calcolatori/calcolo-percentuale.html",
+      "permanent": true
+    },
+    {
+      "source": "/es/index.html",
+      "destination": "/es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/herramientas/index.html",
+      "destination": "/es/herramientas/",
+      "permanent": true
+    },
+    {
+      "source": "/es/herramientas-pdf/index.html",
+      "destination": "/es/herramientas-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/es/calculadoras/index.html",
+      "destination": "/es/calculadoras/",
+      "permanent": true
+    },
+    {
+      "source": "/es/calculadoras/percentage-discount-calculator.html",
+      "destination": "/es/calculadoras/calculadora-de-porcentajes.html",
+      "permanent": true
+    },
+    {
+      "source": "/nl/index.html",
+      "destination": "/nl/",
+      "permanent": true
+    },
+    {
+      "source": "/nl/tools/index.html",
+      "destination": "/nl/tools/",
+      "permanent": true
+    },
+    {
+      "source": "/nl/pdf-tools/index.html",
+      "destination": "/nl/pdf-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/nl/rekentools/index.html",
+      "destination": "/nl/rekentools/",
+      "permanent": true
+    },
+    {
+      "source": "/nl/rekentools/percentage-discount-calculator.html",
+      "destination": "/nl/rekentools/percentage-berekenen.html",
+      "permanent": true
+    },
+    {
+      "source": "/pl/index.html",
+      "destination": "/pl/",
+      "permanent": true
+    },
+    {
+      "source": "/pl/narzedzia/index.html",
+      "destination": "/pl/narzedzia/",
+      "permanent": true
+    },
+    {
+      "source": "/pl/narzedzia-pdf/index.html",
+      "destination": "/pl/narzedzia-pdf/",
+      "permanent": true
+    },
+    {
+      "source": "/pl/kalkulatory/index.html",
+      "destination": "/pl/kalkulatory/",
+      "permanent": true
+    },
+    {
+      "source": "/pl/kalkulatory/percentage-discount-calculator.html",
+      "destination": "/pl/kalkulatory/kalkulator-procentowy.html",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=()"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' blob: data:; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        }
+      ]
+    },
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}

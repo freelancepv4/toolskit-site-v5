@@ -1,0 +1,291 @@
+{
+  "_comment": "English interface strings (the base). To add a language: copy this file to <code>.json and translate every value; add src/content/<code>/*.html, src/data/tools.<code>.json and the per-tool strings; enable it in site.config.json. Every key must exist in every language (the build fails otherwise).",
+  "home": "Home",
+  "nav_all": "All tools",
+  "nav_main": "Main",
+  "menu": "Menu",
+  "skip": "Skip to content",
+  "breadcrumb": "Breadcrumb",
+  "about": "About",
+  "contact": "Contact",
+  "privacy": "Privacy",
+  "terms": "Terms",
+  "footer_tools": "Tools",
+  "footer_info": "Information",
+  "footer_legal": "Legal",
+  "tagline": "Free online tools for everyday tasks that run in your browser.",
+  "footer_asis": "Free tools, provided as-is.",
+  "search_label": "Search tools",
+  "search_ph_short": "Search tools…",
+  "search_ph_long": "Search tools, e.g. compress pdf, vat, kg to lb",
+  "open": "Open tool",
+  "results": "Tool results",
+  "related": "Related tools",
+  "browse_all": "Browse all tools →",
+  "browse_all_plain": "Browse all tools",
+  "see_all": "See all {n} matching tools →",
+  "found": "{n} tools found",
+  "none_msg": "No tool currently matches this request.",
+  "badge_file": "Files stay in your browser",
+  "badge_input": "Runs in your browser",
+  "needs_js": "This tool needs JavaScript to run in your browser.",
+  "estimate_label": "Estimate only.",
+  "how": "How it works",
+  "calc_h": "How it is calculated",
+  "limits": "Limits",
+  "privacy_h": "Privacy",
+  "privacy_link": "Read the Privacy Policy.",
+  "good": "Good to know",
+  "faq": "FAQ",
+  "tools_in": "Tools in {name}",
+  "other_cats": "Explore other categories",
+  "all": "All",
+  "all_intro": "Search by what you want to do, or filter by category.",
+  "filter_cat": "Filter by category",
+  "recent": "Recently used",
+  "recent_note": "Remembered on this device only.",
+  "clear": "Clear",
+  "popular": "Popular tools",
+  "all_title": "All Tools — Free Online Tools | ToolsKit",
+  "all_desc": "Search or browse every ToolsKit tool: PDF, image, QR code, unit converters, calculators, CV builder and social media generators. Free, no account required.",
+  "lib_names": {
+    "pdf-lib": "pdf-lib",
+    "pdf.js": "PDF.js",
+    "jszip": "JSZip",
+    "qrcodejs": "qrcodejs"
+  },
+  "lib_full": {
+    "pdf-lib": "pdf-lib 1.17.1 (MIT licence) — creates and edits PDF files.",
+    "pdf.js": "PDF.js 3.11.174 (Apache-2.0 licence) — renders PDF pages to images.",
+    "jszip": "JSZip 3.10.1 (MIT or GPL-3.0 licence) — packs several images into one ZIP file.",
+    "qrcodejs": "qrcodejs 1.0.0 (MIT licence) — draws QR codes."
+  },
+  "priv_file": "Your file is processed in your browser and is not uploaded to ToolsKit.",
+  "priv_file_lib": "Your file is processed in your browser using the open-source {libs} library, which is served from ToolsKit’s own site rather than a third-party CDN. The file is not uploaded to ToolsKit.",
+  "priv_input": "Everything you enter is processed in your browser and is not sent to ToolsKit.",
+  "priv_input_lib": "Everything you enter is processed in your browser. The QR code is drawn with the open-source {libs} library, which is served from ToolsKit’s own site rather than a third-party CDN. Your input is not sent to ToolsKit.",
+  "priv_no3p": "This page loads no third-party code.",
+  "pcat_file": "Files you add to these tools are processed in your browser and are not uploaded to ToolsKit.",
+  "pcat_input": "Everything you enter into these tools is processed in your browser and is not sent to ToolsKit.",
+  "pcat_libs": "The tools use open-source libraries ({libs}) that are served from ToolsKit’s own site, not from a third-party CDN.",
+  "home_title": "ToolsKit — Free Online Tools for Everyday Tasks",
+  "home_desc": "Free online tools for PDFs, images, QR codes, unit conversion, calculators and CVs. No account required; files and inputs are processed in your browser.",
+  "home_tasks": [
+    [
+      "Compress a PDF",
+      "compress-pdf"
+    ],
+    [
+      "Resize an image",
+      "resize-image"
+    ],
+    [
+      "Calculate VAT",
+      "vat"
+    ],
+    [
+      "Create a QR code",
+      "url-qr-code"
+    ],
+    [
+      "Convert kilograms to pounds",
+      "weight"
+    ],
+    [
+      "Build a CV",
+      "cv"
+    ]
+  ],
+  "home_faq": [
+    [
+      "Is ToolsKit free?",
+      "Yes. Every tool currently on ToolsKit is free to use."
+    ],
+    [
+      "Do I need an account?",
+      "No. None of the current tools asks you to create an account."
+    ],
+    [
+      "Are my files uploaded?",
+      "No. Files you add to a tool are processed in your browser and are not uploaded to ToolsKit. The PDF and QR tools use open-source libraries that are served from ToolsKit’s own site, not from a third-party CDN."
+    ],
+    [
+      "Who is ToolsKit for?",
+      "Students, professionals, creators, small businesses and everyday users who need a quick browser-based utility for a PDF, image, QR code, conversion, calculation or CV."
+    ],
+    [
+      "Which PDF tasks are not available?",
+      "ToolsKit can merge, split, rotate and compress PDFs and convert between PDFs and images. It does not currently convert PDFs to Word or Excel, edit PDF text, sign, unlock or password-protect PDFs, or run OCR."
+    ],
+    [
+      "Which languages are available?",
+      "English, plus a growing selection of tools in German, French, Italian, Spanish, Dutch and Polish. Each language lists only the tools that have been translated into it; use the language list in the header or footer to switch."
+    ],
+    [
+      "Can I rely on the calculators?",
+      "They give estimates from the numbers you enter. The VAT calculator does not look up your country’s rate, and none of the calculators replace financial or tax advice."
+    ]
+  ],
+  "operator_known": "ToolsKit is operated by {name}.",
+  "operator_unknown": "The name of the person or organisation operating ToolsKit has not been published yet.",
+  "contact_known": "You can reach ToolsKit by email at {email}.",
+  "contact_unknown": "A contact email address for ToolsKit has not been published yet, so there is no way to send a message from this page right now. Nothing on this site sends messages for you.",
+  "contact_title": "Contact ToolsKit",
+  "contact_desc": "How to contact ToolsKit about questions, bug reports, tool suggestions, privacy requests and business enquiries.",
+  "contact_lead": "Questions, bug reports, tool ideas and privacy requests are all welcome.",
+  "contact_email_btn": "Write an email",
+  "contact_unavailable": "Email contact is not available yet.",
+  "contact_safe_h": "Please do not send private files",
+  "contact_safe": "ToolsKit tools run in your browser, so we never need your files to investigate a problem. When you report a bug, describe the file (type and size) instead of attaching it, and never include passwords, ID numbers or financial details.",
+  "contact_topics": {
+    "general": {
+      "title": "General questions",
+      "subject": "General question",
+      "body": "Anything about how ToolsKit works or what it can and cannot do."
+    },
+    "bug": {
+      "title": "Bug reports",
+      "subject": "Bug report",
+      "body": "Something did not work as the page says it should.",
+      "include": [
+        "The tool name and page address",
+        "Your browser and device (for example Chrome on Android)",
+        "What you did, what you expected and what happened",
+        "The file type and approximate size, not the file itself"
+      ]
+    },
+    "suggest": {
+      "title": "Tool suggestions",
+      "subject": "Tool suggestion",
+      "body": "Tell us which task you were trying to do and could not. ToolsKit adds tools that are genuinely useful and can run in the browser."
+    },
+    "privacy": {
+      "title": "Privacy questions",
+      "subject": "Privacy question",
+      "body": "Questions about this site’s privacy practices, or a request about personal data you have sent us (for example, an earlier email)."
+    },
+    "business": {
+      "title": "Partnership and business enquiries",
+      "subject": "Business enquiry",
+      "body": "Partnerships, press and other business enquiries."
+    }
+  },
+  "404_title": "Page not found | ToolsKit",
+  "404_desc": "The page you were looking for does not exist on ToolsKit. Search for a tool or browse all tools.",
+  "about_title": "About ToolsKit — Free Online Everyday Tools",
+  "about_desc": "ToolsKit is a collection of free online tools that run in your browser: PDF, image, QR code, converters, calculators, CV and social media tools.",
+  "privacy_title": "Privacy Policy | ToolsKit",
+  "privacy_desc": "How ToolsKit handles your files, inputs and data: browser-based processing, local storage, third-party code, analytics, logs and your rights.",
+  "terms_title": "Terms of Use | ToolsKit",
+  "terms_desc": "The terms for using ToolsKit’s free online tools: acceptable use, limitations, no warranty, calculator disclaimers and liability.",
+  "llms_summary": "ToolsKit is a collection of free online tools that run in the browser: PDF tools, image tools, QR code generators, unit converters, calculators, a CV and resume builder and template-based social media text generators. No account is required. Files and inputs are processed in the browser and are not uploaded to ToolsKit.",
+  "llms_pages": "Pages",
+  "llms_about": "what ToolsKit is, who it is for, how tools run and their limits",
+  "llms_all": "searchable list of every tool",
+  "llms_tools": "Tools",
+  "llms_privacy_h": "Privacy and processing",
+  "llms_privacy": [
+    "Tools run in the visitor's browser. Files and typed inputs are not sent to a ToolsKit server.",
+    "The PDF and QR tools use open-source libraries (pdf-lib, PDF.js, JSZip, qrcodejs) that are served from ToolsKit's own site, not a third-party CDN.",
+    "ToolsKit stores only a list of recently opened tool names (and a CV draft if the visitor chooses Save draft) in the visitor's own browser. It sets no cookies and currently uses no analytics or advertising."
+  ],
+  "llms_audience_h": "Who it is for",
+  "llms_audience": "Students, professionals, creators, small businesses and everyday users who need a quick browser-based utility.",
+  "llms_not_h": "What ToolsKit does not do",
+  "llms_not": [
+    "No PDF to Word/Excel conversion, PDF text editing, signing, password removal or OCR.",
+    "Calculators give estimates only; the VAT calculator uses the rate the visitor enters and does not look up country rates. Nothing is tax or financial advice.",
+    "Social media generators use fixed templates, not AI.",
+    "Currently available in English plus a growing set of translated tool pages (see the language list)."
+  ],
+  "or": "or",
+  "reset": "Reset",
+  "next": "Next:",
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "lang_label": "Language",
+  "lang_note": "Each language lists the tools that have been translated into it. Your choice is remembered on this device only and never changes the page by itself.",
+  "slugs": {
+    "tools": "tools",
+    "about": "about.html",
+    "contact": "contact.html",
+    "privacy": "privacy.html",
+    "terms": "terms.html"
+  },
+  "search_words": {
+    "stop": [
+      "a",
+      "an",
+      "the",
+      "of",
+      "for",
+      "and",
+      "in",
+      "my",
+      "me",
+      "how",
+      "do",
+      "i",
+      "can",
+      "free",
+      "online",
+      "tool",
+      "tools",
+      "make",
+      "create",
+      "build",
+      "please",
+      "want",
+      "need",
+      "use",
+      "using",
+      "with",
+      "on",
+      "get"
+    ],
+    "conn": [
+      "to",
+      "into",
+      "from",
+      "2"
+    ],
+    "filler": [
+      "convert",
+      "file",
+      "files",
+      "document",
+      "documents",
+      "change",
+      "turn"
+    ]
+  },
+  "no_tool_for": "No {label} is currently available on ToolsKit.",
+  "no_tool_generic": "No tool currently matches this request.",
+  "no_in_cat": "No tool in this category matches this request.",
+  "n_tools_one": "{n} tool",
+  "n_tools_other": "{n} tools",
+  "none_tools": "No tools found",
+  "n_related": "{n} related tools listed.",
+  "enter_number": "Enter a number.",
+  "min_msg": "Enter a number of {min} or more.",
+  "max_msg": "Enter a number of {max} or less.",
+  "copied": "Copied ✓",
+  "copied_sr": "Copied to clipboard",
+  "copy_fail": "Could not copy. Select the text and copy it manually.",
+  "qr_ok": "QR code generated. Use the Download PNG button.",
+  "qr_lowcontrast": "Low contrast, or a light code on a dark background: this QR code may not scan. Use a dark code on a light background.",
+  "img_type": "Choose an image file (JPG, PNG or WebP).",
+  "img_open": "This image could not be opened. Try a JPG, PNG or WebP file."
+}

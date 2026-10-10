@@ -1,0 +1,13 @@
+{
+  "principal": "Startbedrag",
+  "contrib": "Inleg per periode",
+  "rate": "Rente per jaar (%)",
+  "freq": "Rente bijschrijven",
+  "freq_m": "Maandelijks",
+  "freq_q": "Per kwartaal",
+  "freq_y": "Jaarlijks",
+  "years": "Looptijd (jaren)",
+  "out_final": "Eindbedrag: {v}",
+  "out_totals": "Totaal ingelegd: {contrib} | Geschatte rente: {interest}",
+  "err_numbers": "Voer geldige getallen in."
+}

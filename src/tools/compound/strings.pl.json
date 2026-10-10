@@ -1,0 +1,13 @@
+{
+  "principal": "Kwota początkowa",
+  "contrib": "Wpłata w każdym okresie",
+  "rate": "Oprocentowanie roczne (%)",
+  "freq": "Częstotliwość kapitalizacji",
+  "freq_m": "Co miesiąc",
+  "freq_q": "Co kwartał",
+  "freq_y": "Co rok",
+  "years": "Okres oszczędzania (lata)",
+  "out_final": "Wartość końcowa: {v}",
+  "out_totals": "Suma wpłat (wraz z kwotą początkową): {contrib} | Szacowane odsetki: {interest}",
+  "err_numbers": "Wpisz prawidłowe liczby."
+}

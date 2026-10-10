@@ -1,0 +1,25 @@
+{
+ "en": {
+  "a_title": "What is X% of Y?",
+  "a_pct": "Percentage (%)",
+  "a_of": "Of this number",
+  "a_res": "{p}% of {y} is {r}",
+  "b_title": "X is what percent of Y?",
+  "b_part": "Part (X)",
+  "b_whole": "Whole (Y)",
+  "b_res": "{x} is {r}% of {y}",
+  "c_title": "Percentage increase or decrease",
+  "c_from": "From (old value)",
+  "c_to": "To (new value)",
+  "c_up": "Increase of {r}% (from {f} to {t}, a difference of {d})",
+  "c_down": "Decrease of {r}% (from {f} to {t}, a difference of {d})",
+  "c_same": "No change: both values are {f}.",
+  "d_title": "Price after a discount",
+  "d_price": "Original price",
+  "d_pct": "Discount (%)",
+  "d_res": "Final price: {fin} | You save: {save}",
+  "err_numbers": "Enter valid numbers.",
+  "err_zero_whole": "The whole (Y) cannot be 0.",
+  "err_zero_from": "The old value cannot be 0: a percentage change from 0 is undefined."
+ }
+}

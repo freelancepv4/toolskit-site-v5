@@ -1,0 +1,23 @@
+{
+  "a_title": "Ile to jest X% z Y?",
+  "a_pct": "Procent (%)",
+  "a_of": "Z tej liczby",
+  "a_res": "{p}% z {y} to {r}",
+  "b_title": "Jakim procentem liczby Y jest X?",
+  "b_part": "Część (X)",
+  "b_whole": "Całość (Y)",
+  "b_res": "{x} to {r}% liczby {y}",
+  "c_title": "Zmiana procentowa: wzrost lub spadek",
+  "c_from": "Od (wartość początkowa)",
+  "c_to": "Do (wartość nowa)",
+  "c_up": "Wzrost o {r}% (z {f} do {t}, różnica: {d})",
+  "c_down": "Spadek o {r}% (z {f} do {t}, różnica: {d})",
+  "c_same": "Bez zmian: obie wartości wynoszą {f}.",
+  "d_title": "Cena po rabacie",
+  "d_price": "Cena wyjściowa",
+  "d_pct": "Rabat (%)",
+  "d_res": "Cena końcowa: {fin} | Oszczędność: {save}",
+  "err_numbers": "Wpisz prawidłowe liczby.",
+  "err_zero_whole": "Całość (Y) nie może wynosić 0.",
+  "err_zero_from": "Wartość początkowa nie może wynosić 0: zmiana procentowa od zera jest nieokreślona."
+}

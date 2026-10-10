@@ -1,0 +1,11 @@
+{
+ "checks": 300,
+ "failures": [],
+ "notes": {
+  "cv_pdf_text": "Print Test Name\nSummary text here.   ",
+  "resize_12mp_seconds": 0.38,
+  "compress_300_pages_seconds": 0.3
+ },
+ "console_issues": [],
+ "pass": true
+}

@@ -1,0 +1,8 @@
+{
+  "amount": "Importe del préstamo",
+  "rate": "Tipo de interés anual (%)",
+  "term": "Plazo (años)",
+  "out_monthly": "Cuota mensual: {v}",
+  "out_totals": "Intereses totales: {interest} | Total a devolver: {total}",
+  "err_numbers": "Introduce números válidos."
+}

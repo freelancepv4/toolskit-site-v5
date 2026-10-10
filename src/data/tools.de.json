@@ -1,0 +1,1175 @@
+{
+  "categories": {
+    "pdf": {
+      "name": "PDF-Werkzeuge",
+      "dir": "pdf-werkzeuge",
+      "card": "PDFs zusammenfügen, teilen, drehen, komprimieren und in Bilder umwandeln.",
+      "intro": "Kostenlose Online-Werkzeuge zum Zusammenfügen, Teilen, Drehen und Komprimieren von PDF-Dateien sowie zum Umwandeln zwischen PDF und Bildern.",
+      "title": "PDF-Werkzeuge – zusammenfügen, teilen, komprimieren | ToolsKit",
+      "description": "Kostenlose PDF-Werkzeuge: PDF zusammenfügen, teilen, drehen und komprimieren sowie PDF und Bilder umwandeln. Läuft im Browser, ohne Konto.",
+      "faq": [
+        [
+          "Gibt es eine Grenze für die Dateigröße?",
+          "ToolsKit lehnt einzelne Dateien über 150 MB ab. Praktisch hängt die Grenze vom Arbeitsspeicher Ihres Geräts ab; Smartphones kommen mit großen Dateien oft schlechter zurecht."
+        ],
+        [
+          "Warum ist meine PDF nicht kleiner geworden?",
+          "„PDF komprimieren“ speichert die Datei effizienter ab, komprimiert die enthaltenen Bilder aber nicht neu. Bei PDFs mit vielen Fotos ändert sich die Größe deshalb kaum."
+        ],
+        [
+          "Kann ich passwortgeschützte PDFs verwenden?",
+          "Nein. Entfernen Sie zuerst das Passwort und fügen Sie die Datei dann hinzu."
+        ],
+        [
+          "Wie wähle ich die Seiten aus, die extrahiert werden sollen?",
+          "Geben Sie unter „PDF teilen“ die Seitenzahlen ein, zum Beispiel 1-3,5."
+        ],
+        [
+          "Werden meine PDFs hochgeladen?",
+          "Nein. Die Dateien werden in Ihrem Browser verarbeitet und nicht zu ToolsKit hochgeladen."
+        ]
+      ],
+      "syn": [
+        "pdf",
+        "pdfs",
+        "pdf werkzeuge",
+        "pdf tools",
+        "pdf dateien"
+      ]
+    },
+    "calc": {
+      "name": "Rechner",
+      "dir": "rechner",
+      "card": "Prozentrechner, Mehrwertsteuer-Rechner, Kreditrechner und Zinseszinsrechner.",
+      "intro": "Kostenlose Online-Rechner für Prozente und Rabatte, Mehrwertsteuer, Kredite und Zinseszins. Die Ergebnisse sind Schätzungen und keine Finanz- oder Steuerberatung.",
+      "title": "Rechner: Prozent, Mehrwertsteuer, Kredit | ToolsKit",
+      "description": "Kostenlose Rechner: Prozentrechner mit Rabatt, Mehrwertsteuer-Rechner, Kreditrechner und Zinseszinsrechner. Ergebnisse sind Schätzungen. Läuft im Browser.",
+      "faq": [
+        [
+          "Kennt der Mehrwertsteuer-Rechner den Steuersatz?",
+          "Nein. Sie geben den Satz ein, der für Sie gilt. Der Wert 19 ist nur ein Startwert."
+        ],
+        [
+          "Sind die Ergebnisse verbindlich?",
+          "Nein. Es sind Schätzungen, keine Steuer- oder Finanzberatung. Maßgeblich sind die Angaben Ihrer Bank, Ihres Steuerberaters oder der Behörde."
+        ]
+      ],
+      "syn": [
+        "rechner",
+        "online rechner",
+        "taschenrechner",
+        "kalkulator",
+        "berechnen",
+        "rechnen"
+      ]
+    },
+    "text": {
+      "name": "Textwerkzeuge",
+      "dir": "text-werkzeuge",
+      "card": "Wörter und Zeichen in Ihrem Text zählen.",
+      "syn": [
+        "text",
+        "texte",
+        "wörter",
+        "woerter",
+        "zeichen",
+        "buchstaben",
+        "zählen",
+        "zaehlen",
+        "textwerkzeuge",
+        "textlänge",
+        "textlaenge"
+      ]
+    }
+  },
+  "tools": {
+    "merge-pdf": {
+      "file": "pdf-zusammenfuegen.html",
+      "name": "PDF zusammenfügen",
+      "h1": "PDF zusammenfügen – mehrere PDFs zu einer Datei",
+      "title": "PDF zusammenfügen – kostenlos online | ToolsKit",
+      "description": "Mehrere PDF-Dateien zu einem Dokument zusammenfügen und die Reihenfolge festlegen. Läuft im Browser, ohne Konto.",
+      "card": "Mehrere PDFs zu einer Datei zusammenfügen – in der Reihenfolge Ihrer Wahl.",
+      "lead": "Fügen Sie mehrere PDFs zu einer Datei zusammen (auch bekannt als PDFs verbinden oder zusammenführen) und legen Sie die Reihenfolge selbst fest.",
+      "steps": [
+        [
+          "PDFs hinzufügen",
+          "Wählen Sie zwei oder mehr PDF-Dateien aus oder ziehen Sie sie auf die Fläche."
+        ],
+        [
+          "Reihenfolge festlegen",
+          "Verschieben Sie die Dateien mit den Pfeilen nach oben oder unten."
+        ],
+        [
+          "Herunterladen",
+          "Laden Sie die zusammengefügte PDF herunter."
+        ]
+      ],
+      "formula": "",
+      "faq": [
+        [
+          "In welcher Reihenfolge werden die Dateien zusammengefügt?",
+          "In der Reihenfolge der Liste. Ändern Sie sie vor dem Zusammenfügen mit den Pfeilen."
+        ],
+        [
+          "Kann ich passwortgeschützte PDFs zusammenfügen?",
+          "Nein. Entfernen Sie zuerst das Passwort und fügen Sie die Datei dann erneut hinzu."
+        ],
+        [
+          "Bleiben Lesezeichen und Formularfelder erhalten?",
+          "Die Seiten werden in ein neues Dokument kopiert. Elemente, die nicht auf den Seiten selbst liegen, etwa Lesezeichen, werden daher unter Umständen nicht übernommen."
+        ]
+      ],
+      "good": "Sehr große Dateien können auf Smartphones langsam sein oder den Speicher überlasten. Fügen Sie in diesem Fall weniger Dateien auf einmal zusammen.",
+      "limits": [
+        "Passwortgeschützte PDFs lassen sich nicht zusammenfügen. Entfernen Sie zuerst das Passwort.",
+        "Einzelne Dateien über 150 MB werden abgelehnt; sehr große Dateien können außerdem auf Geräten mit wenig Speicher scheitern."
+      ],
+      "ws": {
+        "title": "PDFs hierher ziehen und ablegen",
+        "choose": "PDFs auswählen",
+        "hint": "Nur PDF-Dateien. Fügen Sie zwei oder mehr hinzu und ordnen Sie sie bei Bedarf um."
+      },
+      "syn": [
+        "pdf zusammenfügen",
+        "pdf zusammenfuegen",
+        "pdfs zusammenfügen",
+        "pdfs zusammenfuegen",
+        "pdf dateien zusammenfügen",
+        "pdf dateien zusammenfuegen",
+        "pdf zusammenführen",
+        "pdf zusammenfuehren",
+        "pdf verbinden",
+        "pdf kombinieren",
+        "pdf vereinen",
+        "pdf zusammenfügen online",
+        "pdf zusammenfuegen online",
+        "mehrere pdf zu einer pdf",
+        "pdf merge",
+        "pdf mergen"
+      ]
+    },
+    "split-pdf": {
+      "file": "pdf-teilen.html",
+      "name": "PDF teilen",
+      "h1": "PDF teilen – Seiten aus einer PDF extrahieren",
+      "title": "PDF teilen – Seiten extrahieren | ToolsKit",
+      "description": "PDF teilen: Einen Seitenbereich wie 1-3,5 in eine neue Datei extrahieren. Läuft im Browser, Ihre PDF wird nicht hochgeladen.",
+      "card": "Einen Seitenbereich in eine neue PDF extrahieren.",
+      "lead": "Teilen Sie eine PDF, indem Sie die Seiten, die Sie brauchen, in eine neue Datei extrahieren.",
+      "steps": [
+        [
+          "PDF hinzufügen",
+          "Wählen Sie eine PDF aus oder ziehen Sie sie auf die Fläche."
+        ],
+        [
+          "Seiten eingeben",
+          "Zum Beispiel 1-3,5."
+        ],
+        [
+          "Herunterladen",
+          "Laden Sie eine neue PDF mit nur diesen Seiten herunter."
+        ]
+      ],
+      "formula": "",
+      "faq": [
+        [
+          "Wie schreibe ich den Seitenbereich?",
+          "Trennen Sie Seiten mit Kommas und verwenden Sie für Bereiche einen Bindestrich, zum Beispiel 1-3,5. Die Zählung beginnt bei Seite 1."
+        ],
+        [
+          "Kann ich jede Seite als eigene Datei erhalten?",
+          "Noch nicht. Dieses Tool extrahiert die angegebenen Seiten in eine einzige neue PDF."
+        ],
+        [
+          "Was passiert, wenn ich eine Seite eingebe, die es nicht gibt?",
+          "Sie sehen eine Meldung mit der Seitenzahl Ihrer Datei und können den Bereich korrigieren."
+        ]
+      ],
+      "good": "Die Seiten stehen im Ergebnis in aufsteigender Reihenfolge, unabhängig davon, in welcher Reihenfolge Sie sie eingeben.",
+      "limits": [
+        "Extrahiert die gewählten Seiten in eine neue PDF. Ein Dokument wird nicht in mehrere Dateien auf einmal aufgeteilt.",
+        "Passwortgeschützte PDFs werden nicht unterstützt."
+      ],
+      "ws": {
+        "title": "PDF hierher ziehen und ablegen",
+        "choose": "PDF auswählen",
+        "hint": "Eine PDF-Datei."
+      },
+      "syn": [
+        "pdf teilen",
+        "pdf seiten extrahieren",
+        "seiten aus pdf extrahieren",
+        "pdf seiten herausziehen",
+        "pdf trennen",
+        "pdf aufteilen",
+        "pdf splitten",
+        "pdf split",
+        "einzelne seiten aus pdf speichern",
+        "pdf seiten auswählen",
+        "pdf seiten auswaehlen"
+      ]
+    },
+    "rotate-pdf": {
+      "file": "pdf-drehen.html",
+      "name": "PDF drehen",
+      "h1": "PDF drehen – Seiten um 90°, 180° oder 270°",
+      "title": "PDF drehen – Seiten online drehen | ToolsKit",
+      "description": "PDF drehen: Alle Seiten um 90°, 180° oder 270° drehen und die Datei herunterladen. Läuft im Browser, ohne Konto.",
+      "card": "Die Seiten einer PDF um 90°, 180° oder 270° drehen.",
+      "lead": "Drehen Sie alle Seiten einer PDF um 90°, 180° oder 270°.",
+      "steps": [
+        [
+          "PDF hinzufügen",
+          "Wählen Sie eine PDF aus oder ziehen Sie sie auf die Fläche."
+        ],
+        [
+          "Drehung wählen",
+          "90° im Uhrzeigersinn, 180° oder 90° gegen den Uhrzeigersinn."
+        ],
+        [
+          "Herunterladen",
+          "Laden Sie die gedrehte PDF herunter."
+        ]
+      ],
+      "formula": "",
+      "faq": [
+        [
+          "Kann ich nur einzelne Seiten drehen?",
+          "Noch nicht. Die Drehung gilt für alle Seiten der Datei."
+        ],
+        [
+          "Wird die Originaldatei verändert?",
+          "Nein. Sie laden eine neue Datei herunter; Ihr Original bleibt unverändert."
+        ]
+      ],
+      "good": "Wenn eine Seite in der Datei bereits gedreht war, wird die neue Drehung dazugerechnet.",
+      "limits": [
+        "Alle Seiten werden um denselben Winkel gedreht; einzelne Seiten lassen sich nicht getrennt drehen."
+      ],
+      "ws": {
+        "title": "PDF hierher ziehen und ablegen",
+        "choose": "PDF auswählen",
+        "hint": "Eine PDF-Datei. Alle Seiten werden um denselben Winkel gedreht."
+      },
+      "syn": [
+        "pdf drehen",
+        "pdf seiten drehen",
+        "pdf seite drehen",
+        "pdf rotieren",
+        "pdf um 90 grad drehen",
+        "pdf drehen und speichern",
+        "pdf kopfüber drehen",
+        "pdf kopfueber drehen"
+      ]
+    },
+    "compress-pdf": {
+      "file": "pdf-komprimieren.html",
+      "name": "PDF komprimieren",
+      "h1": "PDF komprimieren und verkleinern",
+      "title": "PDF komprimieren – Dateigröße verkleinern | ToolsKit",
+      "description": "PDF komprimieren und verkleinern: Datei effizienter speichern und Größe vorher/nachher vergleichen. Bilder werden nicht neu komprimiert. Im Browser.",
+      "card": "Eine PDF effizienter speichern. Bilder werden nicht neu komprimiert.",
+      "lead": "Verkleinern Sie eine PDF, soweit möglich. Das Ergebnis hängt von der Datei ab.",
+      "steps": [
+        [
+          "PDF hinzufügen",
+          "Wählen Sie eine PDF aus oder ziehen Sie sie auf die Fläche."
+        ],
+        [
+          "Komprimieren",
+          "Die Datei wird mit einer effizienteren Struktur neu gespeichert."
+        ],
+        [
+          "Vergleichen und herunterladen",
+          "Sehen Sie die Größe vorher und nachher."
+        ]
+      ],
+      "formula": "",
+      "faq": [
+        [
+          "Warum ist meine PDF nicht kleiner geworden?",
+          "Dieses Tool speichert die Datei effizienter ab, komprimiert die enthaltenen Bilder aber nicht neu. PDFs, die wegen Fotos groß sind, werden daher meist nur wenig oder gar nicht kleiner."
+        ],
+        [
+          "Ändert sich die Qualität?",
+          "Nein. Bilder und Text werden nicht neu kodiert, das Aussehen bleibt unverändert."
+        ],
+        [
+          "Gibt es eine stärkere Variante?",
+          "Nicht in diesem Tool. Eingebettete Bilder neu zu komprimieren ist ein anderer, aufwendigerer Vorgang."
+        ]
+      ],
+      "good": "Wenn das Ergebnis nicht kleiner ist, behalten Sie Ihre Originaldatei.",
+      "limits": [
+        "Bilder werden nicht neu komprimiert, daher werden PDFs mit vielen Fotos oder Scans kaum kleiner.",
+        "Eine bestimmte Zieldateigröße lässt sich nicht einstellen."
+      ],
+      "ws": {
+        "title": "PDF hierher ziehen und ablegen",
+        "choose": "PDF auswählen",
+        "hint": "Eine PDF-Datei."
+      },
+      "syn": [
+        "pdf komprimieren",
+        "pdf verkleinern",
+        "pdf datei verkleinern",
+        "pdf dateigröße verkleinern",
+        "pdf dateigroesse verkleinern",
+        "pdf größe reduzieren",
+        "pdf groesse reduzieren",
+        "pdf kleiner machen",
+        "pdf komprimieren online",
+        "pdf compress",
+        "pdf optimieren"
+      ]
+    },
+    "pdf-to-images": {
+      "file": "pdf-in-bilder.html",
+      "name": "PDF in Bilder umwandeln",
+      "h1": "PDF in Bilder umwandeln (PNG)",
+      "title": "PDF in Bilder (PNG) umwandeln | ToolsKit",
+      "description": "PDF in Bilder umwandeln: Jede Seite wird als PNG exportiert, mehrere Seiten als ZIP. Kein JPG. Läuft im Browser, ohne Konto.",
+      "card": "Jede Seite einer PDF als PNG-Bild exportieren.",
+      "lead": "Wandeln Sie jede Seite einer PDF in ein PNG-Bild um. Hinweis: Dieses Tool erzeugt PNG-Dateien, kein JPG.",
+      "steps": [
+        [
+          "PDF hinzufügen",
+          "Wählen Sie eine PDF aus oder ziehen Sie sie auf die Fläche."
+        ],
+        [
+          "Qualität wählen",
+          "Standard oder Hoch."
+        ],
+        [
+          "Herunterladen",
+          "Ein PNG, bei mehreren Seiten eine ZIP-Datei."
+        ]
+      ],
+      "formula": "",
+      "faq": [
+        [
+          "In welchem Format sind die Bilder?",
+          "PNG. Eine einzelne Seite wird als ein PNG heruntergeladen, mehrere Seiten als eine ZIP-Datei."
+        ],
+        [
+          "Kann ich die PDF auch in JPG umwandeln?",
+          "Nein. Dieses Tool exportiert nur PNG."
+        ],
+        [
+          "Was bewirkt die Qualität „Hoch“?",
+          "Die Seiten werden größer berechnet. Das ergibt größere Bilder und braucht mehr Speicher."
+        ],
+        [
+          "Warum ist eine große PDF langsam?",
+          "Die Seiten werden nacheinander in Ihrem Browser gezeichnet. Lange oder bildlastige Dokumente können deshalb langsam sein oder an Speichergrenzen stoßen, besonders auf Smartphones."
+        ]
+      ],
+      "good": "Beginnen Sie mit „Standard“. Wechseln Sie zu „Hoch“ nur, wenn Sie größere Bilder brauchen.",
+      "limits": [
+        "Exportiert nur PNG (kein JPG).",
+        "Die Qualität „Hoch“ kann bei großen Seiten den Speicher überlasten, besonders auf Smartphones."
+      ],
+      "ws": {
+        "title": "PDF hierher ziehen und ablegen",
+        "choose": "PDF auswählen",
+        "hint": "Eine PDF-Datei. Die Seiten werden als PNG-Bilder exportiert."
+      },
+      "syn": [
+        "pdf in bilder",
+        "pdf in bild",
+        "pdf in bild umwandeln",
+        "pdf in png",
+        "pdf zu png",
+        "pdf zu bild",
+        "pdf als bild speichern",
+        "pdf seiten als bilder exportieren",
+        "pdf seiten in bilder umwandeln"
+      ]
+    },
+    "images-to-pdf": {
+      "file": "jpg-in-pdf.html",
+      "name": "JPG in PDF umwandeln",
+      "h1": "JPG in PDF umwandeln – Bilder zu einer PDF",
+      "title": "JPG in PDF umwandeln – Bilder zu PDF | ToolsKit",
+      "description": "JPG in PDF umwandeln: JPG- oder PNG-Bilder zu einer PDF zusammenfassen, ein Bild pro Seite. Läuft im Browser, Bilder werden nicht hochgeladen.",
+      "card": "JPG- oder PNG-Bilder zu einer PDF zusammenfassen.",
+      "lead": "Wandeln Sie JPG- oder PNG-Bilder in eine einzige PDF um – ein Bild pro Seite.",
+      "steps": [
+        [
+          "Bilder hinzufügen",
+          "Wählen Sie JPG- oder PNG-Dateien aus oder ziehen Sie sie auf die Fläche."
+        ],
+        [
+          "Reihenfolge prüfen",
+          "Die Seiten folgen der Reihenfolge der Liste."
+        ],
+        [
+          "Herunterladen",
+          "Laden Sie eine PDF herunter."
+        ]
+      ],
+      "formula": "",
+      "faq": [
+        [
+          "Welche Bildformate funktionieren?",
+          "JPG und PNG. Andere Formate wie WebP werden hier nicht unterstützt."
+        ],
+        [
+          "Welche Seitengröße wird verwendet?",
+          "Jede Seite entspricht der Pixelgröße ihres Bildes. Sie wird nicht auf A4 oder Letter angepasst."
+        ],
+        [
+          "Kann ich die Bilder umsortieren?",
+          "Die Seiten folgen der Reihenfolge, in der die Dateien hinzugefügt wurden. Um sie zu ändern, entfernen Sie alle und fügen Sie sie in der gewünschten Reihenfolge erneut hinzu."
+        ]
+      ],
+      "good": "Große Fotos ergeben große PDFs. Komprimieren oder verkleinern Sie die Bilder vorher, wenn die Datei klein sein soll.",
+      "limits": [
+        "Akzeptiert nur JPG und PNG.",
+        "Jedes Bild wird eine Seite in der Größe des Bildes; Seitengröße und Ränder lassen sich nicht einstellen."
+      ],
+      "ws": {
+        "title": "Bilder hierher ziehen und ablegen",
+        "choose": "Bilder auswählen",
+        "hint": "JPG oder PNG. Die Seiten folgen der unten gezeigten Reihenfolge."
+      },
+      "syn": [
+        "jpg in pdf",
+        "jpeg in pdf",
+        "png in pdf",
+        "jpg in pdf umwandeln",
+        "bild in pdf",
+        "bilder in pdf",
+        "bild in pdf umwandeln",
+        "foto in pdf",
+        "fotos in pdf",
+        "jpg zu pdf",
+        "bild zu pdf",
+        "bilder zu pdf zusammenfügen",
+        "bilder zu pdf zusammenfuegen"
+      ]
+    },
+    "percentage": {
+      "file": "prozentrechner.html",
+      "name": "Prozentrechner",
+      "h1": "Prozentrechner – Prozentwert, Prozentsatz, Änderung und Rabatt",
+      "title": "Prozentrechner: Prozentwert, Änderung, Rabatt | ToolsKit",
+      "description": "Prozentrechner: x % von y, wie viel Prozent, prozentuale Zu- oder Abnahme und Preis nach Rabatt berechnen. Kostenlos, im Browser.",
+      "card": "Prozentwert, prozentuale Änderung und Rabatt – mit sichtbarem Rechenweg.",
+      "lead": "Vier Prozentrechner in einem: Prozentwert, Prozentsatz, prozentuale Veränderung und Preis nach Rabatt.",
+      "steps": [
+        [
+          "Frage auswählen",
+          "Auf dieser Seite finden Sie vier Rechner: Prozentwert einer Zahl, Prozentsatz, prozentuale Änderung und Preis nach Rabatt."
+        ],
+        [
+          "Zahlen eingeben",
+          "Füllen Sie die zwei Felder des Rechners aus, den Sie brauchen. Die Ergebnisse aktualisieren sich beim Tippen."
+        ],
+        [
+          "Ergebnis ablesen",
+          "Die Ergebnisse werden zur Anzeige auf zwei Nachkommastellen gerundet. „Zurücksetzen“ stellt die Beispielwerte wieder her."
+        ]
+      ],
+      "formula": "x % von y = y × x ÷ 100. x sind (x ÷ y × 100) % von y. Änderung = (neu − alt) ÷ |alt| × 100. Preis nach Rabatt = Preis × (1 − Rabatt ÷ 100).",
+      "faq": [
+        [
+          "Wie berechne ich eine prozentuale Zunahme?",
+          "Nutzen Sie „Prozentuale Zu- oder Abnahme“: Tragen Sie den alten Wert bei „Von“ und den neuen Wert bei „Auf“ ein. Ein positives Ergebnis ist eine Zunahme, ein negatives eine Abnahme."
+        ],
+        [
+          "Warum darf der alte Wert nicht 0 sein?",
+          "Eine prozentuale Änderung ausgehend von 0 ist nicht definiert, weil man durch null teilen müsste."
+        ],
+        [
+          "Ist ein Prozent dasselbe wie ein Prozentpunkt?",
+          "Nein. Von 10 % auf 12 % ist ein Anstieg um 2 Prozentpunkte, aber um 20 % des ursprünglichen Satzes. Dieses Tool nennt die zweite Zahl, wenn Sie 10 und 12 als „Von“ und „Auf“ eingeben."
+        ]
+      ],
+      "good": "Die Ergebnisse werden zur Anzeige auf zwei Nachkommastellen gerundet. Das Dezimalzeichen richtet sich nach den Spracheinstellungen Ihres Browsers.",
+      "limits": [
+        "Deckt vier häufige Prozentfragen ab. Nicht enthalten sind Zinseszins über mehrere Perioden (siehe Zinseszinsrechner) und umgekehrte Prozentrechnung, etwa „der Preis vor einem Rabatt von 20 %“ oder die Berechnung des Grundwerts."
+      ],
+      "disclaimer": "Nur eine schnelle Preisrechnung. Prüfen Sie Endpreise und Steuern anhand der Rechnung oder des Kassenbelegs des Verkäufers.",
+      "syn": [
+        "prozentrechner",
+        "prozent rechner",
+        "prozente berechnen",
+        "prozent berechnen",
+        "prozentwert berechnen",
+        "prozentsatz berechnen",
+        "prozentuale veränderung",
+        "prozentuale veraenderung",
+        "prozentuale änderung",
+        "prozentuale aenderung",
+        "prozentuale zunahme",
+        "prozentuale abnahme",
+        "prozentrechnung",
+        "wie viel prozent sind",
+        "prozent von einer zahl",
+        "rabatt berechnen",
+        "rabattrechner",
+        "preis nach rabatt",
+        "prozent aufschlag"
+      ]
+    },
+    "vat": {
+      "file": "mehrwertsteuer-rechner.html",
+      "name": "Mehrwertsteuer-Rechner",
+      "h1": "Mehrwertsteuer-Rechner – Netto, Brutto und MwSt.",
+      "title": "Mehrwertsteuer-Rechner: Netto zu Brutto | ToolsKit",
+      "description": "Mehrwertsteuer-Rechner: Brutto aus Netto berechnen oder die Mehrwertsteuer herausrechnen – mit dem Steuersatz, den Sie eingeben. Im Browser.",
+      "card": "Mehrwertsteuer aufschlagen oder aus dem Bruttobetrag herausrechnen – mit dem Satz, den Sie eingeben.",
+      "lead": "Berechnen Sie den Bruttobetrag aus dem Nettobetrag oder rechnen Sie die Mehrwertsteuer aus dem Bruttobetrag heraus.",
+      "steps": [
+        [
+          "Zahlen eingeben",
+          "Tragen Sie den Betrag ein und wählen Sie die Richtung: Netto → Brutto oder Brutto → Netto."
+        ],
+        [
+          "Steuersatz prüfen",
+          "Geben Sie den Mehrwertsteuersatz ein, der für Sie gilt."
+        ],
+        [
+          "Ergebnis ablesen",
+          "Die Ergebnisse aktualisieren sich beim Tippen. „Zurücksetzen“ beginnt von vorn."
+        ]
+      ],
+      "formula": "Brutto = Netto × (1 + Satz ÷ 100). Netto = Brutto ÷ (1 + Satz ÷ 100). Mehrwertsteuer = Brutto − Netto.",
+      "faq": [
+        [
+          "Kennt der Rechner den Mehrwertsteuersatz meines Landes?",
+          "Nein. Geben Sie den Satz ein, der für Sie gilt. Die Sätze unterscheiden sich je nach Land und Art der Ware oder Leistung (es gibt zum Beispiel einen Regelsatz und einen ermäßigten Satz); ToolsKit schlägt sie nicht nach."
+        ],
+        [
+          "Ist das eine offizielle Steuerauskunft?",
+          "Nein. Es ist ein einfacher Rechner. Offizielle Angaben erhalten Sie bei Ihrem Finanzamt oder Steuerberater."
+        ]
+      ],
+      "good": "Netto ist der Preis ohne Mehrwertsteuer, brutto der Preis einschließlich Mehrwertsteuer.",
+      "limits": [
+        "Verwendet nur den Satz, den Sie eingeben. Aktuelle Steuersätze, Befreiungen oder Rundungsregeln eines Landes werden nicht nachgeschlagen."
+      ],
+      "disclaimer": "Dieser Rechner wendet den von Ihnen eingegebenen Satz an und prüft weder aktuelle Mehrwertsteuerregeln noch Rundung. Lassen Sie Beträge von Ihrem Finanzamt oder Steuerberater prüfen, bevor Sie sie in einer Rechnung oder Steuererklärung verwenden.",
+      "syn": [
+        "mehrwertsteuer rechner",
+        "mehrwertsteuer berechnen",
+        "mehrwertsteuerrechner",
+        "mwst rechner",
+        "mwst berechnen",
+        "umsatzsteuer rechner",
+        "umsatzsteuer berechnen",
+        "mehrwertsteuer herausrechnen",
+        "mwst herausrechnen",
+        "mehrwertsteuer aufschlagen",
+        "netto in brutto",
+        "brutto in netto",
+        "netto brutto umrechnen",
+        "mehrwertsteuer netto brutto"
+      ]
+    },
+    "loan": {
+      "file": "kreditrechner.html",
+      "name": "Kreditrechner",
+      "h1": "Kreditrechner – monatliche Rate und Zinsen berechnen",
+      "title": "Kreditrechner: Rate, Zinsen, Gesamtbetrag | ToolsKit",
+      "description": "Kreditrechner: Monatsrate, Gesamtzinsen und Rückzahlungsbetrag eines Kredits oder Darlehens mit festem Zins schätzen. Keine Finanzberatung.",
+      "card": "Monatsrate, Gesamtzinsen und Rückzahlungsbetrag eines Kredits mit festem Zins schätzen.",
+      "lead": "Schätzen Sie die monatliche Rate eines Kredits oder Darlehens mit festem Zinssatz.",
+      "steps": [
+        [
+          "Zahlen eingeben",
+          "Füllen Sie jedes Feld aus."
+        ],
+        [
+          "Formel prüfen",
+          "Geben Sie den Kreditbetrag, den Jahreszins und die Laufzeit in Jahren ein."
+        ],
+        [
+          "Ergebnis ablesen",
+          "Die Ergebnisse aktualisieren sich beim Tippen. „Zurücksetzen“ beginnt von vorn."
+        ]
+      ],
+      "formula": "r = Jahreszins ÷ 12 ÷ 100; n = Jahre × 12; Rate = K × r ÷ (1 − (1 + r)^−n), wobei K der Kreditbetrag ist. Bei einem Zins von 0 % gilt: Rate = K ÷ n.",
+      "faq": [
+        [
+          "Was lässt der Rechner weg?",
+          "Gebühren, Versicherungen, Steuern, variable Zinsen und Sondertilgungen. Er geht von einem festen Zins und gleich hohen Monatsraten aus."
+        ],
+        [
+          "Ist das der effektive Jahreszins?",
+          "Nein. Der Rechner verwendet den Zinssatz, den Sie eingeben. Gebühren und Nebenkosten sind nicht enthalten."
+        ],
+        [
+          "Ist das eine Finanzberatung?",
+          "Nein. Die Ergebnisse sind Schätzungen. Maßgeblich sind die Angaben Ihres Kreditgebers."
+        ]
+      ],
+      "good": "Probieren Sie verschiedene Laufzeiten aus, um zu sehen, wie sich die Gesamtzinsen verändern.",
+      "limits": [
+        "Geht von einem festen Zins und gleich hohen Monatsraten aus. Gebühren, Versicherungen, Steuern, variable Zinsen und Sondertilgungen sind nicht enthalten."
+      ],
+      "disclaimer": "Tatsächliche Zinsen, Gebühren, Versicherungen, Steuern und Bedingungen des Kreditgebers können abweichen; dieses Ergebnis ist kein Kreditangebot. Dieses Tool bietet keine Finanzberatung.",
+      "syn": [
+        "kreditrechner",
+        "darlehensrechner",
+        "kredit berechnen",
+        "darlehen berechnen",
+        "ratenrechner",
+        "kreditrate berechnen",
+        "monatliche rate berechnen",
+        "ratenkredit rechner",
+        "annuitätendarlehen rechner",
+        "annuitaetendarlehen rechner",
+        "kreditzinsen berechnen",
+        "immobilienkredit rechner"
+      ]
+    },
+    "compound": {
+      "file": "zinseszinsrechner.html",
+      "name": "Zinseszinsrechner",
+      "h1": "Zinseszinsrechner mit regelmäßiger Sparrate",
+      "title": "Zinseszinsrechner mit Sparrate | ToolsKit",
+      "description": "Zinseszinsrechner: Berechnen Sie, wie ein Sparbetrag mit Zinseszins und regelmäßigen Einzahlungen wächst. Eine Schätzung, keine Prognose.",
+      "card": "Wachstum eines Sparbetrags mit regelmäßigen Einzahlungen berechnen.",
+      "lead": "Berechnen Sie, wie ein Sparbetrag durch Zinseszins und regelmäßige Einzahlungen wächst.",
+      "steps": [
+        [
+          "Zahlen eingeben",
+          "Füllen Sie jedes Feld aus."
+        ],
+        [
+          "Formel prüfen",
+          "Geben Sie Anfangsbetrag, Einzahlung, Zinssatz, Zinsperiode und Anlagedauer ein."
+        ],
+        [
+          "Ergebnis ablesen",
+          "Die Ergebnisse aktualisieren sich beim Tippen. „Zurücksetzen“ beginnt von vorn."
+        ]
+      ],
+      "formula": "Wachstum = (1 + r/n)^(n × Jahre); Endwert = Anfangsbetrag × Wachstum + Einzahlung × (Wachstum − 1) ÷ (r/n); dabei ist r der Jahreszins und n die Zahl der Zinsperioden pro Jahr.",
+      "faq": [
+        [
+          "Wann werden die Einzahlungen geleistet?",
+          "Der Rechner geht von einer Einzahlung am Ende jeder Zinsperiode aus; die Häufigkeit der Einzahlungen entspricht also der Häufigkeit der Verzinsung."
+        ],
+        [
+          "Ist das eine Prognose?",
+          "Nein. Tatsächliche Erträge schwanken und sind nicht garantiert."
+        ]
+      ],
+      "good": "Die Ergebnisse sind Schätzungen, keine Vorhersagen.",
+      "limits": [
+        "Geht von einem gleichbleibenden Zinssatz und einer Einzahlung pro Zinsperiode aus. Gebühren, Steuern und Inflation sind nicht berücksichtigt."
+      ],
+      "disclaimer": "Tatsächliche Erträge schwanken und sind nicht garantiert; Gebühren, Steuern und Inflation sind nicht enthalten. Dieses Tool bietet keine Finanzberatung.",
+      "syn": [
+        "zinseszinsrechner",
+        "zinseszins rechner",
+        "zinseszins berechnen",
+        "zinseszins",
+        "sparplan rechner",
+        "sparrechner",
+        "zinsrechner",
+        "sparrate zinseszins",
+        "kapitalentwicklung berechnen",
+        "zinseszinsformel"
+      ]
+    },
+    "word-counter": {
+      "file": "zeichenzaehler.html",
+      "name": "Zeichenzähler & Wortzähler",
+      "h1": "Zeichenzähler & Wortzähler",
+      "title": "Zeichenzähler & Wortzähler – kostenlos | ToolsKit",
+      "description": "Zeichen und Wörter zählen: mit und ohne Leerzeichen, dazu Sätze, Absätze und geschätzte Lesezeit. Läuft im Browser, Ihr Text wird nicht hochgeladen.",
+      "card": "Wörter, Zeichen, Sätze und Absätze in Ihrem Text zählen.",
+      "lead": "Fügen Sie einen Text ein oder tippen Sie ihn, um Wörter und Zeichen zu zählen.",
+      "steps": [
+        [
+          "Text hinzufügen",
+          "Tippen Sie ihn in das Feld oder fügen Sie ihn ein."
+        ],
+        [
+          "Zahlen ablesen",
+          "Wörter, Zeichen, Sätze, Absätze und Lesezeit aktualisieren sich beim Tippen."
+        ],
+        [
+          "Bearbeiten und vergleichen",
+          "Ändern Sie den Text, die Zahlen folgen. „Zurücksetzen“ leert das Feld."
+        ]
+      ],
+      "formula": "Wörter sind Zeichengruppen, die durch Leerraum getrennt sind. Lesezeit = Wörter ÷ 200 Wörter pro Minute, auf ganze Minuten gerundet.",
+      "faq": [
+        [
+          "Wie werden Wörter gezählt?",
+          "Als Zeichengruppen, die durch Leerzeichen oder Zeilenumbrüche getrennt sind, so wie es die meisten Textverarbeitungen tun. Ein Wort mit Bindestrich wie „E-Mail“ zählt als ein Wort."
+        ],
+        [
+          "Zählen Zeilenumbrüche als Zeichen?",
+          "Ja. Ein Zeilenumbruch zählt bei „Zeichen“ als ein Zeichen. „Zeichen ohne Leerzeichen“ ignoriert alle Leerzeichen, Tabulatoren und Zeilenumbrüche."
+        ],
+        [
+          "Funktioniert es für Chinesisch oder Japanisch?",
+          "Diese Sprachen werden ohne Leerzeichen zwischen den Wörtern geschrieben, daher ist die Wortzahl nicht aussagekräftig. Nutzen Sie stattdessen die Zeichenzahl."
+        ],
+        [
+          "Wird mein Text hochgeladen?",
+          "Nein. Das Zählen geschieht in Ihrem Browser, der Text wird nicht an ToolsKit gesendet."
+        ]
+      ],
+      "good": "Die Satzzahl ist eine Annäherung: Gezählt werden Textabschnitte, die mit einem Punkt, !, ? oder … enden. Abkürzungen wie „z. B.“ oder „d. h.“ können daher zusätzliche Sätze ergeben. Die Lesezeit geht von etwa 200 Wörtern pro Minute aus.",
+      "limits": [
+        "Wörter werden durch Leerraum getrennt, daher ist die Wortzahl für Sprachen ohne Leerzeichen (etwa Chinesisch, Japanisch oder Thai) nicht aussagekräftig.",
+        "Angaben zu Sätzen und Lesezeit sind Schätzungen."
+      ],
+      "syn": [
+        "zeichenzähler",
+        "zeichenzaehler",
+        "wortzähler",
+        "wortzaehler",
+        "zeichen zählen",
+        "zeichen zaehlen",
+        "wörter zählen",
+        "woerter zaehlen",
+        "buchstaben zählen",
+        "buchstaben zaehlen",
+        "zeichen zählen online",
+        "zeichen zaehlen online",
+        "wörter zählen online",
+        "woerter zaehlen online",
+        "zeichen und wörter zählen",
+        "zeichen und woerter zaehlen",
+        "zeichenanzahl",
+        "wortanzahl",
+        "anzahl zeichen",
+        "textzähler",
+        "textzaehler",
+        "textlänge prüfen",
+        "textlaenge pruefen",
+        "zeichen mit leerzeichen",
+        "zeichen ohne leerzeichen"
+      ]
+    }
+  },
+  "unsupported": [
+    {
+      "label": "PDF in Word umwandeln",
+      "patterns": [
+        "pdf in word",
+        "pdf zu word",
+        "pdf in word umwandeln",
+        "pdf zu word umwandeln",
+        "pdf in word konvertieren",
+        "pdf nach word",
+        "pdf in docx",
+        "pdf in doc",
+        "pdf als word speichern",
+        "pdf in word bearbeiten"
+      ],
+      "related": [
+        "cat:pdf"
+      ]
+    },
+    {
+      "label": "Word in PDF umwandeln",
+      "patterns": [
+        "word in pdf",
+        "word zu pdf",
+        "word in pdf umwandeln",
+        "word zu pdf umwandeln",
+        "docx in pdf",
+        "doc in pdf",
+        "word dokument in pdf",
+        "word als pdf speichern"
+      ],
+      "related": [
+        "images-to-pdf",
+        "merge-pdf",
+        "cat:pdf"
+      ]
+    },
+    {
+      "label": "PDF in Excel umwandeln",
+      "patterns": [
+        "pdf in excel",
+        "pdf zu excel",
+        "pdf in excel umwandeln",
+        "pdf in xlsx",
+        "pdf in xls",
+        "pdf in csv",
+        "pdf in tabelle"
+      ],
+      "related": [
+        "cat:pdf"
+      ]
+    },
+    {
+      "label": "Excel in PDF umwandeln",
+      "patterns": [
+        "excel in pdf",
+        "excel zu pdf",
+        "excel in pdf umwandeln",
+        "xlsx in pdf",
+        "xls in pdf",
+        "csv in pdf",
+        "tabelle in pdf"
+      ],
+      "related": [
+        "cat:pdf"
+      ]
+    },
+    {
+      "label": "PDF in PowerPoint umwandeln",
+      "patterns": [
+        "pdf in powerpoint",
+        "pdf zu powerpoint",
+        "pdf in ppt",
+        "pdf in pptx",
+        "pdf in praesentation"
+      ],
+      "related": [
+        "cat:pdf"
+      ]
+    },
+    {
+      "label": "PowerPoint in PDF umwandeln",
+      "patterns": [
+        "powerpoint in pdf",
+        "powerpoint zu pdf",
+        "ppt in pdf",
+        "pptx in pdf",
+        "praesentation in pdf"
+      ],
+      "related": [
+        "cat:pdf"
+      ]
+    },
+    {
+      "label": "PDF in JPG umwandeln",
+      "patterns": [
+        "pdf in jpg",
+        "pdf zu jpg",
+        "pdf in jpeg",
+        "pdf in jpg umwandeln",
+        "pdf zu jpg umwandeln",
+        "pdf als jpg speichern"
+      ],
+      "related": [
+        "pdf-to-images",
+        "cat:pdf"
+      ],
+      "note": "„PDF in Bilder umwandeln“ exportiert PNG-Dateien, kein JPG."
+    },
+    {
+      "label": "PDF bearbeiten",
+      "patterns": [
+        "pdf bearbeiten",
+        "pdf editor",
+        "pdf text bearbeiten",
+        "pdf text ändern",
+        "pdf text aendern",
+        "pdf kommentieren",
+        "pdf ausfüllen",
+        "pdf ausfuellen",
+        "pdf formular ausfüllen",
+        "pdf formular ausfuellen",
+        "pdf beschriften"
+      ],
+      "related": [
+        "cat:pdf"
+      ]
+    },
+    {
+      "label": "PDF unterschreiben",
+      "patterns": [
+        "pdf unterschreiben",
+        "pdf signieren",
+        "pdf unterschrift",
+        "pdf digital unterschreiben",
+        "pdf unterschrift einfügen",
+        "pdf unterschrift einfuegen",
+        "elektronische signatur",
+        "digitale signatur"
+      ],
+      "related": [
+        "cat:pdf"
+      ]
+    },
+    {
+      "label": "PDF-Passwort entfernen oder setzen",
+      "patterns": [
+        "pdf passwort entfernen",
+        "pdf entsperren",
+        "pdf passwortschutz entfernen",
+        "pdf passwort knacken",
+        "pdf schützen",
+        "pdf schuetzen",
+        "pdf passwortschutz",
+        "pdf verschlüsseln",
+        "pdf verschluesseln",
+        "pdf entschlüsseln",
+        "pdf entschluesseln",
+        "pdf mit passwort schützen",
+        "pdf mit passwort schuetzen"
+      ],
+      "related": [
+        "cat:pdf"
+      ]
+    },
+    {
+      "label": "Texterkennung (OCR)",
+      "patterns": [
+        "ocr",
+        "pdf ocr",
+        "texterkennung",
+        "text erkennen",
+        "bild in text",
+        "text aus bild",
+        "pdf in text",
+        "scan in text",
+        "pdf durchsuchbar machen"
+      ],
+      "related": [
+        "cat:pdf"
+      ]
+    },
+    {
+      "label": "PDF mit Wasserzeichen oder Seitenzahlen",
+      "patterns": [
+        "pdf wasserzeichen",
+        "wasserzeichen pdf",
+        "wasserzeichen in pdf einfügen",
+        "wasserzeichen in pdf einfuegen",
+        "pdf seitenzahlen",
+        "seitenzahlen in pdf einfügen",
+        "seitenzahlen in pdf einfuegen",
+        "pdf seiten löschen",
+        "pdf seiten loeschen",
+        "seiten aus pdf löschen",
+        "seiten aus pdf loeschen",
+        "pdf seiten entfernen",
+        "pdf seiten sortieren",
+        "pdf seiten neu anordnen"
+      ],
+      "related": [
+        "split-pdf",
+        "merge-pdf",
+        "rotate-pdf"
+      ]
+    },
+    {
+      "label": "Hintergrund entfernen",
+      "patterns": [
+        "hintergrund entfernen",
+        "bild hintergrund entfernen",
+        "hintergrund entfernen online",
+        "freistellen",
+        "bild freistellen",
+        "transparenter hintergrund",
+        "foto freistellen"
+      ],
+      "related": []
+    },
+    {
+      "label": "Bild zuschneiden",
+      "patterns": [
+        "bild zuschneiden",
+        "foto zuschneiden",
+        "bild croppen",
+        "bild beschneiden",
+        "bildausschnitt"
+      ],
+      "related": []
+    },
+    {
+      "label": "Fotobearbeitung",
+      "patterns": [
+        "foto bearbeiten",
+        "bild bearbeiten",
+        "bildbearbeitung",
+        "fotobearbeitung",
+        "fotoeditor",
+        "bildeditor",
+        "text in bild einfügen",
+        "text in bild einfuegen"
+      ],
+      "related": []
+    },
+    {
+      "label": "HEIC-Konverter",
+      "patterns": [
+        "heic in jpg",
+        "heic in png",
+        "heic in jpeg",
+        "heic konvertieren",
+        "heic umwandeln"
+      ],
+      "related": []
+    },
+    {
+      "label": "SVG- oder GIF-Werkzeug",
+      "patterns": [
+        "svg in png",
+        "png in svg",
+        "gif erstellen",
+        "gif maker",
+        "gif in mp4",
+        "video in gif"
+      ],
+      "related": []
+    },
+    {
+      "label": "Währungsrechner",
+      "patterns": [
+        "währungsrechner",
+        "waehrungsrechner",
+        "wechselkurs",
+        "wechselkurs rechner",
+        "währung umrechnen",
+        "waehrung umrechnen",
+        "euro in dollar",
+        "dollar in euro",
+        "euro in usd",
+        "usd in euro",
+        "euro in pfund",
+        "euro in franken",
+        "euro in chf"
+      ],
+      "related": [
+        "cat:calc"
+      ]
+    },
+    {
+      "label": "Entwickler-Textwerkzeug (JSON, Base64, UUID)",
+      "patterns": [
+        "json formatter",
+        "json validator",
+        "json formatieren",
+        "base64",
+        "base64 decode",
+        "base64 encode",
+        "base64 decodieren",
+        "uuid generator",
+        "url encoder",
+        "regex tester"
+      ],
+      "related": []
+    },
+    {
+      "label": "Passwort-Generator",
+      "patterns": [
+        "passwort generator",
+        "passwortgenerator",
+        "passwort erstellen",
+        "zufälliges passwort",
+        "zufaelliges passwort",
+        "sicheres passwort generieren"
+      ],
+      "related": []
+    },
+    {
+      "label": "Gesundheitsrechner",
+      "patterns": [
+        "bmi rechner",
+        "bmi berechnen",
+        "kalorienrechner",
+        "kalorienbedarf rechner",
+        "grundumsatz rechner",
+        "schwangerschaftsrechner",
+        "geburtstermin rechner"
+      ],
+      "related": [
+        "cat:calc"
+      ]
+    },
+    {
+      "label": "Datums- oder Altersrechner",
+      "patterns": [
+        "tagerechner",
+        "tage rechner",
+        "tage zwischen zwei daten",
+        "datumsrechner",
+        "datum rechner",
+        "alter berechnen",
+        "altersrechner",
+        "zeitzonenrechner",
+        "wochentag berechnen"
+      ],
+      "related": [
+        "cat:calc"
+      ]
+    },
+    {
+      "label": "Gehalts- oder Steuerrechner",
+      "patterns": [
+        "brutto netto rechner",
+        "brutto netto gehalt",
+        "gehaltsrechner",
+        "gehalt berechnen",
+        "nettolohn berechnen",
+        "netto gehalt berechnen",
+        "lohnsteuerrechner",
+        "einkommensteuer rechner",
+        "steuerrechner",
+        "trinkgeld rechner",
+        "trinkgeldrechner"
+      ],
+      "related": [
+        "vat",
+        "percentage",
+        "cat:calc"
+      ]
+    },
+    {
+      "label": "Barcode-Generator",
+      "patterns": [
+        "barcode generator",
+        "barcode erstellen",
+        "barcode erzeugen",
+        "strichcode erstellen"
+      ],
+      "related": []
+    },
+    {
+      "label": "QR-Code-Scanner",
+      "patterns": [
+        "qr code scanner",
+        "qr scanner",
+        "qr code lesen",
+        "qr code scannen",
+        "qr code reader"
+      ],
+      "related": []
+    },
+    {
+      "label": "Audio- oder Video-Konverter",
+      "patterns": [
+        "mp4 konverter",
+        "mp3 konverter",
+        "video konverter",
+        "audio konverter",
+        "youtube downloader",
+        "video downloader",
+        "youtube in mp3",
+        "mp4 in mp3",
+        "video herunterladen"
+      ],
+      "related": []
+    },
+    {
+      "label": "Übersetzer",
+      "patterns": [
+        "übersetzer",
+        "uebersetzer",
+        "text übersetzen",
+        "text uebersetzen",
+        "online übersetzer",
+        "online uebersetzer",
+        "deutsch englisch übersetzer",
+        "deutsch englisch uebersetzer"
+      ],
+      "related": []
+    }
+  ]
+}

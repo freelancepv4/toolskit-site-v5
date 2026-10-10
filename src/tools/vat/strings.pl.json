@@ -1,0 +1,11 @@
+{
+  "amount": "Kwota",
+  "rate": "Stawka VAT (%)",
+  "rate_default": "23",
+  "rate_help": "Wpisz stawkę VAT, która ma zastosowanie w danym przypadku (istnieją też stawki obniżone). 23 to tylko wartość początkowa.",
+  "dir": "Kierunek",
+  "dir_add": "netto → brutto",
+  "dir_remove": "brutto → netto",
+  "out": "Netto: {net} | VAT: {vat} | Brutto: {gross}",
+  "err_numbers": "Wpisz prawidłowe liczby."
+}

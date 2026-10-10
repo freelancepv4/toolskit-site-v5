@@ -1,0 +1,23 @@
+{
+  "a_title": "Hoeveel is X% van Y?",
+  "a_pct": "Percentage (%)",
+  "a_of": "Van dit getal",
+  "a_res": "{p}% van {y} is {r}",
+  "b_title": "X is hoeveel procent van Y?",
+  "b_part": "Deel (X)",
+  "b_whole": "Geheel (Y)",
+  "b_res": "{x} is {r}% van {y}",
+  "c_title": "Procentuele stijging of daling",
+  "c_from": "Van (oude waarde)",
+  "c_to": "Naar (nieuwe waarde)",
+  "c_up": "Stijging van {r}% (van {f} naar {t}, een verschil van {d})",
+  "c_down": "Daling van {r}% (van {f} naar {t}, een verschil van {d})",
+  "c_same": "Geen verandering: beide waarden zijn {f}.",
+  "d_title": "Prijs na korting",
+  "d_price": "Oorspronkelijke prijs",
+  "d_pct": "Korting (%)",
+  "d_res": "Nieuwe prijs: {fin} | Je bespaart: {save}",
+  "err_numbers": "Voer geldige getallen in.",
+  "err_zero_whole": "Het geheel (Y) mag niet 0 zijn.",
+  "err_zero_from": "De oude waarde mag niet 0 zijn: een procentuele verandering vanaf 0 is niet te berekenen."
+}

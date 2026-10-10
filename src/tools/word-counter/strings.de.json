@@ -1,0 +1,12 @@
+{
+  "label": "Ihr Text",
+  "placeholder": "Tippen Sie Ihren Text hier ein oder fügen Sie ihn ein…",
+  "words": "Wörter",
+  "chars": "Zeichen",
+  "chars_ns": "Zeichen ohne Leerzeichen",
+  "sentences": "Sätze",
+  "paragraphs": "Absätze",
+  "reading": "Lesezeit",
+  "read_lt1": "unter 1 Min.",
+  "read_n": "etwa {n} Min."
+}

@@ -1,0 +1,812 @@
+{
+ "synonyms": {
+  "merge-pdf": {
+   "en": [
+    "merge pdf",
+    "combine pdf",
+    "join pdf",
+    "merge pdf files",
+    "combine pdf files",
+    "pdf merger"
+   ]
+  },
+  "split-pdf": {
+   "en": [
+    "split pdf",
+    "pdf splitter",
+    "extract pdf pages",
+    "extract pages from pdf",
+    "separate pdf pages",
+    "split pdf pages"
+   ]
+  },
+  "rotate-pdf": {
+   "en": [
+    "rotate pdf",
+    "rotate pdf pages",
+    "turn pdf pages",
+    "rotate pdf 90 degrees"
+   ]
+  },
+  "compress-pdf": {
+   "en": [
+    "compress pdf",
+    "pdf compressor",
+    "reduce pdf size",
+    "reduce pdf file size",
+    "shrink pdf",
+    "make pdf smaller",
+    "optimize pdf",
+    "pdf size reducer"
+   ]
+  },
+  "pdf-to-images": {
+   "en": [
+    "pdf to image",
+    "pdf to images",
+    "pdf to png",
+    "convert pdf to image",
+    "convert pdf to png",
+    "export pdf pages as images",
+    "save pdf as image"
+   ]
+  },
+  "images-to-pdf": {
+   "en": [
+    "image to pdf",
+    "images to pdf",
+    "jpg to pdf",
+    "jpeg to pdf",
+    "png to pdf",
+    "photo to pdf",
+    "picture to pdf",
+    "convert image to pdf",
+    "combine images into pdf"
+   ]
+  },
+  "compress-image": {
+   "en": [
+    "compress image",
+    "image compressor",
+    "compress photo",
+    "compress jpg",
+    "compress jpeg",
+    "reduce image size",
+    "reduce image file size",
+    "shrink image",
+    "make image smaller",
+    "photo compressor"
+   ]
+  },
+  "resize-image": {
+   "en": [
+    "resize image",
+    "image resizer",
+    "resize photo",
+    "resize picture",
+    "change image size",
+    "change image dimensions",
+    "scale image",
+    "resize jpg",
+    "resize png"
+   ]
+  },
+  "convert-image": {
+   "en": [
+    "convert image",
+    "image converter",
+    "image format converter",
+    "change image format",
+    "jpg to png",
+    "png to jpg",
+    "jpeg to png",
+    "png to jpeg",
+    "jpg to webp",
+    "png to webp",
+    "webp to jpg",
+    "webp to png",
+    "jpeg to webp",
+    "webp to jpeg"
+   ]
+  },
+  "url-qr-code": {
+   "en": [
+    "qr code generator",
+    "qr generator",
+    "qr code",
+    "create qr code",
+    "make qr code",
+    "url qr code",
+    "link qr code",
+    "website qr code",
+    "qr code for link",
+    "qr code for website"
+   ]
+  },
+  "wifi-qr-code": {
+   "en": [
+    "wifi qr code",
+    "wi-fi qr code",
+    "wifi qr",
+    "wifi password qr code",
+    "share wifi qr code",
+    "qr code for wifi"
+   ]
+  },
+  "email-qr-code": {
+   "en": [
+    "email qr code",
+    "mail qr code",
+    "qr code for email"
+   ]
+  },
+  "phone-qr-code": {
+   "en": [
+    "phone qr code",
+    "phone number qr code",
+    "call qr code",
+    "qr code for phone number"
+   ]
+  },
+  "contact-qr-code": {
+   "en": [
+    "contact qr code",
+    "vcard qr code",
+    "qr code for contact"
+   ]
+  },
+  "length": {
+   "en": [
+    "length converter",
+    "convert length",
+    "km to miles",
+    "miles to km",
+    "miles to kilometers",
+    "kilometers to miles",
+    "meters to feet",
+    "feet to meters",
+    "inches to cm",
+    "cm to inches",
+    "feet to inches",
+    "inches to feet",
+    "cm to feet",
+    "feet to cm",
+    "mm to inches",
+    "inches to mm",
+    "yards to meters",
+    "meters to yards"
+   ]
+  },
+  "weight": {
+   "en": [
+    "weight converter",
+    "convert kg",
+    "convert weight",
+    "kg to lb",
+    "kg to lbs",
+    "lb to kg",
+    "lbs to kg",
+    "kilograms to pounds",
+    "pounds to kilograms",
+    "kilos to pounds",
+    "pounds to kilos",
+    "grams to ounces",
+    "ounces to grams",
+    "grams to pounds",
+    "pounds to grams",
+    "pounds to ounces",
+    "ounces to pounds",
+    "lb to oz",
+    "oz to lb",
+    "kg to stone",
+    "stone to kg",
+    "kg to g",
+    "g to kg"
+   ]
+  },
+  "temperature": {
+   "en": [
+    "temperature converter",
+    "convert temperature",
+    "celsius to fahrenheit",
+    "fahrenheit to celsius",
+    "celsius to kelvin",
+    "kelvin to celsius",
+    "fahrenheit to kelvin",
+    "kelvin to fahrenheit"
+   ]
+  },
+  "area": {
+   "en": [
+    "area converter",
+    "convert area",
+    "square meters to square feet",
+    "square feet to square meters",
+    "sq ft to sq m",
+    "sq m to sq ft",
+    "acres to hectares",
+    "hectares to acres",
+    "acres to square feet",
+    "square feet to acres"
+   ]
+  },
+  "volume": {
+   "en": [
+    "volume converter",
+    "convert volume",
+    "liters to gallons",
+    "litres to gallons",
+    "gallons to liters",
+    "gallons to litres",
+    "cups to ml",
+    "ml to cups",
+    "cups to liters",
+    "liters to cups",
+    "ml to fl oz",
+    "fl oz to ml"
+   ]
+  },
+  "speed": {
+   "en": [
+    "speed converter",
+    "convert speed",
+    "kmh to mph",
+    "mph to kmh",
+    "km/h to mph",
+    "mph to km/h",
+    "kph to mph",
+    "mph to kph",
+    "knots to mph",
+    "mph to knots",
+    "knots to km/h",
+    "m/s to km/h"
+   ]
+  },
+  "percentage": {
+   "en": [
+    "percentage calculator",
+    "percent calculator",
+    "percent of",
+    "percentage of a number",
+    "what percent is",
+    "percentage change",
+    "percentage increase",
+    "percentage decrease",
+    "percent change",
+    "percentage discount calculator",
+    "discount calculator",
+    "percent off calculator",
+    "sale price calculator",
+    "calculate discount",
+    "price after discount"
+   ]
+  },
+  "vat": {
+   "en": [
+    "vat calculator",
+    "calculate vat",
+    "add vat",
+    "remove vat",
+    "vat from gross",
+    "net to gross",
+    "gross to net",
+    "gst calculator",
+    "iva calculator",
+    "tva calculator",
+    "mwst rechner"
+   ]
+  },
+  "loan": {
+   "en": [
+    "loan calculator",
+    "mortgage calculator",
+    "loan payment calculator",
+    "monthly payment calculator",
+    "mortgage payment calculator",
+    "loan repayment calculator",
+    "car loan calculator",
+    "personal loan calculator"
+   ]
+  },
+  "compound": {
+   "en": [
+    "compound interest calculator",
+    "compound interest",
+    "savings calculator",
+    "savings growth calculator",
+    "investment growth calculator",
+    "investment calculator"
+   ]
+  },
+  "cv": {
+   "en": [
+    "cv builder",
+    "resume builder",
+    "cv maker",
+    "resume maker",
+    "create cv",
+    "create resume",
+    "make a cv",
+    "make a resume",
+    "curriculum vitae",
+    "cv generator",
+    "resume generator"
+   ]
+  },
+  "instagram": {
+   "en": [
+    "instagram caption generator",
+    "instagram captions",
+    "caption generator",
+    "caption ideas",
+    "ig caption"
+   ]
+  },
+  "hashtag": {
+   "en": [
+    "hashtag generator",
+    "hashtags",
+    "instagram hashtag generator",
+    "hashtag ideas"
+   ]
+  },
+  "yt-title": {
+   "en": [
+    "youtube title generator",
+    "youtube titles",
+    "video title generator",
+    "video title ideas"
+   ]
+  },
+  "yt-desc": {
+   "en": [
+    "youtube description generator",
+    "youtube description",
+    "video description generator"
+   ]
+  },
+  "bio": {
+   "en": [
+    "bio generator",
+    "social media bio generator",
+    "social bio",
+    "instagram bio generator",
+    "instagram bio",
+    "twitter bio",
+    "profile bio generator"
+   ]
+  },
+  "word-counter": {
+   "en": [
+    "word counter",
+    "count words",
+    "word count",
+    "character counter",
+    "character count",
+    "count characters",
+    "letter counter",
+    "text counter",
+    "how many words",
+    "characters with spaces",
+    "sentence counter"
+   ]
+  }
+ },
+ "categories": {
+  "pdf": {
+   "en": [
+    "pdf",
+    "pdfs"
+   ]
+  },
+  "image": {
+   "en": [
+    "image",
+    "images",
+    "photo",
+    "photos",
+    "picture",
+    "pictures"
+   ]
+  },
+  "qr": {
+   "en": [
+    "qr",
+    "qr codes"
+   ]
+  },
+  "conv": {
+   "en": [
+    "converter",
+    "converters",
+    "unit converter",
+    "unit conversion",
+    "units"
+   ]
+  },
+  "calc": {
+   "en": [
+    "calculator",
+    "calculators"
+   ]
+  },
+  "cv": {
+   "en": [
+    "cv",
+    "resume",
+    "curriculum vitae"
+   ]
+  },
+  "soc": {
+   "en": [
+    "social media",
+    "social",
+    "captions",
+    "hashtags"
+   ]
+  },
+  "text": {
+   "en": [
+    "text",
+    "word",
+    "words",
+    "characters"
+   ]
+  }
+ },
+ "unsupported": {
+  "en": [
+   {
+    "label": "PDF to Word converter",
+    "patterns": [
+     "pdf to word",
+     "pdf to doc",
+     "pdf to docx",
+     "pdf to word document",
+     "convert pdf to word",
+     "pdf to editable word"
+    ],
+    "related": [
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "Word to PDF converter",
+    "patterns": [
+     "word to pdf",
+     "doc to pdf",
+     "docx to pdf",
+     "convert word to pdf",
+     "word document to pdf"
+    ],
+    "related": [
+     "images-to-pdf",
+     "merge-pdf",
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "PDF to Excel converter",
+    "patterns": [
+     "pdf to excel",
+     "pdf to xlsx",
+     "pdf to xls",
+     "pdf to csv",
+     "pdf to spreadsheet"
+    ],
+    "related": [
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "Excel to PDF converter",
+    "patterns": [
+     "excel to pdf",
+     "xlsx to pdf",
+     "xls to pdf",
+     "csv to pdf"
+    ],
+    "related": [
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "PDF to PowerPoint converter",
+    "patterns": [
+     "pdf to ppt",
+     "pdf to pptx",
+     "pdf to powerpoint"
+    ],
+    "related": [
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "PowerPoint to PDF converter",
+    "patterns": [
+     "ppt to pdf",
+     "pptx to pdf",
+     "powerpoint to pdf"
+    ],
+    "related": [
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "PDF to JPG converter",
+    "patterns": [
+     "pdf to jpg",
+     "pdf to jpeg"
+    ],
+    "note": "PDF to Images exports PNG files, not JPG.",
+    "related": [
+     "pdf-to-images",
+     "convert-image",
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "PDF editor",
+    "patterns": [
+     "edit pdf",
+     "pdf editor",
+     "pdf edit",
+     "annotate pdf",
+     "fill pdf",
+     "fill pdf form"
+    ],
+    "related": [
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "PDF signing tool",
+    "patterns": [
+     "sign pdf",
+     "esign pdf",
+     "pdf signature",
+     "electronic signature"
+    ],
+    "related": [
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "PDF password tool",
+    "patterns": [
+     "unlock pdf",
+     "remove pdf password",
+     "pdf password remover",
+     "protect pdf",
+     "password protect pdf",
+     "encrypt pdf",
+     "decrypt pdf"
+    ],
+    "related": [
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "PDF text recognition (OCR) tool",
+    "patterns": [
+     "ocr",
+     "pdf ocr",
+     "image to text",
+     "pdf to text",
+     "scan to text"
+    ],
+    "related": [
+     "cat:pdf"
+    ]
+   },
+   {
+    "label": "PDF watermark or page-number tool",
+    "patterns": [
+     "watermark pdf",
+     "add watermark to pdf",
+     "add page numbers to pdf",
+     "pdf page numbers",
+     "delete pdf pages",
+     "remove pdf pages",
+     "reorder pdf pages"
+    ],
+    "related": [
+     "split-pdf",
+     "merge-pdf",
+     "rotate-pdf"
+    ]
+   },
+   {
+    "label": "image background remover",
+    "patterns": [
+     "remove background",
+     "background remover",
+     "remove image background",
+     "transparent background"
+    ],
+    "related": [
+     "cat:image"
+    ]
+   },
+   {
+    "label": "image cropper",
+    "patterns": [
+     "crop image",
+     "image cropper",
+     "crop photo",
+     "crop picture"
+    ],
+    "related": [
+     "resize-image",
+     "cat:image"
+    ]
+   },
+   {
+    "label": "photo editor",
+    "patterns": [
+     "photo editor",
+     "edit photo",
+     "edit image",
+     "image editor",
+     "add text to image"
+    ],
+    "related": [
+     "cat:image"
+    ]
+   },
+   {
+    "label": "HEIC converter",
+    "patterns": [
+     "heic to jpg",
+     "heic to png",
+     "heic to jpeg",
+     "convert heic"
+    ],
+    "related": [
+     "convert-image",
+     "cat:image"
+    ]
+   },
+   {
+    "label": "SVG or GIF tool",
+    "patterns": [
+     "svg to png",
+     "png to svg",
+     "gif maker",
+     "gif to mp4",
+     "video to gif"
+    ],
+    "related": [
+     "convert-image",
+     "cat:image"
+    ]
+   },
+   {
+    "label": "currency converter",
+    "patterns": [
+     "currency converter",
+     "exchange rate",
+     "convert currency",
+     "usd to eur",
+     "eur to usd",
+     "usd to gbp"
+    ],
+    "related": [
+     "cat:calc",
+     "cat:conv"
+    ]
+   },
+   {
+    "label": "developer text tool (JSON, Base64, UUID)",
+    "patterns": [
+     "json formatter",
+     "json validator",
+     "base64",
+     "base64 encode",
+     "base64 decode",
+     "uuid generator",
+     "url encoder",
+     "regex tester"
+    ],
+    "related": []
+   },
+   {
+    "label": "password generator",
+    "patterns": [
+     "password generator",
+     "random password",
+     "generate password"
+    ],
+    "related": []
+   },
+   {
+    "label": "health calculator",
+    "patterns": [
+     "bmi calculator",
+     "calorie calculator",
+     "bmr calculator",
+     "pregnancy calculator"
+    ],
+    "related": [
+     "cat:calc"
+    ]
+   },
+   {
+    "label": "date or age calculator",
+    "patterns": [
+     "age calculator",
+     "date calculator",
+     "days between dates",
+     "date difference",
+     "time zone converter",
+     "timezone converter"
+    ],
+    "related": [
+     "cat:calc"
+    ]
+   },
+   {
+    "label": "tip or salary calculator",
+    "patterns": [
+     "tip calculator",
+     "salary calculator",
+     "paycheck calculator",
+     "income tax calculator",
+     "tax calculator"
+    ],
+    "related": [
+     "vat",
+     "percentage",
+     "cat:calc"
+    ]
+   },
+   {
+    "label": "barcode generator",
+    "patterns": [
+     "barcode generator",
+     "barcode maker",
+     "create barcode"
+    ],
+    "related": [
+     "cat:qr"
+    ]
+   },
+   {
+    "label": "QR code scanner",
+    "patterns": [
+     "qr code scanner",
+     "qr scanner",
+     "qr reader",
+     "scan qr code",
+     "read qr code"
+    ],
+    "related": [
+     "cat:qr"
+    ]
+   },
+   {
+    "label": "audio or video converter",
+    "patterns": [
+     "mp4 converter",
+     "mp3 converter",
+     "video converter",
+     "audio converter",
+     "youtube downloader",
+     "video downloader",
+     "youtube to mp3",
+     "mp4 to mp3"
+    ],
+    "related": []
+   },
+   {
+    "label": "text translation tool",
+    "patterns": [
+     "translator",
+     "translate text",
+     "text translator"
+    ],
+    "related": []
+   }
+  ]
+ }
+}

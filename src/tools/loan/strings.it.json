@@ -1,0 +1,8 @@
+{
+  "amount": "Importo del prestito",
+  "rate": "Tasso annuo nominale (%)",
+  "term": "Durata (anni)",
+  "out_monthly": "Rata mensile: {v}",
+  "out_totals": "Interessi totali: {interest} | Totale da rimborsare: {total}",
+  "err_numbers": "Inserisca numeri validi."
+}

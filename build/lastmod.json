@@ -1,0 +1,638 @@
+{
+ "": {
+  "date": "2026-10-10",
+  "hash": "23ae4d6636495b6aef3a4404f96e16fe113f25b6"
+ },
+ "404.html": {
+  "date": "2026-10-10",
+  "hash": "0683abc7c8e4bfa69ff7243a4daa92666c388c58"
+ },
+ "about.html": {
+  "date": "2026-10-10",
+  "hash": "b7c7bd9aa25237aaa38f6756d22b174838c91de8"
+ },
+ "calculators/": {
+  "date": "2026-10-10",
+  "hash": "0a162877e4af564f307094ae24b2a1d5de203c62"
+ },
+ "calculators/compound-interest-calculator.html": {
+  "date": "2026-10-10",
+  "hash": "c8ad924f6cf6e36d47354eda2213af38af03e4ac"
+ },
+ "calculators/loan-mortgage-calculator.html": {
+  "date": "2026-10-10",
+  "hash": "5d85ad1488d25dbf853b71cbbf63dba3eb7869b3"
+ },
+ "calculators/percentage-calculator.html": {
+  "date": "2026-10-10",
+  "hash": "ce7416d1ebb97e2f34fae39d6e107e843f4e7684"
+ },
+ "calculators/percentage-discount-calculator.html": {
+  "date": "2026-10-05",
+  "hash": "4f9d61c56a8bae8fc693c0c28931a146b9687dd3"
+ },
+ "calculators/vat-calculator.html": {
+  "date": "2026-10-10",
+  "hash": "3333017764215ae37d3e511950219c3e3c010dd4"
+ },
+ "contact.html": {
+  "date": "2026-10-10",
+  "hash": "1902a5aa8c57beecec2bacd182564cba47568bb9"
+ },
+ "cv-builder/": {
+  "date": "2026-10-10",
+  "hash": "a271611d40395d367a19b1ce6d4d0475e33f863f"
+ },
+ "de:": {
+  "date": "2026-10-10",
+  "hash": "37a7c4cddc41ebcbc0c036d1eafef46520698463"
+ },
+ "de:datenschutz.html": {
+  "date": "2026-10-10",
+  "hash": "6434c31e4438b863bdd8731d225a25761e06c8a7"
+ },
+ "de:kontakt.html": {
+  "date": "2026-10-10",
+  "hash": "5f9e89fda95c8e6ef48253d19eb0b7bf1110632c"
+ },
+ "de:nutzungsbedingungen.html": {
+  "date": "2026-10-10",
+  "hash": "02b3466876ba6d0e38cf9afb1234628ff97c8262"
+ },
+ "de:pdf-werkzeuge/": {
+  "date": "2026-10-10",
+  "hash": "0ab5bf0c214e58ed74fc881322f54aba1d0a2756"
+ },
+ "de:pdf-werkzeuge/jpg-in-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "80030ae6811af40d7076851adbd628253cd241ff"
+ },
+ "de:pdf-werkzeuge/pdf-drehen.html": {
+  "date": "2026-10-10",
+  "hash": "be96d6b07175fddfcb89bd31e96da3139465e8bd"
+ },
+ "de:pdf-werkzeuge/pdf-in-bilder.html": {
+  "date": "2026-10-10",
+  "hash": "37392b575ab2068b6623157e47867574cbe359af"
+ },
+ "de:pdf-werkzeuge/pdf-komprimieren.html": {
+  "date": "2026-10-10",
+  "hash": "cc4b802933e505a97261dc38be79ef534d4a37b5"
+ },
+ "de:pdf-werkzeuge/pdf-teilen.html": {
+  "date": "2026-10-10",
+  "hash": "9adef8810bae15546a71c7ac2aa6e5c69957cf96"
+ },
+ "de:pdf-werkzeuge/pdf-zusammenfuegen.html": {
+  "date": "2026-10-10",
+  "hash": "62bd521edd6322dc952d98917872780a5b7da323"
+ },
+ "de:rechner/": {
+  "date": "2026-10-10",
+  "hash": "fe7a5927b657f1b7c1ce151a7432779a9560f85b"
+ },
+ "de:rechner/kreditrechner.html": {
+  "date": "2026-10-10",
+  "hash": "514012528d5de5b189e834b7c8e3114dfbeb912f"
+ },
+ "de:rechner/mehrwertsteuer-rechner.html": {
+  "date": "2026-10-10",
+  "hash": "39179c01dd8d287d71c4d8d3a34d6251826f6e3b"
+ },
+ "de:rechner/prozentrechner.html": {
+  "date": "2026-10-10",
+  "hash": "831f0a8cdbe249df09fbf1974d4aa649f13608a2"
+ },
+ "de:rechner/zinseszinsrechner.html": {
+  "date": "2026-10-10",
+  "hash": "4be29b0deed962503baf89a4d8d62310f9c45e26"
+ },
+ "de:text-werkzeuge/zeichenzaehler.html": {
+  "date": "2026-10-10",
+  "hash": "47fa654b9a46b38848047ab6039d18aa0628bb16"
+ },
+ "de:ueber-uns.html": {
+  "date": "2026-10-10",
+  "hash": "ec629446faaefd705f765731dc28aeaf226a02f0"
+ },
+ "de:werkzeuge/": {
+  "date": "2026-10-10",
+  "hash": "e7d4e8b299f3b3505e6e50c26e4e42440d0a4f6d"
+ },
+ "es:": {
+  "date": "2026-10-10",
+  "hash": "3d6e3dd1d1be0016aeaa092b1bc5f03ad0f51daa"
+ },
+ "es:acerca-de.html": {
+  "date": "2026-10-10",
+  "hash": "9b9ff40cb45d1186adcf08f0ccbd8626f7f1472c"
+ },
+ "es:calculadoras/": {
+  "date": "2026-10-10",
+  "hash": "319e8cc50ca9c7e572e20128252220666f76f4bc"
+ },
+ "es:calculadoras/calculadora-de-porcentajes.html": {
+  "date": "2026-10-10",
+  "hash": "b7c3aaf3dc1dc04c1d29a34f5235bd05e9947894"
+ },
+ "es:calculadoras/calculadora-de-prestamos.html": {
+  "date": "2026-10-10",
+  "hash": "3a7a2b6f17f28bc7b43ccdb0b68d793a3f5d255d"
+ },
+ "es:calculadoras/calculadora-interes-compuesto.html": {
+  "date": "2026-10-10",
+  "hash": "ba43daab389a9d215566a5fd922d3f8c0190b263"
+ },
+ "es:calculadoras/calculadora-iva.html": {
+  "date": "2026-10-10",
+  "hash": "eabd49a58b177be5f41ebc756400cbefb64e6705"
+ },
+ "es:condiciones-de-uso.html": {
+  "date": "2026-10-10",
+  "hash": "c19bfe5001b21100b876f9108ccd98b8748d8c51"
+ },
+ "es:contacto.html": {
+  "date": "2026-10-10",
+  "hash": "7a94eec2ea7e4ceeb67bbc5848bdb06d0132a7a2"
+ },
+ "es:herramientas-de-texto/contador-de-palabras.html": {
+  "date": "2026-10-10",
+  "hash": "df96d6ae47d6a3da1fe0b4b06ccb936963986fe3"
+ },
+ "es:herramientas-pdf/": {
+  "date": "2026-10-10",
+  "hash": "f1b30e84bfde76d0d64e26441fa05dc64a8bd945"
+ },
+ "es:herramientas-pdf/comprimir-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "090fc8562273236834bfca204b84115f3d0881fc"
+ },
+ "es:herramientas-pdf/dividir-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "ff576d57713938e997e50cad1cbd2fa6fa85403e"
+ },
+ "es:herramientas-pdf/jpg-a-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "e17e9fa286c6620c1429784b6f2af3ff487b4ff6"
+ },
+ "es:herramientas-pdf/pdf-a-imagenes.html": {
+  "date": "2026-10-10",
+  "hash": "061db3fda0198a41b934a6e853c900ce63f70adb"
+ },
+ "es:herramientas-pdf/rotar-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "feb9245fb72e98ac4be5c36a6aeffbc77f0ae6df"
+ },
+ "es:herramientas-pdf/unir-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "15095ee85f92df1efb4ebfb168914bf62533e792"
+ },
+ "es:herramientas/": {
+  "date": "2026-10-10",
+  "hash": "086e40de2fc873f15eb1023ab18048d5a7ec6562"
+ },
+ "es:privacidad.html": {
+  "date": "2026-10-10",
+  "hash": "26264fa6f9f6a7783cb1611b33f154bb866b82af"
+ },
+ "fr:": {
+  "date": "2026-10-10",
+  "hash": "97aa317ba08831eece202d9e53a579582bbfa98d"
+ },
+ "fr:a-propos.html": {
+  "date": "2026-10-10",
+  "hash": "ec4bc5b31dd11e8c22db786d58e15222d4e9ee4a"
+ },
+ "fr:calculateurs/": {
+  "date": "2026-10-10",
+  "hash": "9c7f2337e08d451671adf98d2bef82c19e914a25"
+ },
+ "fr:calculateurs/calcul-pourcentage.html": {
+  "date": "2026-10-10",
+  "hash": "08902b1426b4b921de949397bd6fd88044737a23"
+ },
+ "fr:calculateurs/calcul-tva.html": {
+  "date": "2026-10-10",
+  "hash": "c753dec1797730b1059ef01bcbf9e2375a87f0df"
+ },
+ "fr:calculateurs/interets-composes.html": {
+  "date": "2026-10-10",
+  "hash": "b801882074d7d265684b7b4e745316478bd6c0a0"
+ },
+ "fr:calculateurs/simulateur-pret.html": {
+  "date": "2026-10-10",
+  "hash": "f0519d7d55eec8c15121d2e2f020c6d0b38673cc"
+ },
+ "fr:conditions-utilisation.html": {
+  "date": "2026-10-10",
+  "hash": "1b223a35c4f9764dfb844a4bde380aad4c8ca062"
+ },
+ "fr:confidentialite.html": {
+  "date": "2026-10-10",
+  "hash": "4c5af1ce9f5b73b6f932e47da1041e292de3b15c"
+ },
+ "fr:contact.html": {
+  "date": "2026-10-10",
+  "hash": "9b996f808891c006d146f04901758fea31cd2673"
+ },
+ "fr:outils-pdf/": {
+  "date": "2026-10-10",
+  "hash": "6213d3a103cc8b596a81cda1359c8056d9a4b087"
+ },
+ "fr:outils-pdf/compresser-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "7555b52a4fa9b1bded0e9da181c6245b4aac2371"
+ },
+ "fr:outils-pdf/diviser-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "545795a648821aefb8aba838923426f5bb45f0aa"
+ },
+ "fr:outils-pdf/fusionner-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "00dd6a40f1cb0eafb8897555ba04e5dfe7dd1a51"
+ },
+ "fr:outils-pdf/jpg-en-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "b4726c704f22bc648f1d2694e42351518456679f"
+ },
+ "fr:outils-pdf/pdf-en-images.html": {
+  "date": "2026-10-10",
+  "hash": "05b1a43683d7be6e843db05a5dc3f99ed3a1baef"
+ },
+ "fr:outils-pdf/rotation-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "78e173388766c7b1d7c3fff4c279ba5b74103564"
+ },
+ "fr:outils-texte/compteur-de-mots.html": {
+  "date": "2026-10-10",
+  "hash": "c364a8281c3ff24383b108a54672054406eb7da5"
+ },
+ "fr:outils/": {
+  "date": "2026-10-10",
+  "hash": "3132b05be195f374a24aad3abd30daa0cee23197"
+ },
+ "image-tools/": {
+  "date": "2026-10-10",
+  "hash": "08712131b5188379ca017060ce439def62af65ea"
+ },
+ "image-tools/image-compressor.html": {
+  "date": "2026-10-10",
+  "hash": "9063d16383c1c188473586b55d6970a853df82bb"
+ },
+ "image-tools/image-converter.html": {
+  "date": "2026-10-10",
+  "hash": "ec9696b035173c279d321423f2bd662d18337635"
+ },
+ "image-tools/image-resizer.html": {
+  "date": "2026-10-10",
+  "hash": "4fe61af891931c09c5c6dc919547d7071bbaafe8"
+ },
+ "it:": {
+  "date": "2026-10-10",
+  "hash": "caf5b783bc3a0131e5d532180258d0f656bdb33b"
+ },
+ "it:calcolatori/": {
+  "date": "2026-10-10",
+  "hash": "3fab55ffe9d550950e255b6dbe94336d87f4a993"
+ },
+ "it:calcolatori/calcolo-iva.html": {
+  "date": "2026-10-10",
+  "hash": "c92cfcec59b15d9ebff73a81faba33c1c2aaae41"
+ },
+ "it:calcolatori/calcolo-percentuale.html": {
+  "date": "2026-10-10",
+  "hash": "fcc61515565c77b786659d8b0b634a1bf77b7f08"
+ },
+ "it:calcolatori/calcolo-prestito-mutuo.html": {
+  "date": "2026-10-10",
+  "hash": "efafa3e78e2a336478d67fe0b6e615243cf0dbee"
+ },
+ "it:calcolatori/interesse-composto.html": {
+  "date": "2026-10-10",
+  "hash": "5838f6fb3a29519d1a86226119154b44aa92abda"
+ },
+ "it:chi-siamo.html": {
+  "date": "2026-10-10",
+  "hash": "6ebdfbf3f7369ed1232bfe7a722d4d248ed35e04"
+ },
+ "it:contatti.html": {
+  "date": "2026-10-10",
+  "hash": "c5215ae7033c01a7410826e74c73aa6e0a2fd82f"
+ },
+ "it:privacy.html": {
+  "date": "2026-10-10",
+  "hash": "93e7bfbd595962ce46dbe91455db7bbcc82d4415"
+ },
+ "it:strumenti-pdf/": {
+  "date": "2026-10-10",
+  "hash": "a9c47e77fdb9949b433c29b0517239e29329d2a8"
+ },
+ "it:strumenti-pdf/comprimere-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "ccc31fe36b628f34f1f2a67111f167ab866ea695"
+ },
+ "it:strumenti-pdf/dividere-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "bef20f115b5fa7d0ece33268859113acb0586c19"
+ },
+ "it:strumenti-pdf/jpg-in-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "06a0d7d6e68a155788947f71ca954829c33c46a6"
+ },
+ "it:strumenti-pdf/pdf-in-immagini.html": {
+  "date": "2026-10-10",
+  "hash": "2eea665ee75de5d36104bb3451f64756672f2a77"
+ },
+ "it:strumenti-pdf/ruotare-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "d53500f878a7b3978bbeef28266146ef30be8cf8"
+ },
+ "it:strumenti-pdf/unire-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "fdf8f0550fd4e27c4c6f7f7b88cf311eec0d3ffe"
+ },
+ "it:strumenti-testo/conta-parole-caratteri.html": {
+  "date": "2026-10-10",
+  "hash": "3d40b12b268625c323be124b933cba12ec96b214"
+ },
+ "it:strumenti/": {
+  "date": "2026-10-10",
+  "hash": "4cd62549cecbb61c98d90eee117b27fb93481599"
+ },
+ "it:termini-di-utilizzo.html": {
+  "date": "2026-10-10",
+  "hash": "300db6e3aa96af5e30552e5887aef0afec80324d"
+ },
+ "nl:": {
+  "date": "2026-10-10",
+  "hash": "9b343c99013520094d368923a46f15fa1fca8ba3"
+ },
+ "nl:contact.html": {
+  "date": "2026-10-10",
+  "hash": "277c0b51e4d4231ad9583a123295ca9ac5b63a32"
+ },
+ "nl:gebruiksvoorwaarden.html": {
+  "date": "2026-10-10",
+  "hash": "6cbb721ce9302f6868495734c6b564753319748d"
+ },
+ "nl:over-ons.html": {
+  "date": "2026-10-10",
+  "hash": "948634f2495e74c408527936416caa67383353ed"
+ },
+ "nl:pdf-tools/": {
+  "date": "2026-10-10",
+  "hash": "158da0c5f9a14dc21b1a905991476b0a4ab7f44f"
+ },
+ "nl:pdf-tools/jpg-naar-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "9ff1cb093a3590a94fe26ea3c5f39ae56e35e026"
+ },
+ "nl:pdf-tools/pdf-naar-afbeeldingen.html": {
+  "date": "2026-10-10",
+  "hash": "1ee614ffd2d541405207179cab2a53197f246864"
+ },
+ "nl:pdf-tools/pdf-roteren.html": {
+  "date": "2026-10-10",
+  "hash": "d090ac9f25426a5e8b52559c91f4ee9dc4d8e48e"
+ },
+ "nl:pdf-tools/pdf-samenvoegen.html": {
+  "date": "2026-10-10",
+  "hash": "14507f4560940aea3a1fecf3593ce73322ebafb0"
+ },
+ "nl:pdf-tools/pdf-splitsen.html": {
+  "date": "2026-10-10",
+  "hash": "6c01cf45bc9945ba753c50d0cfae929f7e9395cf"
+ },
+ "nl:pdf-tools/pdf-verkleinen.html": {
+  "date": "2026-10-10",
+  "hash": "8ff6be44f17bc2895df287a07fd31dbf137c7d5b"
+ },
+ "nl:privacybeleid.html": {
+  "date": "2026-10-10",
+  "hash": "67865d462fdacb84d65c3f8efa1ac1f1642b5365"
+ },
+ "nl:rekentools/": {
+  "date": "2026-10-10",
+  "hash": "f887c6f72dd8fe53408ebb78f5ff54a4fddbc0eb"
+ },
+ "nl:rekentools/btw-berekenen.html": {
+  "date": "2026-10-10",
+  "hash": "63cb506c04e891e6751bf4df6ce41708b861e760"
+ },
+ "nl:rekentools/lening-berekenen.html": {
+  "date": "2026-10-10",
+  "hash": "a15f3002778f2423a761c525cafaa23f44f4eee6"
+ },
+ "nl:rekentools/percentage-berekenen.html": {
+  "date": "2026-10-10",
+  "hash": "ba1fc9785304f49a073d71ab1d39b6c29d411365"
+ },
+ "nl:rekentools/samengestelde-rente.html": {
+  "date": "2026-10-10",
+  "hash": "1466440fddeece525375cbfdc5a36bb10579c328"
+ },
+ "nl:teksttools/woorden-tellen.html": {
+  "date": "2026-10-10",
+  "hash": "ec4e45893df7498de3ef938da1149f5f10c67457"
+ },
+ "nl:tools/": {
+  "date": "2026-10-10",
+  "hash": "cccfb58d6b23256fdcf620c8bd7142eb30ef85af"
+ },
+ "pdf-tools/": {
+  "date": "2026-10-10",
+  "hash": "b8c6c756309ae596760600e285783df603765302"
+ },
+ "pdf-tools/compress-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "3ec01eee1590116a108941d83ad1b7eb14f48133"
+ },
+ "pdf-tools/images-to-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "d1c16e202eca57c3ba81e784bf5ece3b1727f10c"
+ },
+ "pdf-tools/merge-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "0cfee5c6af4138419dda5dfcdb4de34a79da6790"
+ },
+ "pdf-tools/pdf-to-images.html": {
+  "date": "2026-10-10",
+  "hash": "4aaeb70bd0a8824240ed3a7d98f761358c184fc3"
+ },
+ "pdf-tools/rotate-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "6f9ae3a3e611c95c43ff56d37b9c7f48a5531b5d"
+ },
+ "pdf-tools/split-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "524afe5232e508c8cd34c822f43feaea77efef22"
+ },
+ "pl:": {
+  "date": "2026-10-10",
+  "hash": "137acef44606b7d0d7c9d9ab0c050b9218d344e3"
+ },
+ "pl:kalkulatory/": {
+  "date": "2026-10-10",
+  "hash": "51eb5ee6a9b5ef093f9eeef5592956fef6b22140"
+ },
+ "pl:kalkulatory/kalkulator-kredytowy.html": {
+  "date": "2026-10-10",
+  "hash": "28b64632336b9412fdeee44c0094d1691cfdf954"
+ },
+ "pl:kalkulatory/kalkulator-procentowy.html": {
+  "date": "2026-10-10",
+  "hash": "b51400855a42fe82efcea27170610383213ee6ff"
+ },
+ "pl:kalkulatory/kalkulator-procentu-skladanego.html": {
+  "date": "2026-10-10",
+  "hash": "a8480b6f58cfb963a9f53f3c8ac20fde5ad08862"
+ },
+ "pl:kalkulatory/kalkulator-vat.html": {
+  "date": "2026-10-10",
+  "hash": "729524c0cfe5a35b43450a6b9dc659212dc199c3"
+ },
+ "pl:kontakt.html": {
+  "date": "2026-10-10",
+  "hash": "ad304b80b6f94501f4f2a06769537903be551736"
+ },
+ "pl:narzedzia-pdf/": {
+  "date": "2026-10-10",
+  "hash": "c55e0d486490c9c804f9d06f9e041e30262432cb"
+ },
+ "pl:narzedzia-pdf/jpg-na-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "b6cc40f6c240cf11584ed49d4618ba3966f5bd77"
+ },
+ "pl:narzedzia-pdf/kompresja-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "b5ec0987dc79d3f6b66f9d8a625f861b6eb3df49"
+ },
+ "pl:narzedzia-pdf/obroc-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "4b7cd47927a81932c1bccfe60ba3ba74647cc2a1"
+ },
+ "pl:narzedzia-pdf/pdf-na-obrazy.html": {
+  "date": "2026-10-10",
+  "hash": "a5ef33cab3731a5ac7f0f57c2f31e1e7028f53ae"
+ },
+ "pl:narzedzia-pdf/podziel-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "15e983563776d07b49af881d57b10e0296628323"
+ },
+ "pl:narzedzia-pdf/polacz-pdf.html": {
+  "date": "2026-10-10",
+  "hash": "f4e0c78919c53c39b34483f81d32cf767f668007"
+ },
+ "pl:narzedzia-tekstowe/licznik-slow.html": {
+  "date": "2026-10-10",
+  "hash": "699600b35dc4e44d817dc47f5fd48ca132765d38"
+ },
+ "pl:narzedzia/": {
+  "date": "2026-10-10",
+  "hash": "3a68bbf5b42c72bf6dfae7c52a967dee3b380cb8"
+ },
+ "pl:o-nas.html": {
+  "date": "2026-10-10",
+  "hash": "886d8dfed6525d2f518c9a29989be7411718d2e6"
+ },
+ "pl:polityka-prywatnosci.html": {
+  "date": "2026-10-10",
+  "hash": "fb1d44a7cce039c918df73e4a0c5a4ebe7f4fc4c"
+ },
+ "pl:regulamin.html": {
+  "date": "2026-10-10",
+  "hash": "d668c6f5193d7a9bee50887a8d3c3fa237adb0bf"
+ },
+ "privacy.html": {
+  "date": "2026-10-10",
+  "hash": "2bf343c93117b2e035778a65cfacbed22333b01a"
+ },
+ "qr-tools/": {
+  "date": "2026-10-10",
+  "hash": "d653cb860b0cfde7c52cd04c8ce570a5bafbcb2a"
+ },
+ "qr-tools/contact-qr-code.html": {
+  "date": "2026-10-10",
+  "hash": "e4572af9a5821e1eba886a9c00a119a0ea345366"
+ },
+ "qr-tools/email-qr-code.html": {
+  "date": "2026-10-10",
+  "hash": "2270c82dded5a113b6ecd46186d2dc680d3380a4"
+ },
+ "qr-tools/phone-qr-code.html": {
+  "date": "2026-10-10",
+  "hash": "4b3e813091f0a3333bb2fc1e7688a24905886b79"
+ },
+ "qr-tools/url-qr-code.html": {
+  "date": "2026-10-10",
+  "hash": "df97b6be7cb8c657ddda260cb365b47a2ba37ff7"
+ },
+ "qr-tools/wifi-qr-code.html": {
+  "date": "2026-10-10",
+  "hash": "d2891fe2f99948b352b27d54dc746323f0255bae"
+ },
+ "social-media-tools/": {
+  "date": "2026-10-10",
+  "hash": "113ca4fb14032a71ca30840d0cbd7060e3751a55"
+ },
+ "social-media-tools/hashtag-generator.html": {
+  "date": "2026-10-10",
+  "hash": "42474bebb4907eb5e84b0e75e44cbead9130442b"
+ },
+ "social-media-tools/instagram-caption-generator.html": {
+  "date": "2026-10-10",
+  "hash": "c156bd685c4d9e951ea5ab792610cce3cebac4c8"
+ },
+ "social-media-tools/social-bio-generator.html": {
+  "date": "2026-10-10",
+  "hash": "73ace5fd14787d1d3b3cb9bfd1f6db63cc01d669"
+ },
+ "social-media-tools/youtube-description-generator.html": {
+  "date": "2026-10-10",
+  "hash": "64c59694b9ef1d2c8f3857b55b456e9a9469c98c"
+ },
+ "social-media-tools/youtube-title-generator.html": {
+  "date": "2026-10-10",
+  "hash": "657c9836742f06f55d438e7680d59bd3eee2b1b6"
+ },
+ "terms.html": {
+  "date": "2026-10-10",
+  "hash": "89bcec5337b8af6240452804e7be7312f8e89fa1"
+ },
+ "text-tools/word-counter.html": {
+  "date": "2026-10-10",
+  "hash": "1800cfe7fc7f4cbecbd3e06b330de685e0449630"
+ },
+ "tools/": {
+  "date": "2026-10-10",
+  "hash": "4cbc1de1cda5b8903150dd39029f27b728024ec4"
+ },
+ "unit-converter/": {
+  "date": "2026-10-10",
+  "hash": "5aac1a91961fd71dc4077611d57d8cc316edc188"
+ },
+ "unit-converter/area.html": {
+  "date": "2026-10-10",
+  "hash": "9f116a09bd33fb2e995e817a82b50c45082f5540"
+ },
+ "unit-converter/length.html": {
+  "date": "2026-10-10",
+  "hash": "391ea2f03913aebb7a295ce642b9530cdc3f732d"
+ },
+ "unit-converter/speed.html": {
+  "date": "2026-10-10",
+  "hash": "81089a044cbab3b89c288d71a63a5ed3f040d5ad"
+ },
+ "unit-converter/temperature.html": {
+  "date": "2026-10-10",
+  "hash": "311d0e52207c093f8ad49625e8b299bf6d5667ff"
+ },
+ "unit-converter/volume.html": {
+  "date": "2026-10-10",
+  "hash": "e6fb6c15ff6240558ab9d68fa33fa5723179f5ff"
+ },
+ "unit-converter/weight.html": {
+  "date": "2026-10-10",
+  "hash": "135c625a2d7ea0efef81d27ac822990dd44e3bf4"
+ }
+}

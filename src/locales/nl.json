@@ -1,0 +1,315 @@
+{
+  "_comment": "Nederlandse interfaceteksten (je/jouw). Eerste concept, nog niet gelezen door een Nederlandse eindredacteur; zie docs/research/localization-notes-nl.md.",
+  "home": "Home",
+  "nav_all": "Alle tools",
+  "nav_main": "Hoofdmenu",
+  "menu": "Menu",
+  "skip": "Ga naar de inhoud",
+  "breadcrumb": "Kruimelpad",
+  "about": "Over ons",
+  "contact": "Contact",
+  "privacy": "Privacy",
+  "terms": "Voorwaarden",
+  "footer_tools": "Tools",
+  "footer_info": "Informatie",
+  "footer_legal": "Juridisch",
+  "tagline": "Gratis online tools voor alledaagse taken, direct in je browser.",
+  "footer_asis": "Gratis tools, zonder garanties.",
+  "search_label": "Tools zoeken",
+  "search_ph_short": "Tools zoeken…",
+  "search_ph_long": "Zoek een tool, bijv. pdf verkleinen, btw, woorden tellen",
+  "open": "Tool openen",
+  "results": "Zoekresultaten",
+  "related": "Gerelateerde tools",
+  "browse_all": "Bekijk alle tools →",
+  "browse_all_plain": "Bekijk alle tools",
+  "see_all": "Bekijk alle {n} passende tools →",
+  "found": "{n} tools gevonden",
+  "none_msg": "Er is op dit moment geen tool die bij je zoekopdracht past.",
+  "badge_file": "Bestanden blijven in je browser",
+  "badge_input": "Werkt in je browser",
+  "needs_js": "Voor deze tool is JavaScript nodig in je browser.",
+  "estimate_label": "Alleen een schatting.",
+  "how": "Zo werkt het",
+  "calc_h": "Zo wordt het berekend",
+  "limits": "Beperkingen",
+  "privacy_h": "Privacy",
+  "privacy_link": "Lees het privacybeleid.",
+  "good": "Goed om te weten",
+  "faq": "Veelgestelde vragen",
+  "tools_in": "Tools in {name}",
+  "other_cats": "Bekijk andere categorieën",
+  "all": "Alle",
+  "all_intro": "Zoek op wat je wilt doen, of filter op categorie.",
+  "filter_cat": "Filter op categorie",
+  "recent": "Onlangs gebruikt",
+  "recent_note": "Alleen onthouden op dit apparaat.",
+  "clear": "Wissen",
+  "popular": "Populaire tools",
+  "all_title": "Alle tools – gratis online tools | ToolsKit",
+  "all_desc": "Alle Nederlandse ToolsKit-tools: pdf-tools, rekentools en een woorden- en tekenteller. Gratis, zonder account, direct in je browser.",
+  "lib_names": {
+    "pdf-lib": "pdf-lib",
+    "pdf.js": "PDF.js",
+    "jszip": "JSZip",
+    "qrcodejs": "qrcodejs"
+  },
+  "lib_full": {
+    "pdf-lib": "pdf-lib 1.17.1 (MIT-licentie) – maakt en bewerkt pdf-bestanden.",
+    "pdf.js": "PDF.js 3.11.174 (Apache-2.0-licentie) – toont pdf-pagina’s als afbeeldingen.",
+    "jszip": "JSZip 3.10.1 (MIT- of GPL-3.0-licentie) – pakt meerdere afbeeldingen in één zipbestand.",
+    "qrcodejs": "qrcodejs 1.0.0 (MIT-licentie) – tekent QR-codes."
+  },
+  "priv_file": "Je bestand wordt in je browser verwerkt en niet geüpload naar ToolsKit.",
+  "priv_file_lib": "Je bestand wordt in je browser verwerkt met de open-sourcebibliotheek {libs}, die vanaf de eigen site van ToolsKit wordt geladen en niet via een cdn van een derde partij. Het bestand wordt niet geüpload naar ToolsKit.",
+  "priv_input": "Alles wat je invoert, wordt in je browser verwerkt en niet naar ToolsKit gestuurd.",
+  "priv_input_lib": "Alles wat je invoert, wordt in je browser verwerkt. De QR-code wordt getekend met de open-sourcebibliotheek {libs}, die vanaf de eigen site van ToolsKit wordt geladen en niet via een cdn van een derde partij. Je invoer wordt niet naar ToolsKit gestuurd.",
+  "priv_no3p": "Deze pagina laadt geen code van derden.",
+  "pcat_file": "Bestanden die je aan deze tools toevoegt, worden in je browser verwerkt en niet geüpload naar ToolsKit.",
+  "pcat_input": "Alles wat je in deze tools invoert, wordt in je browser verwerkt en niet naar ToolsKit gestuurd.",
+  "pcat_libs": "De tools gebruiken open-sourcebibliotheken ({libs}) die vanaf de eigen site van ToolsKit worden geladen, niet via een cdn van een derde partij.",
+  "home_title": "ToolsKit – gratis online tools voor alledaagse taken",
+  "home_desc": "Gratis online tools: pdf samenvoegen, verkleinen en splitsen, btw en percentages berekenen, woorden tellen. Zonder account, in je browser.",
+  "home_tasks": [
+    [
+      "PDF verkleinen",
+      "compress-pdf"
+    ],
+    [
+      "PDF samenvoegen",
+      "merge-pdf"
+    ],
+    [
+      "JPG naar PDF",
+      "images-to-pdf"
+    ],
+    [
+      "Percentage berekenen",
+      "percentage"
+    ],
+    [
+      "Btw berekenen",
+      "vat"
+    ],
+    [
+      "Lening berekenen",
+      "loan"
+    ],
+    [
+      "Woorden tellen",
+      "word-counter"
+    ]
+  ],
+  "home_faq": [
+    [
+      "Is ToolsKit gratis?",
+      "Ja. Alle tools op ToolsKit zijn op dit moment gratis te gebruiken."
+    ],
+    [
+      "Heb ik een account nodig?",
+      "Nee. Geen van de huidige tools vraagt om een account."
+    ],
+    [
+      "Worden mijn bestanden geüpload?",
+      "Nee. Bestanden die je aan een tool toevoegt, worden in je browser verwerkt en niet geüpload naar ToolsKit. De pdf- en QR-tools gebruiken open-sourcebibliotheken die vanaf de eigen site van ToolsKit worden geladen, niet via een cdn van een derde partij."
+    ],
+    [
+      "Voor wie is ToolsKit bedoeld?",
+      "Voor studenten, werkenden, makers, kleine bedrijven en iedereen die snel een hulpmiddel in de browser nodig heeft voor een pdf, afbeelding, QR-code, omrekening, berekening of cv."
+    ],
+    [
+      "Welke pdf-taken zijn niet beschikbaar?",
+      "ToolsKit kan pdf’s samenvoegen, splitsen, roteren en verkleinen, en pdf’s en afbeeldingen in elkaar omzetten. Pdf naar Word of Excel, tekst in een pdf bewerken, ondertekenen, ontgrendelen, met een wachtwoord beveiligen en ocr zijn nog niet mogelijk."
+    ],
+    [
+      "In welke talen is ToolsKit beschikbaar?",
+      "In het Engels, plus een groeiende selectie tools in het Duits, Frans, Italiaans, Spaans, Nederlands en Pools. Elke taal toont alleen de tools die in die taal zijn vertaald; wissel van taal via de lijst in de kop of voettekst."
+    ],
+    [
+      "Kan ik op de rekentools vertrouwen?",
+      "Ze geven schattingen op basis van de getallen die je invoert. De btw-tool zoekt het tarief van jouw land niet op, en geen enkele rekentool vervangt financieel of fiscaal advies."
+    ]
+  ],
+  "operator_known": "ToolsKit wordt beheerd door {name}.",
+  "operator_unknown": "De naam van de persoon of organisatie achter ToolsKit is nog niet gepubliceerd.",
+  "contact_known": "Je kunt ToolsKit bereiken via e-mail: {email}.",
+  "contact_unknown": "Een contactadres voor ToolsKit is nog niet gepubliceerd, dus je kunt via deze pagina op dit moment geen bericht sturen. Op deze site wordt niets namens jou verstuurd.",
+  "contact_title": "Contact opnemen met ToolsKit",
+  "contact_desc": "Zo neem je contact op met ToolsKit voor vragen, foutmeldingen, toolsuggesties, privacyverzoeken en zakelijke vragen.",
+  "contact_lead": "Vragen, foutmeldingen, ideeën voor tools en privacyverzoeken zijn welkom.",
+  "contact_email_btn": "E-mail schrijven",
+  "contact_unavailable": "Contact per e-mail is nog niet beschikbaar.",
+  "contact_safe_h": "Stuur geen privébestanden mee",
+  "contact_safe": "De tools van ToolsKit werken in je browser, dus we hebben je bestanden nooit nodig om een probleem uit te zoeken. Beschrijf bij een foutmelding het bestand (type en grootte) in plaats van het mee te sturen, en vermeld nooit wachtwoorden, identiteitsnummers of financiële gegevens.",
+  "contact_topics": {
+    "general": {
+      "title": "Algemene vragen",
+      "subject": "Algemene vraag",
+      "body": "Alles over hoe ToolsKit werkt en wat het wel en niet kan."
+    },
+    "bug": {
+      "title": "Foutmeldingen",
+      "subject": "Foutmelding",
+      "body": "Iets werkte niet zoals de pagina zegt.",
+      "include": [
+        "De naam van de tool en het adres van de pagina",
+        "Je browser en apparaat (bijvoorbeeld Chrome op Android)",
+        "Wat je deed, wat je verwachtte en wat er gebeurde",
+        "Het bestandstype en de ongeveer grootte, niet het bestand zelf"
+      ]
+    },
+    "suggest": {
+      "title": "Toolsuggesties",
+      "subject": "Toolsuggestie",
+      "body": "Vertel welke taak je wilde uitvoeren maar niet lukte. ToolsKit voegt tools toe die echt nuttig zijn en in de browser kunnen werken."
+    },
+    "privacy": {
+      "title": "Privacyvragen",
+      "subject": "Privacyvraag",
+      "body": "Vragen over de privacypraktijk van deze site, of een verzoek over persoonsgegevens die je ons hebt gestuurd (bijvoorbeeld een eerdere e-mail)."
+    },
+    "business": {
+      "title": "Samenwerking en zakelijke vragen",
+      "subject": "Zakelijke vraag",
+      "body": "Samenwerkingen, pers en andere zakelijke vragen."
+    }
+  },
+  "404_title": "Pagina niet gevonden | ToolsKit",
+  "404_desc": "De pagina die je zocht bestaat niet op ToolsKit. Zoek een tool of bekijk alle tools.",
+  "about_title": "Over ToolsKit – gratis online tools voor elke dag",
+  "about_desc": "ToolsKit is een verzameling gratis online tools die in je browser werken: pdf, afbeeldingen, QR-codes, omrekenen, rekentools, cv en tekst.",
+  "privacy_title": "Privacybeleid | ToolsKit",
+  "privacy_desc": "Hoe ToolsKit omgaat met je bestanden, invoer en gegevens: verwerking in de browser, lokale opslag, code van derden, analyse, logs en je rechten.",
+  "terms_title": "Gebruiksvoorwaarden | ToolsKit",
+  "terms_desc": "De voorwaarden voor het gebruik van de gratis online tools van ToolsKit: toegestaan gebruik, beperkingen, geen garantie, disclaimers voor rekentools en aansprakelijkheid.",
+  "llms_summary": "ToolsKit is een verzameling gratis online tools die in de browser werken: pdf-tools, afbeeldingstools, QR-codegeneratoren, omrekentools, rekentools, een cv-maker en op sjablonen gebaseerde tekstgeneratoren voor social media. Een account is niet nodig. Bestanden en invoer worden in de browser verwerkt en niet geüpload naar ToolsKit. In het Nederlands zijn op dit moment pdf-tools, rekentools (percentage, btw, lening, samengestelde rente) en een woorden- en tekenteller beschikbaar.",
+  "llms_pages": "Pagina’s",
+  "llms_about": "wat ToolsKit is, voor wie het is, hoe de tools werken en wat de beperkingen zijn",
+  "llms_all": "doorzoekbare lijst van alle tools",
+  "llms_tools": "Tools",
+  "llms_privacy_h": "Privacy en verwerking",
+  "llms_privacy": [
+    "De tools werken in de browser van de bezoeker. Bestanden en ingetypte invoer worden niet naar een ToolsKit-server gestuurd.",
+    "De pdf- en QR-tools gebruiken open-sourcebibliotheken (pdf-lib, PDF.js, JSZip, qrcodejs) die vanaf de eigen site van ToolsKit worden geladen, niet via een cdn van een derde partij.",
+    "ToolsKit bewaart alleen een lijst met namen van onlangs geopende tools (en een cv-concept als de bezoeker Concept opslaan kiest) in de eigen browser van de bezoeker. Er worden geen cookies geplaatst en er worden op dit moment geen analyse of advertenties gebruikt."
+  ],
+  "llms_audience_h": "Voor wie",
+  "llms_audience": "Studenten, werkenden, makers, kleine bedrijven en iedereen die snel een hulpmiddel in de browser nodig heeft.",
+  "llms_not_h": "Wat ToolsKit niet doet",
+  "llms_not": [
+    "Geen omzetting van pdf naar Word of Excel, geen bewerking van pdf-tekst, geen ondertekening, geen wachtwoordverwijdering en geen ocr.",
+    "Rekentools geven alleen schattingen; de btw-tool gebruikt het tarief dat de bezoeker invoert en zoekt geen tarieven per land op. Niets is fiscaal of financieel advies.",
+    "Generatoren voor social media werken met vaste sjablonen, niet met AI.",
+    "Beschikbaar in het Engels, plus een groeiende set vertaalde toolpagina’s (zie de talenlijst)."
+  ],
+  "or": "of",
+  "reset": "Herstellen",
+  "next": "Verder:",
+  "months": [
+    "januari",
+    "februari",
+    "maart",
+    "april",
+    "mei",
+    "juni",
+    "juli",
+    "augustus",
+    "september",
+    "oktober",
+    "november",
+    "december"
+  ],
+  "lang_label": "Taal",
+  "lang_note": "Elke taal toont de tools die in die taal zijn vertaald. Je keuze wordt alleen op dit apparaat onthouden en verandert de pagina nooit uit zichzelf.",
+  "slugs": {
+    "tools": "tools",
+    "about": "over-ons.html",
+    "contact": "contact.html",
+    "privacy": "privacybeleid.html",
+    "terms": "gebruiksvoorwaarden.html"
+  },
+  "search_words": {
+    "stop": [
+      "een",
+      "het",
+      "de",
+      "van",
+      "voor",
+      "en",
+      "of",
+      "mijn",
+      "mij",
+      "me",
+      "hoe",
+      "kan",
+      "ik",
+      "kun",
+      "kunnen",
+      "gratis",
+      "online",
+      "tool",
+      "tools",
+      "maken",
+      "maak",
+      "bouwen",
+      "alsjeblieft",
+      "graag",
+      "wil",
+      "wilt",
+      "nodig",
+      "gebruiken",
+      "gebruik",
+      "met",
+      "op",
+      "aan",
+      "waar",
+      "is",
+      "zijn",
+      "zoek",
+      "zoeken",
+      "je",
+      "jouw",
+      "kosteloos"
+    ],
+    "conn": [
+      "naar",
+      "in",
+      "tot",
+      "om",
+      "2",
+      "als"
+    ],
+    "filler": [
+      "omzetten",
+      "converteren",
+      "omrekenen",
+      "veranderen",
+      "wijzigen",
+      "bestand",
+      "bestanden",
+      "document",
+      "documenten",
+      "pdfje",
+      "opslaan",
+      "zetten",
+      "omvormen"
+    ]
+  },
+  "no_tool_for": "Er is op dit moment geen {label} beschikbaar op ToolsKit.",
+  "no_tool_generic": "Er is op dit moment geen tool die bij je zoekopdracht past.",
+  "no_in_cat": "Geen enkele tool in deze categorie past bij je zoekopdracht.",
+  "n_tools_one": "{n} tool",
+  "n_tools_other": "{n} tools",
+  "none_tools": "Geen tools gevonden",
+  "n_related": "{n} gerelateerde tools weergegeven.",
+  "enter_number": "Voer een getal in.",
+  "min_msg": "Voer een getal in van {min} of hoger.",
+  "max_msg": "Voer een getal in van {max} of lager.",
+  "copied": "Gekopieerd ✓",
+  "copied_sr": "Gekopieerd naar het klembord",
+  "copy_fail": "Kopiëren is niet gelukt. Selecteer de tekst en kopieer die handmatig.",
+  "qr_ok": "QR-code gemaakt. Gebruik de knop PNG downloaden.",
+  "qr_lowcontrast": "Weinig contrast, of een lichte code op een donkere achtergrond: deze QR-code is mogelijk niet te scannen. Gebruik een donkere code op een lichte achtergrond.",
+  "img_type": "Kies een afbeeldingsbestand (JPG, PNG of WebP).",
+  "img_open": "Deze afbeelding kon niet worden geopend. Probeer een JPG-, PNG- of WebP-bestand."
+}

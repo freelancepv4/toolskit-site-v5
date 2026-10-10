@@ -1,0 +1,1303 @@
+{
+ "categories": {
+  "pdf": {
+   "name": "Strumenti PDF",
+   "dir": "strumenti-pdf",
+   "card": "Unire, dividere, ruotare e comprimere PDF e convertirli in immagini.",
+   "intro": "Strumenti online gratuiti per unire, dividere, ruotare e comprimere file PDF e per convertire tra PDF e immagini.",
+   "title": "Strumenti PDF: unire, dividere, comprimere | ToolsKit",
+   "description": "Strumenti PDF gratuiti: unire, dividere, ruotare e comprimere PDF, convertire PDF in immagini e JPG in PDF. Nel browser, senza registrazione.",
+   "faq": [
+    [
+     "Esiste un limite alla dimensione dei file?",
+     "ToolsKit rifiuta i singoli file di oltre 150 MB. In pratica il limite dipende dalla memoria del dispositivo e gli smartphone possono avere difficoltà con file molto grandi."
+    ],
+    [
+     "Perché il mio PDF non è diventato più piccolo?",
+     "“Comprimere PDF” salva di nuovo il file in modo più efficiente, ma non ricomprime le immagini al suo interno: i PDF pieni di foto cambiano quindi poco."
+    ],
+    [
+     "Posso usare PDF protetti da password?",
+     "No. Rimuova prima la password, poi aggiunga il file."
+    ],
+    [
+     "Come scelgo le pagine da estrarre?",
+     "In “Dividere PDF” inserisca i numeri di pagina, ad esempio 1-3,5."
+    ],
+    [
+     "I miei PDF vengono caricati?",
+     "No. I file vengono elaborati nel browser e non vengono caricati su ToolsKit."
+    ]
+   ],
+   "syn": [
+    "pdf",
+    "pdf online",
+    "strumenti pdf",
+    "file pdf",
+    "documenti pdf",
+    "editor pdf"
+   ]
+  },
+  "calc": {
+   "name": "Calcolatori",
+   "dir": "calcolatori",
+   "card": "Calcolo percentuale, calcolo IVA e scorporo IVA, calcolo prestito e interesse composto.",
+   "intro": "Calcolatori online gratuiti per percentuali e sconti, IVA e scorporo IVA, prestiti e interesse composto. I risultati sono stime e non costituiscono consulenza finanziaria o fiscale.",
+   "title": "Calcolatori: percentuale, IVA, prestito | ToolsKit",
+   "description": "Calcolatori gratuiti: calcolo percentuale e sconto, calcolo e scorporo IVA, calcolo prestito e mutuo, interesse composto. Stime, nel browser.",
+   "faq": [
+    [
+     "Il calcolo IVA conosce l’aliquota applicabile?",
+     "No. Deve inserire l’aliquota che si applica al suo caso. Il valore 22 è solo un valore iniziale."
+    ],
+    [
+     "I risultati sono vincolanti?",
+     "No. Sono stime, non consulenza fiscale o finanziaria. Fanno fede i dati della sua banca, del suo commercialista o dell’autorità competente."
+    ],
+    [
+     "Esistono calcolatori per codice fiscale, busta paga o IMU?",
+     "No, al momento ToolsKit non offre questi calcolatori."
+    ]
+   ],
+   "syn": [
+    "calcolatore",
+    "calcolatori",
+    "calcolatrice",
+    "calcolo",
+    "calcoli",
+    "calcolare",
+    "calcoli online",
+    "calcolatori online"
+   ]
+  },
+  "text": {
+   "name": "Strumenti di testo",
+   "dir": "strumenti-testo",
+   "card": "Contare parole e caratteri del suo testo.",
+   "syn": [
+    "testo",
+    "testi",
+    "parole",
+    "caratteri",
+    "lettere",
+    "contare",
+    "conteggio",
+    "strumenti testo",
+    "lunghezza testo"
+   ]
+  }
+ },
+ "tools": {
+  "merge-pdf": {
+   "file": "unire-pdf.html",
+   "name": "Unire PDF",
+   "h1": "Unire PDF: più file in un unico PDF",
+   "title": "Unire PDF online gratis | ToolsKit",
+   "description": "Unire PDF online: più file PDF in un unico documento, nell’ordine che sceglie. Funziona nel browser, senza registrazione.",
+   "card": "Unire più PDF in un unico file, nell’ordine che sceglie.",
+   "lead": "Unisca più PDF in un solo file (anche detto “unire più file PDF in uno”, o “fondere” PDF) e scelga l’ordine dei documenti.",
+   "steps": [
+    [
+     "Aggiunga i PDF",
+     "Scelga o trascini due o più file PDF."
+    ],
+    [
+     "Imposti l’ordine",
+     "Usi le frecce per spostare i file in alto o in basso."
+    ],
+    [
+     "Scarichi il file",
+     "Scarichi il PDF unito."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "In che ordine vengono uniti i file?",
+     "Nell’ordine mostrato nell’elenco. Prima di unire, lo modifichi con le frecce."
+    ],
+    [
+     "Posso unire PDF protetti da password?",
+     "No. Rimuova prima la password, poi aggiunga di nuovo il file."
+    ],
+    [
+     "Segnalibri e campi dei moduli vengono mantenuti?",
+     "Le pagine vengono copiate in un nuovo documento, quindi gli elementi che non fanno parte delle pagine, come i segnalibri, potrebbero non essere trasferiti."
+    ]
+   ],
+   "good": "I file molto grandi possono essere lenti o esaurire la memoria degli smartphone. Se la pagina non risponde, unisca meno file per volta.",
+   "limits": [
+    "I PDF protetti da password non possono essere uniti. Rimuova prima la password.",
+    "I singoli file di oltre 150 MB vengono rifiutati; i file molto grandi possono inoltre non funzionare su dispositivi con poca memoria."
+   ],
+   "ws": {
+    "title": "Trascini qui i PDF",
+    "choose": "Scegli i PDF",
+    "hint": "Solo file PDF. Ne aggiunga due o più, poi li riordini se serve."
+   },
+   "syn": [
+    "unire pdf",
+    "unire pdf online",
+    "unire più pdf",
+    "unire file pdf",
+    "unire due pdf",
+    "unione pdf",
+    "unisci pdf",
+    "unire pdf in uno",
+    "unire pdf gratis",
+    "fondere pdf",
+    "unire documenti pdf",
+    "unire pdf in un unico file",
+    "combinare pdf",
+    "pdf merge",
+    "merge pdf"
+   ]
+  },
+  "split-pdf": {
+   "file": "dividere-pdf.html",
+   "name": "Dividere PDF",
+   "h1": "Dividere PDF: estrarre le pagine che servono",
+   "title": "Dividere PDF online: estrarre pagine | ToolsKit",
+   "description": "Dividere un PDF estraendo un intervallo di pagine, ad esempio 1-3,5, in un nuovo file. Nel browser: il PDF non viene caricato.",
+   "card": "Estrarre un intervallo di pagine in un nuovo PDF.",
+   "lead": "Divida un PDF estraendo in un nuovo file le pagine che le servono (utile anche per “separare” o “estrarre” pagine da un PDF).",
+   "steps": [
+    [
+     "Aggiunga il PDF",
+     "Scelga o trascini un PDF."
+    ],
+    [
+     "Indichi le pagine",
+     "Ad esempio 1-3,5."
+    ],
+    [
+     "Scarichi il file",
+     "Scarichi un nuovo PDF con solo quelle pagine."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Come si scrive l’intervallo di pagine?",
+     "Separi le pagine con virgole e usi il trattino per gli intervalli, ad esempio 1-3,5. La numerazione parte da 1."
+    ],
+    [
+     "Posso ottenere ogni pagina come file separato?",
+     "Non ancora. Lo strumento estrae le pagine indicate in un unico nuovo PDF."
+    ],
+    [
+     "Cosa succede se indico una pagina che non esiste?",
+     "Compare un messaggio con il numero di pagine del file, così può correggere l’intervallo."
+    ]
+   ],
+   "good": "Nel risultato le pagine compaiono in ordine numerico, indipendentemente dall’ordine in cui le digita.",
+   "limits": [
+    "Estrae le pagine scelte in un unico nuovo PDF. Non divide un documento in più file in una volta sola.",
+    "I PDF protetti da password non sono supportati."
+   ],
+   "ws": {
+    "title": "Trascini qui il PDF",
+    "choose": "Scegli il PDF",
+    "hint": "Un solo file PDF."
+   },
+   "syn": [
+    "dividere pdf",
+    "dividere pdf online",
+    "dividere un pdf",
+    "dividere pdf in pagine",
+    "dividere pdf gratis",
+    "divisione pdf",
+    "dividi pdf",
+    "separare pdf",
+    "separare pagine pdf",
+    "estrarre pagine pdf",
+    "estrarre pagine da pdf",
+    "tagliare pdf",
+    "dividere pagine pdf",
+    "split pdf"
+   ]
+  },
+  "rotate-pdf": {
+   "file": "ruotare-pdf.html",
+   "name": "Ruotare PDF",
+   "h1": "Ruotare PDF: pagine di 90°, 180° o 270°",
+   "title": "Ruotare PDF online gratis | ToolsKit",
+   "description": "Ruotare le pagine di un PDF di 90°, 180° o 270° e scaricare il risultato. Funziona nel browser, senza registrazione.",
+   "card": "Ruotare le pagine di un PDF di 90°, 180° o 270°.",
+   "lead": "Ruoti tutte le pagine di un PDF di 90°, 180° o 270°, ad esempio per correggere una scansione girata di lato.",
+   "steps": [
+    [
+     "Aggiunga il PDF",
+     "Scelga o trascini un PDF."
+    ],
+    [
+     "Scelga la rotazione",
+     "90° in senso orario, 180° o 90° in senso antiorario."
+    ],
+    [
+     "Scarichi il file",
+     "Scarichi il PDF ruotato."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Posso ruotare solo alcune pagine?",
+     "Non ancora. La rotazione si applica a tutte le pagine del file."
+    ],
+    [
+     "Il file originale viene modificato?",
+     "No. Scarica un nuovo file; l’originale resta com’è."
+    ]
+   ],
+   "good": "Se una pagina era già ruotata nel file, la nuova rotazione si aggiunge a quella esistente.",
+   "limits": [
+    "Tutte le pagine vengono ruotate dello stesso angolo; non è possibile ruotare singole pagine."
+   ],
+   "ws": {
+    "title": "Trascini qui il PDF",
+    "choose": "Scegli il PDF",
+    "hint": "Un solo file PDF. Tutte le pagine vengono ruotate dello stesso angolo."
+   },
+   "syn": [
+    "ruotare pdf",
+    "ruotare pdf online",
+    "ruotare un pdf",
+    "ruotare pagine pdf",
+    "ruotare pagina pdf",
+    "ruota pdf",
+    "girare pdf",
+    "girare pagine pdf",
+    "raddrizzare pdf",
+    "ruotare pdf di 90 gradi",
+    "ruotare pdf gratis",
+    "rotate pdf"
+   ]
+  },
+  "compress-pdf": {
+   "file": "comprimere-pdf.html",
+   "name": "Comprimere PDF",
+   "h1": "Comprimere PDF e ridurre la dimensione del file",
+   "title": "Comprimere PDF online gratis | ToolsKit",
+   "description": "Comprimere un PDF e confrontare la dimensione prima e dopo. Non ricomprime le immagini. Funziona nel browser, senza registrazione.",
+   "card": "Salvare di nuovo un PDF con una struttura più efficiente. Non ricomprime le immagini.",
+   "lead": "Comprima un PDF e riduca la dimensione del file, dove possibile (“ridurre dimensione PDF”). Il risultato varia da file a file.",
+   "steps": [
+    [
+     "Aggiunga il PDF",
+     "Scelga o trascini un PDF."
+    ],
+    [
+     "Comprima",
+     "Il file viene salvato di nuovo con una struttura più efficiente."
+    ],
+    [
+     "Confronti e scarichi",
+     "Veda la dimensione prima e dopo."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Perché il mio PDF non è diventato più piccolo?",
+     "Questo strumento salva di nuovo il file in modo più efficiente, ma non ricomprime le immagini al suo interno. I PDF pesanti a causa delle foto si riducono poco o per nulla."
+    ],
+    [
+     "Cambia la qualità?",
+     "No. Immagini e testo non vengono ricodificati, quindi l’aspetto non cambia."
+    ],
+    [
+     "Esiste un’opzione più potente?",
+     "Non in questo strumento. Ricomprimere le immagini incorporate è un procedimento diverso e più pesante."
+    ]
+   ],
+   "good": "Se il risultato non è più piccolo, tenga il file originale.",
+   "limits": [
+    "Non ricomprime le immagini, quindi i PDF ricchi di foto o le scansioni possono ridursi pochissimo.",
+    "Non permette di indicare una dimensione di destinazione."
+   ],
+   "ws": {
+    "title": "Trascini qui il PDF",
+    "choose": "Scegli il PDF",
+    "hint": "Un solo file PDF."
+   },
+   "syn": [
+    "comprimere pdf",
+    "comprimere pdf online",
+    "comprimere un pdf",
+    "comprimere pdf gratis",
+    "comprimi pdf",
+    "compressione pdf",
+    "ridurre dimensione pdf",
+    "ridurre dimensioni pdf",
+    "ridurre peso pdf",
+    "ridurre pdf",
+    "alleggerire pdf",
+    "rimpicciolire pdf",
+    "diminuire dimensione pdf",
+    "pdf più piccolo",
+    "compress pdf"
+   ]
+  },
+  "pdf-to-images": {
+   "file": "pdf-in-immagini.html",
+   "name": "PDF in immagini",
+   "h1": "PDF in immagini: ogni pagina come file PNG",
+   "title": "PDF in immagini PNG online | ToolsKit",
+   "description": "Convertire un PDF in immagini: ogni pagina viene esportata come PNG. Più pagine in un file ZIP. Nel browser, senza registrazione.",
+   "card": "Esportare ogni pagina di un PDF come immagine PNG.",
+   "lead": "Converta un PDF in immagini: ogni pagina viene esportata come file PNG (non JPG). Chi cerca “pdf in jpg” trova qui il formato PNG.",
+   "steps": [
+    [
+     "Aggiunga il PDF",
+     "Scelga o trascini un PDF."
+    ],
+    [
+     "Scelga la qualità",
+     "Standard o Alta."
+    ],
+    [
+     "Scarichi il file",
+     "Un PNG, oppure uno ZIP se le pagine sono più di una."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "In che formato sono le immagini?",
+     "PNG. Una singola pagina viene scaricata come un solo PNG; più pagine vengono scaricate in un unico file ZIP. Non è disponibile l’esportazione in JPG."
+    ],
+    [
+     "Cosa fa la qualità Alta?",
+     "Disegna le pagine a dimensioni maggiori: le immagini sono più grandi e serve più memoria."
+    ],
+    [
+     "Perché un PDF grande è lento?",
+     "Le pagine vengono elaborate una alla volta nel browser, quindi i documenti lunghi o ricchi di immagini possono essere lenti o raggiungere i limiti di memoria, soprattutto sugli smartphone."
+    ]
+   ],
+   "good": "Provi prima con la qualità Standard. Passi ad Alta solo se servono immagini più grandi.",
+   "limits": [
+    "Esporta solo in PNG (niente JPG).",
+    "La qualità Alta su pagine grandi può esaurire la memoria, soprattutto sugli smartphone."
+   ],
+   "ws": {
+    "title": "Trascini qui il PDF",
+    "choose": "Scegli il PDF",
+    "hint": "Un solo file PDF. Le pagine vengono esportate come immagini PNG."
+   },
+   "syn": [
+    "pdf in immagini",
+    "pdf in immagine",
+    "pdf in png",
+    "pdf in foto",
+    "convertire pdf in immagini",
+    "convertire pdf in immagine",
+    "convertire pdf in png",
+    "salvare pdf come immagine",
+    "pagine pdf in immagini",
+    "da pdf a immagine",
+    "da pdf a png",
+    "pdf to png"
+   ]
+  },
+  "images-to-pdf": {
+   "file": "jpg-in-pdf.html",
+   "name": "JPG in PDF",
+   "h1": "JPG in PDF: da immagini a un unico PDF",
+   "title": "JPG in PDF online: immagini in un PDF | ToolsKit",
+   "description": "Convertire JPG o PNG in PDF: più immagini in un unico file, una per pagina. Funziona nel browser, le immagini non vengono caricate.",
+   "card": "Unire immagini JPG o PNG in un unico PDF.",
+   "lead": "Converta immagini JPG o PNG in PDF: tutte le immagini finiscono in un unico documento, una per pagina.",
+   "steps": [
+    [
+     "Aggiunga le immagini",
+     "Scelga o trascini file JPG o PNG."
+    ],
+    [
+     "Controlli l’ordine",
+     "Le pagine seguono l’ordine dell’elenco."
+    ],
+    [
+     "Scarichi il file",
+     "Scarichi un unico PDF."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Quali formati di immagine funzionano?",
+     "JPG e PNG. Altri formati, come WebP, non sono supportati."
+    ],
+    [
+     "Che dimensione hanno le pagine?",
+     "Ogni pagina ha le dimensioni in pixel della sua immagine. Non viene adattata ad A4 o Letter."
+    ],
+    [
+     "Posso riordinare le immagini?",
+     "Le pagine seguono l’ordine in cui i file sono stati aggiunti. Per cambiarlo, rimuova tutto e le aggiunga di nuovo nell’ordine voluto."
+    ]
+   ],
+   "good": "Le foto grandi producono PDF grandi. Se il file deve essere leggero, comprima o ridimensioni prima le immagini.",
+   "limits": [
+    "Accetta solo JPG e PNG.",
+    "Ogni immagine diventa una pagina con le sue dimensioni; non ci sono opzioni per formato pagina o margini."
+   ],
+   "ws": {
+    "title": "Trascini qui le immagini",
+    "choose": "Scegli le immagini",
+    "hint": "JPG o PNG. Le pagine seguono l’ordine mostrato sotto."
+   },
+   "syn": [
+    "jpg in pdf",
+    "jpg in pdf online",
+    "jpeg in pdf",
+    "png in pdf",
+    "immagine in pdf",
+    "immagini in pdf",
+    "foto in pdf",
+    "convertire jpg in pdf",
+    "convertire immagine in pdf",
+    "convertire foto in pdf",
+    "trasformare jpg in pdf",
+    "unire immagini in pdf",
+    "da jpg a pdf",
+    "da immagine a pdf",
+    "jpg to pdf"
+   ]
+  },
+  "percentage": {
+   "file": "calcolo-percentuale.html",
+   "name": "Calcolo percentuale",
+   "h1": "Calcolo percentuale online",
+   "title": "Calcolo percentuale: sconto e variazione | ToolsKit",
+   "description": "Calcolo percentuale online: X% di un numero, quanto per cento è un numero rispetto a un altro, aumento o diminuzione e prezzo scontato. Nel browser.",
+   "card": "Percentuale di un numero, variazione percentuale e sconti, con il calcolo mostrato.",
+   "lead": "Quattro calcoli percentuali in un’unica pagina: percentuale di un numero, quanto per cento, variazione percentuale e sconto.",
+   "steps": [
+    [
+     "Scelga il calcolo",
+     "In questa pagina ci sono quattro calcolatori: percentuale di un numero, quanto per cento, variazione percentuale e prezzo dopo uno sconto."
+    ],
+    [
+     "Inserisca i numeri",
+     "Compili i due campi del calcolatore che le serve. I risultati si aggiornano mentre digita."
+    ],
+    [
+     "Legga il risultato",
+     "I risultati sono arrotondati a due decimali. Azzera ripristina i valori di esempio."
+    ]
+   ],
+   "formula": "X% di Y = Y × X ÷ 100. X è (X ÷ Y × 100)% di Y. Variazione = (nuovo − vecchio) ÷ |vecchio| × 100. Prezzo scontato = prezzo × (1 − sconto ÷ 100).",
+   "faq": [
+    [
+     "Come si calcola un aumento percentuale?",
+     "Usi “Variazione percentuale”: inserisca il valore iniziale in Da e il valore finale in A. Un risultato positivo indica un aumento, uno negativo una diminuzione."
+    ],
+    [
+     "Come si calcola uno sconto?",
+     "Nel calcolatore “Prezzo dopo uno sconto” inserisca il prezzo originale e la percentuale di sconto: ottiene il prezzo finale e quanto risparmia."
+    ],
+    [
+     "Perché il valore iniziale non può essere 0?",
+     "La variazione percentuale a partire da 0 non è definita, perché comporterebbe una divisione per zero."
+    ],
+    [
+     "Percentuale e punti percentuali sono la stessa cosa?",
+     "No. Passare dal 10% al 12% è un aumento di 2 punti percentuali, ma un aumento del 20% del tasso. Questo strumento restituisce la seconda cifra se inserisce 10 e 12 come Da e A."
+    ]
+   ],
+   "good": "I risultati sono arrotondati a due decimali per la visualizzazione. Il separatore decimale segue le impostazioni di lingua del browser.",
+   "limits": [
+    "Gestisce quattro domande comuni sulle percentuali. Non calcola percentuali composte su più periodi (vedere il calcolo dell’interesse composto) né percentuali inverse, come “il prezzo prima di uno sconto del 20%”."
+   ],
+   "disclaimer": "Solo un calcolo rapido dei prezzi. Verifichi prezzi finali ed eventuali imposte sulla fattura o sullo scontrino del venditore.",
+   "syn": [
+    "calcolo percentuale",
+    "calcolo percentuali",
+    "calcolare percentuale",
+    "calcolare percentuali",
+    "calcolatore percentuale",
+    "calcola percentuale",
+    "percentuale di un numero",
+    "calcolo percentuale di un numero",
+    "quanto è il percento di",
+    "che percentuale è",
+    "calcolo sconto",
+    "calcolare sconto",
+    "calcolo percentuale sconto",
+    "calcolare uno sconto",
+    "calcolo aumento percentuale",
+    "aumento percentuale",
+    "variazione percentuale",
+    "calcolo variazione percentuale",
+    "calcolo percentuale diminuzione",
+    "percentuale",
+    "percentuali",
+    "percento",
+    "per cento"
+   ]
+  },
+  "vat": {
+   "file": "calcolo-iva.html",
+   "name": "Calcolo IVA e scorporo IVA",
+   "h1": "Calcolo IVA e scorporo IVA online",
+   "title": "Calcolo IVA e scorporo IVA online | ToolsKit",
+   "description": "Calcolo IVA: aggiungere l’IVA a un importo netto o fare lo scorporo IVA da un importo lordo, con l’aliquota che inserisce. Stima, non consulenza fiscale.",
+   "card": "Aggiungere l’IVA a un netto o scorporarla da un lordo, con l’aliquota che inserisce.",
+   "lead": "Calcolo IVA online: aggiunga l’IVA a un importo netto oppure faccia lo scorporo IVA da un importo lordo, con l’aliquota che inserisce.",
+   "steps": [
+    [
+     "Inserisca importo e aliquota",
+     "Indichi l’importo e l’aliquota IVA che si applica al suo caso."
+    ],
+    [
+     "Scelga l’operazione",
+     "“Aggiungi IVA” parte dal netto e arriva al lordo; “Scorpora IVA” parte dal lordo e arriva al netto."
+    ],
+    [
+     "Legga il risultato",
+     "I risultati si aggiornano mentre digita. Azzera ricomincia."
+    ]
+   ],
+   "formula": "Lordo = netto × (1 + aliquota ÷ 100). Netto = lordo ÷ (1 + aliquota ÷ 100). IVA = lordo − netto.",
+   "faq": [
+    [
+     "Cos’è lo scorporo IVA?",
+     "È il calcolo che parte da un importo comprensivo di IVA (lordo) e ricava l’importo senza IVA (netto) e l’IVA contenuta. Qui si ottiene scegliendo “Scorpora IVA (lordo → netto)”."
+    ],
+    [
+     "Come si scorpora l’IVA da un importo lordo?",
+     "Si divide il lordo per 1 più l’aliquota divisa per 100 (ad esempio per 1,22 se l’aliquota è 22%). Non basta sottrarre la percentuale dal lordo: lo strumento esegue il calcolo corretto."
+    ],
+    [
+     "Lo strumento conosce l’aliquota IVA applicabile?",
+     "No. Deve inserire l’aliquota che si applica al suo caso: esistono aliquote diverse e ridotte, e ToolsKit non le cerca. Il valore iniziale è solo un valore di partenza."
+    ],
+    [
+     "È consulenza fiscale?",
+     "No. È un semplice calcolatore. Per cifre ufficiali si rivolga all’autorità fiscale o a un commercialista."
+    ]
+   ],
+   "good": "Il netto è il prezzo prima dell’IVA (imponibile); il lordo è il prezzo IVA inclusa.",
+   "limits": [
+    "Usa solo l’aliquota che inserisce. Non cerca le aliquote IVA in vigore, le esenzioni né le regole di arrotondamento."
+   ],
+   "disclaimer": "Questo calcolatore applica l’aliquota che inserisce e non verifica le norme IVA in vigore né gli arrotondamenti. Controlli gli importi con l’autorità fiscale o con un commercialista prima di usarli in una fattura o in una dichiarazione.",
+   "syn": [
+    "calcolo iva",
+    "calcolo dell iva",
+    "calcolare iva",
+    "calcolare l iva",
+    "calcolatore iva",
+    "calcola iva",
+    "scorporo iva",
+    "scorporare iva",
+    "scorporo dell iva",
+    "scorporare l iva",
+    "calcolo scorporo iva",
+    "calcolo iva scorporo",
+    "scorporo iva online",
+    "come scorporare l iva",
+    "iva scorporo",
+    "aggiungere iva",
+    "calcolo iva 22",
+    "iva 22",
+    "calcolo iva inclusa",
+    "calcolo iva esclusa",
+    "iva da lordo a netto",
+    "iva da netto a lordo",
+    "imponibile iva",
+    "iva",
+    "ventilazione iva"
+   ]
+  },
+  "loan": {
+   "file": "calcolo-prestito-mutuo.html",
+   "name": "Calcolo prestito e mutuo",
+   "h1": "Calcolo prestito e mutuo: rata mensile e interessi",
+   "title": "Calcolo prestito e mutuo: rata e interessi | ToolsKit",
+   "description": "Calcolo prestito e mutuo a tasso fisso: stima della rata mensile, degli interessi totali e del totale da rimborsare. Una stima, non consulenza finanziaria.",
+   "card": "Stimare rata mensile, interessi totali e totale da rimborsare di un prestito a tasso fisso.",
+   "lead": "Calcolo prestito e mutuo: stimi la rata mensile di un finanziamento a tasso fisso con rate costanti.",
+   "steps": [
+    [
+     "Inserisca i dati",
+     "Compili ogni campo."
+    ],
+    [
+     "Verifichi la formula",
+     "Indichi l’importo, il tasso annuo e la durata in anni."
+    ],
+    [
+     "Legga il risultato",
+     "I risultati si aggiornano mentre digita. Azzera ricomincia."
+    ]
+   ],
+   "formula": "r = tasso annuo ÷ 12 ÷ 100; n = anni × 12; rata = P × r ÷ (1 − (1 + r)^−n), dove P è l’importo. Con tasso 0%, rata = P ÷ n.",
+   "faq": [
+    [
+     "Che tasso devo inserire?",
+     "Il tasso annuo nominale (TAN) del finanziamento. Non è il TAEG, che include anche spese e costi accessori e che questo strumento non calcola."
+    ],
+    [
+     "Cosa non è incluso nel calcolo?",
+     "Spese, assicurazioni, imposte, tassi variabili ed estinzioni anticipate. Si assume un tasso fisso e rate mensili costanti."
+    ],
+    [
+     "È consulenza finanziaria?",
+     "No. I risultati sono stime. Contano le cifre indicate dal suo finanziatore."
+    ]
+   ],
+   "good": "Provi durate diverse per vedere come cambiano gli interessi totali.",
+   "limits": [
+    "Si assume un tasso fisso e rate mensili costanti. Non sono incluse spese, assicurazioni, imposte, tassi variabili o rimborsi anticipati."
+   ],
+   "disclaimer": "Tassi, spese, assicurazioni, imposte e condizioni effettive del finanziatore variano e questo risultato non è un’offerta di finanziamento. Questo strumento non fornisce consulenza finanziaria.",
+   "syn": [
+    "calcolo prestito",
+    "calcolo mutuo",
+    "calcolo rata mutuo",
+    "calcolo rata prestito",
+    "calcolare rata mutuo",
+    "calcolare rata prestito",
+    "calcolare mutuo",
+    "calcolare prestito",
+    "calcolatore mutuo",
+    "calcolatore prestito",
+    "simulazione mutuo",
+    "simulatore mutuo",
+    "simulatore prestito",
+    "calcolo rata",
+    "calcolo finanziamento",
+    "rata mutuo",
+    "rata prestito",
+    "interessi mutuo",
+    "calcolo interessi prestito",
+    "mutuo",
+    "prestito",
+    "finanziamento"
+   ]
+  },
+  "compound": {
+   "file": "interesse-composto.html",
+   "name": "Calcolo interesse composto",
+   "h1": "Interesse composto: calcolo online con versamenti",
+   "title": "Calcolo interesse composto online | ToolsKit",
+   "description": "Calcolo dell’interesse composto con versamenti periodici: stima della crescita del capitale, con formula e ipotesi. Una stima, non una previsione.",
+   "card": "Stimare la crescita del capitale con versamenti periodici.",
+   "lead": "Calcoli l’interesse composto e stimi come cresce un capitale nel tempo, con versamenti periodici.",
+   "steps": [
+    [
+     "Inserisca i dati",
+     "Compili ogni campo."
+    ],
+    [
+     "Verifichi la formula",
+     "Indichi capitale iniziale, versamento, tasso, frequenza e durata."
+    ],
+    [
+     "Legga il risultato",
+     "I risultati si aggiornano mentre digita. Azzera ricomincia."
+    ]
+   ],
+   "formula": "crescita = (1 + r/n)^(n × anni); montante = capitale × crescita + versamento × (crescita − 1) ÷ (r/n), dove r è il tasso annuo e n i periodi di capitalizzazione all’anno.",
+   "faq": [
+    [
+     "Quando vengono effettuati i versamenti?",
+     "Il calcolatore ipotizza un versamento alla fine di ogni periodo di capitalizzazione, quindi la frequenza dei versamenti coincide con quella di capitalizzazione."
+    ],
+    [
+     "Che cos’è l’interesse composto?",
+     "È l’interesse calcolato non solo sul capitale iniziale ma anche sugli interessi già maturati nei periodi precedenti."
+    ],
+    [
+     "È una previsione?",
+     "No. I rendimenti reali variano e non sono garantiti."
+    ]
+   ],
+   "good": "I risultati sono stime, non previsioni.",
+   "limits": [
+    "Si assume un tasso costante e un versamento per ogni periodo di capitalizzazione. Non sono considerati costi, imposte né inflazione."
+   ],
+   "disclaimer": "I rendimenti reali variano e non sono garantiti; costi, imposte e inflazione non sono inclusi. Questo strumento non fornisce consulenza finanziaria.",
+   "syn": [
+    "interesse composto",
+    "calcolo interesse composto",
+    "calcolo interessi composti",
+    "calcolare interesse composto",
+    "calcolatore interesse composto",
+    "interessi composti",
+    "capitalizzazione composta",
+    "montante interesse composto",
+    "formula interesse composto",
+    "calcolo montante",
+    "calcolo capitalizzazione",
+    "simulatore investimento",
+    "calcolo rendimento",
+    "interesse composto con versamenti"
+   ]
+  },
+  "word-counter": {
+   "file": "conta-parole-caratteri.html",
+   "name": "Conta parole e caratteri",
+   "h1": "Conta parole e conta caratteri online",
+   "title": "Conta parole e caratteri online | ToolsKit",
+   "description": "Conta parole e caratteri (con e senza spazi), frasi e paragrafi mentre digita, con il tempo di lettura stimato. Il testo non viene caricato.",
+   "card": "Contare parole, caratteri, frasi e paragrafi del suo testo.",
+   "lead": "Incolli o digiti un testo per contarne parole e caratteri, con e senza spazi.",
+   "steps": [
+    [
+     "Aggiunga il testo",
+     "Lo digiti o lo incolli nel riquadro."
+    ],
+    [
+     "Legga i conteggi",
+     "Parole, caratteri, frasi, paragrafi e tempo di lettura si aggiornano mentre digita."
+    ],
+    [
+     "Modifichi e confronti",
+     "Cambi il testo e i conteggi lo seguono. Azzera svuota il riquadro."
+    ]
+   ],
+   "formula": "Le parole sono gruppi di caratteri separati da spazi. Tempo di lettura = parole ÷ 200 parole al minuto, arrotondato al minuto più vicino.",
+   "faq": [
+    [
+     "Come vengono contate le parole?",
+     "Come gruppi di caratteri separati da spazi o a capo, come fanno la maggior parte dei programmi di videoscrittura. Una parola con trattino come “e-mail” conta come una parola."
+    ],
+    [
+     "Le parole con apostrofo contano una o due volte?",
+     "Una sola: ciò che conta è lo spazio, quindi “l’anno” o “un’amica” sono conteggiate come una parola ciascuna."
+    ],
+    [
+     "Gli a capo contano come caratteri?",
+     "Sì. Un a capo conta come un carattere in “Caratteri”. “Caratteri senza spazi” ignora tutti gli spazi, le tabulazioni e gli a capo."
+    ],
+    [
+     "Funziona per cinese o giapponese?",
+     "Queste lingue si scrivono senza spazi tra le parole, quindi il conteggio delle parole non è significativo. Usi il conteggio dei caratteri."
+    ],
+    [
+     "Il mio testo viene caricato?",
+     "No. Il conteggio avviene nel browser e il testo non viene inviato a ToolsKit."
+    ]
+   ],
+   "good": "Il numero di frasi è un’approssimazione: conta i tratti di testo che terminano con punto, !, ? o …, quindi abbreviazioni come “ecc.” possono aggiungere frasi in più. Il tempo di lettura presuppone circa 200 parole al minuto.",
+   "limits": [
+    "Le parole sono separate da spazi, quindi il conteggio delle parole non è significativo per le lingue scritte senza spazi (come cinese, giapponese o thailandese).",
+    "I dati su frasi e tempo di lettura sono stime."
+   ],
+   "syn": [
+    "conta parole",
+    "conta caratteri",
+    "conta parole e caratteri",
+    "conta parole online",
+    "conta caratteri online",
+    "conta caratteri con spazi",
+    "conta caratteri senza spazi",
+    "contatore parole",
+    "contatore caratteri",
+    "contatore di parole",
+    "contatore di caratteri",
+    "contare parole",
+    "contare caratteri",
+    "conteggio parole",
+    "conteggio caratteri",
+    "quante parole ha un testo",
+    "conta lettere",
+    "contalettere",
+    "contatore lettere",
+    "word counter"
+   ]
+  }
+ },
+ "unsupported": [
+  {
+   "label": "Convertitore da PDF a Word",
+   "patterns": [
+    "pdf in word",
+    "pdf a word",
+    "da pdf a word",
+    "pdf in word modificabile",
+    "convertire pdf in word",
+    "convertire pdf in doc",
+    "pdf in doc",
+    "pdf in docx",
+    "trasformare pdf in word",
+    "pdf in word online",
+    "modificare pdf in word",
+    "pdf editabile",
+    "pdf modificabile"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Convertitore da Word a PDF",
+   "patterns": [
+    "word in pdf",
+    "word a pdf",
+    "da word a pdf",
+    "doc in pdf",
+    "docx in pdf",
+    "convertire word in pdf",
+    "convertire doc in pdf",
+    "trasformare word in pdf",
+    "word in pdf online",
+    "salvare word in pdf"
+   ],
+   "related": [
+    "images-to-pdf",
+    "merge-pdf",
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Convertitore da PDF a Excel",
+   "patterns": [
+    "pdf in excel",
+    "pdf a excel",
+    "da pdf a excel",
+    "pdf in xlsx",
+    "pdf in xls",
+    "pdf in csv",
+    "convertire pdf in excel",
+    "pdf in foglio di calcolo"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Convertitore da Excel a PDF",
+   "patterns": [
+    "excel in pdf",
+    "excel a pdf",
+    "da excel a pdf",
+    "xlsx in pdf",
+    "xls in pdf",
+    "csv in pdf",
+    "convertire excel in pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Convertitore da PDF a PowerPoint",
+   "patterns": [
+    "pdf in powerpoint",
+    "pdf a powerpoint",
+    "pdf in ppt",
+    "pdf in pptx",
+    "pdf in presentazione"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Convertitore da PowerPoint a PDF",
+   "patterns": [
+    "powerpoint in pdf",
+    "powerpoint a pdf",
+    "ppt in pdf",
+    "pptx in pdf",
+    "presentazione in pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Convertitore da PDF a JPG",
+   "patterns": [
+    "pdf in jpg",
+    "pdf a jpg",
+    "da pdf a jpg",
+    "pdf in jpeg",
+    "convertire pdf in jpg",
+    "trasformare pdf in jpg",
+    "pdf in jpg online",
+    "salvare pdf come jpg"
+   ],
+   "related": [
+    "pdf-to-images",
+    "cat:pdf"
+   ],
+   "note": "“PDF in immagini” esporta file PNG, non JPG."
+  },
+  {
+   "label": "Editor PDF",
+   "patterns": [
+    "modificare pdf",
+    "modifica pdf",
+    "editor pdf",
+    "pdf editor",
+    "modificare testo pdf",
+    "modificare un pdf",
+    "compilare pdf",
+    "compilare modulo pdf",
+    "scrivere su pdf",
+    "annotare pdf",
+    "aggiungere testo a pdf",
+    "modificare pdf online"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Firma di PDF",
+   "patterns": [
+    "firmare pdf",
+    "firma pdf",
+    "firmare un pdf",
+    "firma digitale pdf",
+    "firma elettronica",
+    "firma digitale",
+    "firmare pdf online",
+    "inserire firma in pdf",
+    "aggiungere firma a pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Rimozione o impostazione della password di un PDF",
+   "patterns": [
+    "togliere password pdf",
+    "rimuovere password pdf",
+    "sbloccare pdf",
+    "proteggere pdf",
+    "proteggere pdf con password",
+    "password pdf",
+    "pdf protetto",
+    "crittografare pdf",
+    "decrittografare pdf",
+    "eliminare password pdf",
+    "rimuovere protezione pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Riconoscimento del testo (OCR)",
+   "patterns": [
+    "ocr",
+    "pdf ocr",
+    "ocr online",
+    "ocr pdf",
+    "da immagine a testo",
+    "immagine in testo",
+    "pdf in testo",
+    "testo da immagine",
+    "testo da pdf",
+    "scansione in testo",
+    "riconoscimento testo",
+    "pdf ricercabile"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "Filigrana, numeri di pagina o riordino pagine PDF",
+   "patterns": [
+    "filigrana pdf",
+    "aggiungere filigrana pdf",
+    "numerare pagine pdf",
+    "numeri di pagina pdf",
+    "numerazione pagine pdf",
+    "eliminare pagine pdf",
+    "eliminare pagine da pdf",
+    "cancellare pagine pdf",
+    "rimuovere pagine pdf",
+    "riordinare pagine pdf",
+    "organizzare pdf"
+   ],
+   "related": [
+    "split-pdf",
+    "merge-pdf",
+    "rotate-pdf"
+   ]
+  },
+  {
+   "label": "Rimozione dello sfondo dalle immagini",
+   "patterns": [
+    "rimuovere sfondo",
+    "rimuovi sfondo",
+    "rimuovere sfondo immagine",
+    "togliere sfondo",
+    "togliere sfondo foto",
+    "eliminare sfondo",
+    "sfondo trasparente",
+    "rimuovere sfondo online",
+    "cancellare sfondo"
+   ],
+   "related": []
+  },
+  {
+   "label": "Ritaglio di immagini",
+   "patterns": [
+    "ritagliare immagine",
+    "ritagliare foto",
+    "ritaglia immagine",
+    "ritagliare un immagine",
+    "crop immagine",
+    "tagliare foto"
+   ],
+   "related": []
+  },
+  {
+   "label": "Editor di foto",
+   "patterns": [
+    "modificare foto",
+    "modificare immagine",
+    "editor foto",
+    "editor immagini",
+    "photo editor",
+    "ritoccare foto",
+    "aggiungere testo a foto",
+    "scrivere su foto"
+   ],
+   "related": []
+  },
+  {
+   "label": "Convertitore WebP o HEIC in JPG o PNG",
+   "patterns": [
+    "webp in jpg",
+    "webp in png",
+    "webp in jpeg",
+    "da webp a jpg",
+    "convertire webp in jpg",
+    "heic in jpg",
+    "heic in png",
+    "heic in jpeg",
+    "convertire heic",
+    "da heic a jpg",
+    "png in webp",
+    "jpg in webp"
+   ],
+   "related": []
+  },
+  {
+   "label": "Convertitore SVG o GIF",
+   "patterns": [
+    "svg in png",
+    "png in svg",
+    "creare gif",
+    "gif maker",
+    "gif in mp4",
+    "video in gif"
+   ],
+   "related": []
+  },
+  {
+   "label": "Convertitore di valuta",
+   "patterns": [
+    "convertitore valuta",
+    "convertitore valute",
+    "cambio valuta",
+    "tasso di cambio",
+    "convertire valuta",
+    "euro in dollari",
+    "dollari in euro",
+    "euro in usd",
+    "usd in euro",
+    "euro in sterline"
+   ],
+   "related": [
+    "cat:calc"
+   ]
+  },
+  {
+   "label": "Strumento di testo per sviluppatori (JSON, Base64, UUID)",
+   "patterns": [
+    "json formatter",
+    "json validator",
+    "formattare json",
+    "base64",
+    "base64 decode",
+    "base64 encode",
+    "decodificare base64",
+    "uuid generator",
+    "url encoder",
+    "regex tester"
+   ],
+   "related": []
+  },
+  {
+   "label": "Generatore di password",
+   "patterns": [
+    "generatore password",
+    "generatore di password",
+    "creare password",
+    "password casuale",
+    "generare password",
+    "password sicura"
+   ],
+   "related": []
+  },
+  {
+   "label": "Generatore di lorem ipsum",
+   "patterns": [
+    "lorem ipsum",
+    "generatore lorem ipsum",
+    "testo lorem ipsum",
+    "lorem ipsum generator"
+   ],
+   "related": []
+  },
+  {
+   "label": "Calcolatore di salute",
+   "patterns": [
+    "calcolo bmi",
+    "calcolo imc",
+    "calcolo calorie",
+    "fabbisogno calorico",
+    "calcolo metabolismo basale",
+    "calcolo gravidanza",
+    "calcolo data parto",
+    "calcolo ovulazione"
+   ],
+   "related": [
+    "cat:calc"
+   ]
+  },
+  {
+   "label": "Calcolatore di date o età",
+   "patterns": [
+    "calcolo età",
+    "calcolare età",
+    "calcolo giorni tra due date",
+    "giorni tra due date",
+    "differenza tra date",
+    "calcolo date",
+    "calcolo data",
+    "calcolo giorni",
+    "convertitore fuso orario",
+    "calcolo giorni lavorativi"
+   ],
+   "related": [
+    "cat:calc"
+   ]
+  },
+  {
+   "label": "Calcolo del codice fiscale",
+   "patterns": [
+    "calcolo codice fiscale",
+    "calcolare codice fiscale",
+    "codice fiscale",
+    "codice fiscale online",
+    "calcola codice fiscale",
+    "generatore codice fiscale",
+    "verifica codice fiscale",
+    "codice fiscale inverso"
+   ],
+   "related": [
+    "cat:calc"
+   ],
+   "note": "ToolsKit non calcola il codice fiscale."
+  },
+  {
+   "label": "Calcolo di stipendio, busta paga o imposte",
+   "patterns": [
+    "stipendio netto lordo",
+    "calcolo stipendio netto",
+    "calcolo stipendio lordo",
+    "calcolo netto lordo",
+    "da lordo a netto",
+    "da netto a lordo",
+    "busta paga",
+    "calcolo busta paga",
+    "calcolo stipendio",
+    "calcolo irpef",
+    "calcolo tasse",
+    "calcolo imposte",
+    "calcolo ral",
+    "calcolo ral netto",
+    "calcolo mancia",
+    "simulatore busta paga"
+   ],
+   "related": [
+    "cat:calc"
+   ],
+   "note": "ToolsKit non offre calcolatori di stipendio, busta paga o imposte sul reddito."
+  },
+  {
+   "label": "Calcolo di TFR, IMU o ritenuta d’acconto",
+   "patterns": [
+    "calcolo tfr",
+    "calcolare tfr",
+    "calcolo imu",
+    "calcolare imu",
+    "imu calcolo",
+    "ritenuta d acconto",
+    "calcolo ritenuta d acconto",
+    "calcolo bollo auto",
+    "calcolo pensione",
+    "calcolo tari"
+   ],
+   "related": [
+    "cat:calc"
+   ],
+   "note": "Per questi calcoli servono tabelle e regole aggiornate che ToolsKit non gestisce."
+  },
+  {
+   "label": "Generatore di codici a barre",
+   "patterns": [
+    "generatore codice a barre",
+    "codice a barre",
+    "creare codice a barre",
+    "barcode generator",
+    "barcode"
+   ],
+   "related": []
+  },
+  {
+   "label": "Lettore di codici QR",
+   "patterns": [
+    "lettore qr code",
+    "lettore qr",
+    "scansione qr code",
+    "scanner qr code",
+    "leggere qr code",
+    "scansionare qr code",
+    "qr code reader"
+   ],
+   "related": []
+  },
+  {
+   "label": "Convertitore audio o video",
+   "patterns": [
+    "convertitore mp4",
+    "convertitore mp3",
+    "convertitore video",
+    "convertitore audio",
+    "scaricare video youtube",
+    "scaricare video",
+    "youtube mp3",
+    "youtube in mp3",
+    "mp4 in mp3",
+    "youtube downloader"
+   ],
+   "related": []
+  },
+  {
+   "label": "Traduttore di testi",
+   "patterns": [
+    "traduttore",
+    "traduci testo",
+    "tradurre testo",
+    "traduzione testo",
+    "traduttore online"
+   ],
+   "related": []
+  }
+ ]
+}

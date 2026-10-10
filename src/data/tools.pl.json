@@ -1,0 +1,1396 @@
+{
+ "categories": {
+  "pdf": {
+   "name": "Narzędzia PDF",
+   "dir": "narzedzia-pdf",
+   "card": "Łącz, dziel, obracaj i kompresuj pliki PDF oraz zamieniaj strony na obrazy i obrazy na PDF.",
+   "intro": "Darmowe narzędzia online do łączenia, dzielenia, obracania i kompresji plików PDF oraz do zamiany PDF na obrazy i obrazów na PDF.",
+   "title": "Narzędzia PDF – połącz, podziel, kompresuj | ToolsKit",
+   "description": "Darmowe narzędzia PDF: połącz, podziel, obróć i skompresuj PDF oraz zamień PDF na obrazy i JPG na PDF. Działa w przeglądarce, bez konta.",
+   "faq": [
+    [
+     "Czy jest limit rozmiaru pliku?",
+     "ToolsKit odrzuca pojedyncze pliki większe niż 150 MB. W praktyce limit zależy od pamięci urządzenia, a telefony mogą mieć kłopot z dużymi plikami."
+    ],
+    [
+     "Dlaczego mój PDF się nie zmniejszył?",
+     "Kompresja PDF zapisuje plik wydajniej, ale nie kompresuje ponownie obrazów w środku, więc PDF-y pełne zdjęć mogą prawie się nie zmienić."
+    ],
+    [
+     "Czy można używać plików PDF zabezpieczonych hasłem?",
+     "Nie. Najpierw usuń hasło, a potem dodaj plik."
+    ],
+    [
+     "Jak wybrać strony do wyodrębnienia?",
+     "W narzędziu Podziel PDF wpisz numery stron, np. 1-3,5."
+    ],
+    [
+     "Czy pliki PDF są przesyłane na serwer?",
+     "Nie. Pliki są przetwarzane w przeglądarce i nie są przesyłane do ToolsKit."
+    ]
+   ],
+   "syn": [
+    "pdf",
+    "pdfy",
+    "pdf-y",
+    "pliki pdf",
+    "plik pdf",
+    "narzędzia pdf",
+    "narzedzia pdf",
+    "dokumenty pdf",
+    "operacje na pdf",
+    "praca z pdf"
+   ]
+  },
+  "calc": {
+   "name": "Kalkulatory",
+   "dir": "kalkulatory",
+   "card": "Kalkulator procentowy, kalkulator VAT, kalkulator kredytowy i kalkulator procentu składanego.",
+   "intro": "Darmowe kalkulatory online: procenty i rabaty, VAT, kredyt i procent składany. Wyniki są szacunkami, a nie poradą finansową ani podatkową.",
+   "title": "Kalkulatory online: procent, VAT, kredyt | ToolsKit",
+   "description": "Darmowe kalkulatory: procentowy z rabatem, VAT, kredytowy i procentu składanego. Wyniki to szacunki. Działa w przeglądarce, bez konta.",
+   "faq": [
+    [
+     "Czy kalkulator VAT zna stawkę podatku?",
+     "Nie. Wpisz stawkę, która ma zastosowanie. Wartość 23 to tylko wartość początkowa, a stawki zależą m.in. od kraju oraz rodzaju towaru lub usługi."
+    ],
+    [
+     "Czy wyniki są wiążące?",
+     "Nie. To szacunki, a nie porada podatkowa ani finansowa. Wiążące są informacje z banku, od doradcy podatkowego lub z urzędu."
+    ],
+    [
+     "Czy jest tu kalkulator wynagrodzeń (brutto – netto)?",
+     "Nie. Obecne kalkulatory nie liczą wynagrodzeń, składek ani podatku dochodowego."
+    ]
+   ],
+   "syn": [
+    "kalkulator",
+    "kalkulatory",
+    "kalkulator online",
+    "kalkulatory online",
+    "oblicz",
+    "obliczenia",
+    "obliczanie",
+    "policz",
+    "liczenie",
+    "liczyć",
+    "liczyc",
+    "kalkulator finansowy"
+   ]
+  },
+  "text": {
+   "name": "Narzędzia tekstowe",
+   "dir": "narzedzia-tekstowe",
+   "card": "Policz słowa i znaki w tekście.",
+   "syn": [
+    "tekst",
+    "teksty",
+    "narzędzia tekstowe",
+    "narzedzia tekstowe",
+    "słowa",
+    "slowa",
+    "znaki",
+    "litery",
+    "liczenie",
+    "liczyć",
+    "liczyc",
+    "licznik",
+    "zliczanie",
+    "długość tekstu",
+    "dlugosc tekstu"
+   ]
+  }
+ },
+ "tools": {
+  "merge-pdf": {
+   "file": "polacz-pdf.html",
+   "name": "Połącz PDF",
+   "h1": "Połącz PDF – kilka plików w jeden dokument",
+   "title": "Połącz PDF – scal pliki PDF online | ToolsKit",
+   "description": "Połącz kilka plików PDF w jeden dokument i ustaw ich kolejność. Działa w przeglądarce, bez konta.",
+   "card": "Połącz kilka plików PDF w jeden, w wybranej kolejności.",
+   "lead": "Połącz kilka plików PDF w jeden (inaczej: scal PDF lub złącz pliki PDF) i ustaw ich kolejność.",
+   "steps": [
+    [
+     "Dodaj pliki PDF",
+     "Wybierz lub przeciągnij co najmniej dwa pliki PDF."
+    ],
+    [
+     "Ustaw kolejność",
+     "Przesuwaj pliki w górę lub w dół za pomocą strzałek."
+    ],
+    [
+     "Pobierz",
+     "Pobierz jeden połączony plik PDF."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "W jakiej kolejności pliki są łączone?",
+     "W kolejności widocznej na liście. Zmień ją strzałkami przed połączeniem."
+    ],
+    [
+     "Czy można połączyć pliki PDF zabezpieczone hasłem?",
+     "Nie. Najpierw usuń hasło, a potem dodaj plik ponownie."
+    ],
+    [
+     "Czy zakładki i pola formularzy zostaną zachowane?",
+     "Strony są kopiowane do nowego dokumentu, więc elementy leżące poza samymi stronami, np. zakładki, mogą nie zostać przeniesione."
+    ]
+   ],
+   "good": "Bardzo duże pliki mogą działać wolno lub wyczerpać pamięć telefonu. Jeśli strona przestaje reagować, połącz mniej plików naraz.",
+   "limits": [
+    "Plików PDF zabezpieczonych hasłem nie można połączyć. Najpierw usuń hasło.",
+    "Pojedyncze pliki większe niż 150 MB są odrzucane; bardzo duże pliki mogą też zawieść na urządzeniach z małą ilością pamięci."
+   ],
+   "ws": {
+    "title": "Przeciągnij pliki PDF tutaj",
+    "choose": "Wybierz pliki PDF",
+    "hint": "Tylko pliki PDF. Dodaj co najmniej dwa, a w razie potrzeby zmień kolejność."
+   },
+   "syn": [
+    "połącz pdf",
+    "polacz pdf",
+    "połącz pliki pdf",
+    "polacz pliki pdf",
+    "połączyć pdf",
+    "polaczyc pdf",
+    "połączyć pliki pdf",
+    "łączenie pdf",
+    "laczenie pdf",
+    "łączenie plików pdf",
+    "scal pdf",
+    "scalanie pdf",
+    "scal pliki pdf",
+    "scalić pdf",
+    "scalic pdf",
+    "złącz pdf",
+    "zlacz pdf",
+    "złączyć pdf",
+    "zlaczyc pdf",
+    "połącz pdf online",
+    "polacz pdf online",
+    "połącz kilka pdf w jeden",
+    "połącz pdf w jeden plik",
+    "jak połączyć pdf",
+    "jak polaczyc pdf",
+    "dołącz pdf do pdf",
+    "pdf merge",
+    "merge pdf",
+    "pdf merger"
+   ]
+  },
+  "split-pdf": {
+   "file": "podziel-pdf.html",
+   "name": "Podziel PDF",
+   "h1": "Podziel PDF – wyodrębnij wybrane strony do nowego pliku",
+   "title": "Podziel PDF – wyodrębnij strony online | ToolsKit",
+   "description": "Podziel PDF: wyodrębnij zakres stron, np. 1-3,5, do nowego pliku. Działa w przeglądarce, plik nie jest przesyłany na serwer.",
+   "card": "Wyodrębnij zakres stron do nowego pliku PDF.",
+   "lead": "Podziel PDF, wybierając strony do nowego pliku – wpisz zakres, np. 1-3,5.",
+   "steps": [
+    [
+     "Dodaj plik PDF",
+     "Wybierz lub przeciągnij jeden plik PDF."
+    ],
+    [
+     "Wpisz strony",
+     "Na przykład 1-3,5."
+    ],
+    [
+     "Pobierz",
+     "Pobierz nowy PDF zawierający tylko te strony."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Jak zapisać zakres stron?",
+     "Rozdziel strony przecinkami, a zakresy zapisz z myślnikiem, np. 1-3,5. Numeracja zaczyna się od 1."
+    ],
+    [
+     "Czy można dostać każdą stronę jako osobny plik?",
+     "Jeszcze nie. To narzędzie wyodrębnia wskazane strony do jednego nowego pliku PDF."
+    ],
+    [
+     "Co się stanie po wpisaniu strony, której nie ma w pliku?",
+     "Pojawi się komunikat z liczbą stron w pliku, aby można było poprawić zakres."
+    ]
+   ],
+   "good": "W wyniku strony występują w kolejności rosnącej, niezależnie od kolejności wpisania.",
+   "limits": [
+    "Wyodrębnia wybrane strony do jednego nowego pliku PDF. Nie dzieli dokumentu na kilka plików naraz.",
+    "Pliki PDF zabezpieczone hasłem nie są obsługiwane.",
+    "Pojedyncze pliki większe niż 150 MB są odrzucane; bardzo duże pliki mogą też zawieść na urządzeniach z małą ilością pamięci."
+   ],
+   "ws": {
+    "title": "Przeciągnij plik PDF tutaj",
+    "choose": "Wybierz plik PDF",
+    "hint": "Jeden plik PDF."
+   },
+   "syn": [
+    "podziel pdf",
+    "podzielić pdf",
+    "podzielic pdf",
+    "dzielenie pdf",
+    "podział pdf",
+    "podzial pdf",
+    "podziel plik pdf",
+    "podziel pdf na strony",
+    "podziel pdf online",
+    "rozdziel pdf",
+    "rozdzielić pdf",
+    "wyodrębnij strony z pdf",
+    "wyodrebnij strony z pdf",
+    "wyodrębnianie stron pdf",
+    "wyciągnij strony z pdf",
+    "wyciagnij strony z pdf",
+    "wytnij strony z pdf",
+    "wytnij stronę z pdf",
+    "wytnij strone z pdf",
+    "wyciąć stronę z pdf",
+    "jedna strona z pdf",
+    "wybrane strony z pdf",
+    "jak podzielić pdf",
+    "jak podzielic pdf",
+    "pdf split",
+    "split pdf",
+    "pdf splitter"
+   ]
+  },
+  "rotate-pdf": {
+   "file": "obroc-pdf.html",
+   "name": "Obróć PDF",
+   "h1": "Obróć PDF – wszystkie strony o 90°, 180° lub 270°",
+   "title": "Obróć PDF – obrót stron o 90°, 180°, 270° | ToolsKit",
+   "description": "Obróć PDF: obróć wszystkie strony o 90°, 180° lub 270° i pobierz wynik. Działa w przeglądarce, bez konta.",
+   "card": "Obróć strony PDF o 90°, 180° lub 270°.",
+   "lead": "Obróć PDF: każda strona zostanie obrócona o 90°, 180° lub 270°.",
+   "steps": [
+    [
+     "Dodaj plik PDF",
+     "Wybierz lub przeciągnij jeden plik PDF."
+    ],
+    [
+     "Wybierz obrót",
+     "90° w prawo, 180° lub 90° w lewo."
+    ],
+    [
+     "Pobierz",
+     "Pobierz obrócony plik PDF."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Czy można obrócić tylko wybrane strony?",
+     "Jeszcze nie. Obrót dotyczy wszystkich stron pliku."
+    ],
+    [
+     "Czy oryginalny plik zostaje zmieniony?",
+     "Nie. Pobierany jest nowy plik, a oryginał pozostaje bez zmian."
+    ]
+   ],
+   "good": "Jeśli strona była już obrócona w samym pliku, nowy obrót jest do niej dodawany.",
+   "limits": [
+    "Wszystkie strony są obracane o ten sam kąt; pojedynczych stron nie można obracać osobno.",
+    "Pliki PDF zabezpieczone hasłem nie są obsługiwane.",
+    "Pojedyncze pliki większe niż 150 MB są odrzucane; bardzo duże pliki mogą też zawieść na urządzeniach z małą ilością pamięci."
+   ],
+   "ws": {
+    "title": "Przeciągnij plik PDF tutaj",
+    "choose": "Wybierz plik PDF",
+    "hint": "Jeden plik PDF. Wszystkie strony są obracane o ten sam kąt."
+   },
+   "syn": [
+    "obróć pdf",
+    "obroc pdf",
+    "obrócić pdf",
+    "obrocic pdf",
+    "obracanie pdf",
+    "obrót pdf",
+    "obrot pdf",
+    "obróć strony pdf",
+    "obroc strony pdf",
+    "obróć stronę w pdf",
+    "obróć plik pdf",
+    "obróć pdf online",
+    "obroc pdf online",
+    "odwróć pdf",
+    "odwroc pdf",
+    "przekręć pdf",
+    "przekrec pdf",
+    "pdf do góry nogami",
+    "pdf do gory nogami",
+    "zmień orientację pdf",
+    "zmien orientacje pdf",
+    "pdf pionowo poziomo",
+    "jak obrócić pdf",
+    "jak obrocic pdf",
+    "rotate pdf",
+    "pdf rotate"
+   ]
+  },
+  "compress-pdf": {
+   "file": "kompresja-pdf.html",
+   "name": "Kompresja PDF",
+   "h1": "Kompresja PDF – zmniejsz rozmiar pliku",
+   "title": "Kompresja PDF – zmniejsz rozmiar pliku | ToolsKit",
+   "description": "Kompresja PDF: zapisz plik wydajniej i porównaj rozmiar przed i po. Nie kompresuje obrazów ponownie. Działa w przeglądarce.",
+   "card": "Zapisz PDF wydajniej, aby zmniejszyć rozmiar. Nie kompresuje obrazów ponownie.",
+   "lead": "Zmniejsz rozmiar pliku PDF, o ile to możliwe. Narzędzie zapisuje plik wydajniej, ale nie kompresuje ponownie obrazów, więc wyniki zależą od pliku.",
+   "steps": [
+    [
+     "Dodaj plik PDF",
+     "Wybierz lub przeciągnij jeden plik PDF."
+    ],
+    [
+     "Kompresuj",
+     "Plik jest zapisywany ponownie z wydajniejszą strukturą."
+    ],
+    [
+     "Porównaj i pobierz",
+     "Zobacz rozmiar przed i po."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Dlaczego mój PDF się nie zmniejszył?",
+     "Narzędzie zapisuje plik wydajniej, ale nie kompresuje ponownie obrazów w środku. PDF-y, które są duże z powodu zdjęć, zwykle zmniejszają się niewiele albo wcale."
+    ],
+    [
+     "Czy zmienia jakość?",
+     "Nie. Obrazy i tekst nie są kodowane ponownie, więc wygląd pozostaje taki sam."
+    ],
+    [
+     "Czy jest mocniejsza opcja?",
+     "Nie w tym narzędziu. Ponowna kompresja obrazów w pliku to inny, cięższy proces."
+    ],
+    [
+     "Czy można ustawić docelowy rozmiar pliku, np. 1 MB?",
+     "Nie. Narzędzie nie pozwala wybrać rozmiaru docelowego; pokazuje rzeczywisty wynik."
+    ]
+   ],
+   "good": "Jeśli wynik nie jest mniejszy, zostań przy oryginale.",
+   "limits": [
+    "Nie kompresuje ponownie obrazów, więc PDF-y pełne zdjęć lub skanów mogą prawie się nie zmniejszyć.",
+    "Nie pozwala ustawić docelowego rozmiaru pliku.",
+    "Pliki PDF zabezpieczone hasłem nie są obsługiwane.",
+    "Pojedyncze pliki większe niż 150 MB są odrzucane; bardzo duże pliki mogą też zawieść na urządzeniach z małą ilością pamięci."
+   ],
+   "ws": {
+    "title": "Przeciągnij plik PDF tutaj",
+    "choose": "Wybierz plik PDF",
+    "hint": "Jeden plik PDF."
+   },
+   "syn": [
+    "kompresja pdf",
+    "kompresuj pdf",
+    "skompresuj pdf",
+    "skompresować pdf",
+    "skompresowac pdf",
+    "kompresja plików pdf",
+    "kompresja pliku pdf",
+    "kompresor pdf",
+    "kompresja pdf online",
+    "zmniejsz pdf",
+    "zmniejsz rozmiar pdf",
+    "zmniejsz plik pdf",
+    "zmniejszyć pdf",
+    "zmniejszyc pdf",
+    "zmniejszenie pdf",
+    "zmniejsz wagę pdf",
+    "zmniejsz wage pdf",
+    "zmniejsz rozmiar pliku pdf",
+    "pomniejsz pdf",
+    "odchudź pdf",
+    "odchudz pdf",
+    "mniejszy pdf",
+    "pdf za duży",
+    "pdf za duzy",
+    "jak zmniejszyć pdf",
+    "jak zmniejszyc pdf",
+    "compress pdf"
+   ]
+  },
+  "pdf-to-images": {
+   "file": "pdf-na-obrazy.html",
+   "name": "PDF na obrazy (PNG)",
+   "h1": "PDF na obrazy – każda strona jako plik PNG",
+   "title": "PDF na PNG – zamień strony PDF na obrazy | ToolsKit",
+   "description": "PDF na obrazy: każda strona jest eksportowana jako PNG, wiele stron jako ZIP. To nie jest JPG. Działa w przeglądarce, bez konta.",
+   "card": "Wyeksportuj każdą stronę PDF jako obraz PNG.",
+   "lead": "Zamień każdą stronę PDF na obraz PNG. Uwaga: narzędzie tworzy pliki PNG, nie JPG.",
+   "steps": [
+    [
+     "Dodaj plik PDF",
+     "Wybierz lub przeciągnij jeden plik PDF."
+    ],
+    [
+     "Wybierz jakość",
+     "Standardowa lub wysoka."
+    ],
+    [
+     "Pobierz",
+     "Jeden plik PNG, a przy kilku stronach – plik ZIP."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "W jakim formacie są obrazy?",
+     "PNG. Jedna strona jest pobierana jako jeden plik PNG, a kilka stron – jako jeden plik ZIP."
+    ],
+    [
+     "Czy można zamienić PDF na JPG?",
+     "Nie. To narzędzie eksportuje wyłącznie PNG."
+    ],
+    [
+     "Co daje wysoka jakość?",
+     "Strony są renderowane w większym rozmiarze, co daje większe obrazy i zużywa więcej pamięci."
+    ],
+    [
+     "Dlaczego duży PDF działa wolno?",
+     "Strony są rysowane po kolei w przeglądarce, więc długie lub pełne obrazów dokumenty mogą działać wolno albo przekroczyć limit pamięci, zwłaszcza na telefonach."
+    ]
+   ],
+   "good": "Zacznij od jakości standardowej. Wysoką wybierz tylko wtedy, gdy potrzebne są większe obrazy.",
+   "limits": [
+    "Eksportuje tylko PNG (bez JPG).",
+    "Wysoka jakość przy dużych stronach może wyczerpać pamięć, zwłaszcza na telefonach.",
+    "Pliki PDF zabezpieczone hasłem nie są obsługiwane.",
+    "Pojedyncze pliki większe niż 150 MB są odrzucane; bardzo duże pliki mogą też zawieść na urządzeniach z małą ilością pamięci."
+   ],
+   "ws": {
+    "title": "Przeciągnij plik PDF tutaj",
+    "choose": "Wybierz plik PDF",
+    "hint": "Jeden plik PDF. Strony są eksportowane jako obrazy PNG."
+   },
+   "syn": [
+    "pdf na png",
+    "pdf do png",
+    "pdf na obraz",
+    "pdf na obrazy",
+    "pdf do obrazu",
+    "pdf na obrazek",
+    "pdf na grafikę",
+    "pdf na grafike",
+    "pdf na zdjęcie png",
+    "zapisz pdf jako obraz",
+    "zapisz pdf jako png",
+    "strony pdf jako obrazy",
+    "strony pdf na obrazy",
+    "eksport pdf do png",
+    "eksport stron pdf",
+    "konwersja pdf na obraz",
+    "konwersja pdf na png",
+    "pdf to png",
+    "pdf to image"
+   ]
+  },
+  "images-to-pdf": {
+   "file": "jpg-na-pdf.html",
+   "name": "JPG i PNG na PDF",
+   "h1": "JPG na PDF – obrazy JPG i PNG w jednym pliku",
+   "title": "JPG na PDF – zamień zdjęcia i obrazy w PDF | ToolsKit",
+   "description": "JPG na PDF: połącz obrazy JPG lub PNG w jeden plik PDF, po jednym obrazie na stronę. Działa w przeglądarce, obrazy nie są przesyłane.",
+   "card": "Połącz obrazy JPG lub PNG w jeden PDF.",
+   "lead": "Zamień JPG na PDF: obrazy JPG lub PNG zostaną połączone w jeden plik PDF, każdy na osobnej stronie.",
+   "steps": [
+    [
+     "Dodaj obrazy",
+     "Wybierz lub przeciągnij pliki JPG albo PNG."
+    ],
+    [
+     "Sprawdź kolejność",
+     "Strony następują w kolejności z listy."
+    ],
+    [
+     "Pobierz",
+     "Pobierz jeden plik PDF."
+    ]
+   ],
+   "formula": "",
+   "faq": [
+    [
+     "Jakie formaty obrazów są obsługiwane?",
+     "JPG i PNG. Inne formaty, np. WebP, nie są tutaj obsługiwane."
+    ],
+    [
+     "Jaki rozmiar mają strony?",
+     "Każda strona ma rozmiar w pikselach zgodny z jej obrazem. Obrazy nie są dopasowywane do A4 ani Letter."
+    ],
+    [
+     "Czy można zmienić kolejność obrazów?",
+     "Strony następują w kolejności dodania plików. Aby ją zmienić, usuń wszystkie obrazy i dodaj je ponownie w wybranej kolejności."
+    ]
+   ],
+   "good": "Duże zdjęcia dają duże pliki PDF. Jeśli plik ma być mały, najpierw skompresuj lub zmniejsz obrazy.",
+   "limits": [
+    "Obsługuje tylko JPG i PNG.",
+    "Każdy obraz staje się jedną stroną o własnym rozmiarze; nie ma opcji rozmiaru strony ani marginesów.",
+    "Pojedyncze pliki większe niż 150 MB są odrzucane; bardzo duże pliki mogą też zawieść na urządzeniach z małą ilością pamięci."
+   ],
+   "ws": {
+    "title": "Przeciągnij obrazy tutaj",
+    "choose": "Wybierz obrazy",
+    "hint": "JPG lub PNG. Strony następują w kolejności widocznej poniżej."
+   },
+   "syn": [
+    "jpg na pdf",
+    "jpg do pdf",
+    "jpeg na pdf",
+    "jpeg do pdf",
+    "png na pdf",
+    "png do pdf",
+    "zdjęcie na pdf",
+    "zdjecie na pdf",
+    "zdjęcia na pdf",
+    "zdjecia na pdf",
+    "zdjęcia do pdf",
+    "zdjecia do pdf",
+    "obraz na pdf",
+    "obrazy na pdf",
+    "obrazy do pdf",
+    "grafika na pdf",
+    "zamień jpg na pdf",
+    "zamien jpg na pdf",
+    "konwertuj jpg na pdf",
+    "jpg na pdf online",
+    "kilka zdjęć w jeden pdf",
+    "kilka zdjec w jeden pdf",
+    "scal zdjęcia do pdf",
+    "scal zdjecia do pdf",
+    "zdjęcia w jeden pdf",
+    "skan na pdf",
+    "jpg to pdf",
+    "image to pdf"
+   ]
+  },
+  "percentage": {
+   "file": "kalkulator-procentowy.html",
+   "name": "Kalkulator procentowy",
+   "h1": "Kalkulator procentowy – procent z liczby, zmiana i rabat",
+   "title": "Kalkulator procentowy – procent z liczby, rabat | ToolsKit",
+   "description": "Kalkulator procentowy: ile to X% z liczby, jakim procentem jest jedna liczba drugiej, wzrost lub spadek procentowy i cena po rabacie.",
+   "card": "Procent z liczby, zmiana procentowa i rabaty – z pokazanym sposobem liczenia.",
+   "lead": "Cztery kalkulatory procentowe w jednym miejscu: procent z liczby, jakim procentem jest jedna liczba drugiej, zmiana procentowa i cena po rabacie.",
+   "steps": [
+    [
+     "Wybierz pytanie",
+     "Na tej stronie są cztery kalkulatory: procent z liczby, jakim procentem jest liczba, zmiana procentowa i cena po rabacie."
+    ],
+    [
+     "Wpisz liczby",
+     "Uzupełnij dwa pola kalkulatora, którego potrzeba. Wyniki aktualizują się podczas pisania."
+    ],
+    [
+     "Odczytaj wynik",
+     "Wyniki są zaokrąglane do dwóch miejsc po przecinku (tylko w wyświetlaniu). „Resetuj” przywraca przykładowe wartości."
+    ]
+   ],
+   "formula": "X% z Y = Y × X ÷ 100. X to (X ÷ Y × 100)% liczby Y. Zmiana = (nowa − stara) ÷ |stara| × 100. Cena po rabacie = cena × (1 − rabat ÷ 100).",
+   "faq": [
+    [
+     "Jak obliczyć wzrost procentowy?",
+     "Użyj bloku „Zmiana procentowa: wzrost lub spadek”: wpisz starą wartość w polu „Od”, a nową w polu „Do”. Wynik pokazuje, czy to wzrost, czy spadek, oraz o ile procent."
+    ],
+    [
+     "Jak obliczyć, jakim procentem liczby jest inna liczba?",
+     "Użyj bloku „Jakim procentem liczby Y jest X?”: wpisz część (X) i całość (Y). Na przykład 30 z 200 to 15%."
+    ],
+    [
+     "Dlaczego wartość początkowa nie może wynosić 0?",
+     "Zmiana procentowa od zera jest nieokreślona, bo wymagałaby dzielenia przez zero."
+    ],
+    [
+     "Czy procent to to samo co punkt procentowy?",
+     "Nie. Wzrost z 10% do 12% to 2 punkty procentowe, ale o 20% więcej względem pierwotnej stawki. To narzędzie podaje drugą wartość, gdy wpisze się 10 i 12 w polach „Od” i „Do”."
+    ]
+   ],
+   "good": "Wyniki są zaokrąglane do dwóch miejsc po przecinku tylko przy wyświetlaniu. Separator dziesiętny zależy od ustawień językowych przeglądarki.",
+   "limits": [
+    "Obsługuje cztery typowe pytania o procenty. Nie liczy procentu składanego w kilku okresach (zob. Kalkulator procentu składanego) ani procentów odwrotnych, np. „ceny przed rabatem 20%”."
+   ],
+   "disclaimer": "Szybkie obliczenia cen. Ostateczne ceny i podatki sprawdź na fakturze lub paragonie sprzedawcy.",
+   "syn": [
+    "kalkulator procentowy",
+    "kalkulator procentów",
+    "kalkulator procentow",
+    "kalkulator procent",
+    "kalkulator procentowy online",
+    "procenty",
+    "oblicz procent",
+    "obliczanie procentów",
+    "obliczanie procentow",
+    "liczenie procentów",
+    "liczenie procentow",
+    "ile to procent",
+    "ile procent",
+    "ile to jest procent z liczby",
+    "procent z liczby",
+    "procenty z liczby",
+    "jak obliczyć procent",
+    "jak obliczyc procent",
+    "wzrost procentowy",
+    "spadek procentowy",
+    "zmiana procentowa",
+    "o ile procent wzrosło",
+    "o ile procent wzroslo",
+    "kalkulator rabatu",
+    "kalkulator zniżki",
+    "kalkulator znizki",
+    "cena po rabacie",
+    "cena po zniżce",
+    "cena po znizce",
+    "rabat procentowy",
+    "obliczanie rabatu",
+    "kalkulator promocji"
+   ]
+  },
+  "vat": {
+   "file": "kalkulator-vat.html",
+   "name": "Kalkulator VAT",
+   "h1": "Kalkulator VAT – cena netto, brutto i kwota VAT",
+   "title": "Kalkulator VAT: netto → brutto, brutto → netto | ToolsKit",
+   "description": "Kalkulator VAT: policz kwotę brutto z netto albo wylicz netto z brutto – według wpisanej stawki. To szacunek, nie porada podatkowa.",
+   "card": "Dolicz VAT do kwoty netto albo wylicz netto z brutto – według wpisanej stawki.",
+   "lead": "Policz kwotę brutto z kwoty netto albo wylicz kwotę netto i VAT z kwoty brutto – według wpisanej stawki.",
+   "steps": [
+    [
+     "Wpisz kwotę",
+     "Wpisz kwotę i wybierz kierunek: netto → brutto albo brutto → netto."
+    ],
+    [
+     "Sprawdź stawkę",
+     "Wpisz stawkę VAT, która ma zastosowanie w danym przypadku."
+    ],
+    [
+     "Odczytaj wynik",
+     "Wyniki aktualizują się podczas pisania. „Resetuj” zaczyna od nowa."
+    ]
+   ],
+   "formula": "Brutto = netto × (1 + stawka ÷ 100). Netto = brutto ÷ (1 + stawka ÷ 100). VAT = brutto − netto.",
+   "faq": [
+    [
+     "Czy kalkulator zna stawkę VAT obowiązującą w danym kraju?",
+     "Nie. Wpisz stawkę, która ma zastosowanie. Stawki różnią się w zależności od kraju oraz rodzaju towaru lub usługi (istnieją m.in. stawka podstawowa i stawki obniżone); ToolsKit ich nie sprawdza. Wartość 23 to tylko wartość początkowa."
+    ],
+    [
+     "Czy to oficjalna porada podatkowa?",
+     "Nie. To prosty kalkulator. Oficjalne informacje można uzyskać w urzędzie skarbowym lub od doradcy podatkowego albo księgowego."
+    ],
+    [
+     "Czy można tu przeliczyć wynagrodzenie brutto na netto?",
+     "Nie. To kalkulator ceny z VAT. Nie uwzględnia składek ani podatku dochodowego i nie jest kalkulatorem wynagrodzeń."
+    ]
+   ],
+   "good": "Netto to cena bez VAT, a brutto – cena z VAT.",
+   "limits": [
+    "Używa wyłącznie wpisanej stawki. Nie sprawdza aktualnych stawek VAT, zwolnień ani zasad zaokrąglania w żadnym kraju."
+   ],
+   "disclaimer": "Kalkulator stosuje wpisaną stawkę i nie sprawdza aktualnych przepisów o VAT ani zasad zaokrąglania. Przed użyciem kwot na fakturze lub w deklaracji skonsultuj je z urzędem skarbowym albo księgowym.",
+   "syn": [
+    "kalkulator vat",
+    "vat kalkulator",
+    "kalkulator vat online",
+    "oblicz vat",
+    "obliczanie vat",
+    "liczenie vat",
+    "wyliczanie vat",
+    "vat od ceny",
+    "netto na brutto",
+    "brutto na netto",
+    "netto do brutto",
+    "brutto do netto",
+    "kalkulator netto brutto",
+    "kalkulator netto brutto vat",
+    "cena netto cena brutto",
+    "doliczanie vat",
+    "dolicz vat",
+    "wylicz vat z brutto",
+    "wyodrębnij vat z brutto",
+    "wyodrebnij vat z brutto",
+    "kwota vat",
+    "podatek vat",
+    "ile wynosi vat",
+    "jak obliczyć vat",
+    "jak obliczyc vat",
+    "vat calculator"
+   ]
+  },
+  "loan": {
+   "file": "kalkulator-kredytowy.html",
+   "name": "Kalkulator kredytowy",
+   "h1": "Kalkulator kredytowy – rata, odsetki i suma spłat",
+   "title": "Kalkulator kredytowy – rata i koszt kredytu | ToolsKit",
+   "description": "Kalkulator kredytu: oszacuj ratę miesięczną, łączne odsetki i sumę spłat przy stałym oprocentowaniu. To szacunek, nie porada finansowa.",
+   "card": "Oszacuj ratę miesięczną, łączne odsetki i sumę spłat kredytu o stałym oprocentowaniu.",
+   "lead": "Oszacuj miesięczną ratę kredytu lub pożyczki o stałym oprocentowaniu, także kredytu hipotecznego.",
+   "steps": [
+    [
+     "Wpisz dane",
+     "Uzupełnij każde pole."
+    ],
+    [
+     "Sprawdź wzór",
+     "Wpisz kwotę kredytu, oprocentowanie roczne i okres w latach."
+    ],
+    [
+     "Odczytaj wynik",
+     "Wyniki aktualizują się podczas pisania. „Resetuj” zaczyna od nowa."
+    ]
+   ],
+   "formula": "r = oprocentowanie roczne ÷ 12 ÷ 100; n = lata × 12; rata = P × r ÷ (1 − (1 + r)^−n), gdzie P to kwota kredytu. Przy oprocentowaniu 0%: rata = P ÷ n.",
+   "faq": [
+    [
+     "Czego kalkulator nie uwzględnia?",
+     "Opłat, prowizji, ubezpieczenia, podatków, zmiennego oprocentowania i nadpłat. Zakłada stałe oprocentowanie i równe raty miesięczne."
+    ],
+    [
+     "Jakie raty liczy kalkulator?",
+     "Równe raty miesięczne (raty stałe, annuitetowe). Raty malejące nie są obsługiwane."
+    ],
+    [
+     "Czy to porada finansowa?",
+     "Nie. Wyniki są szacunkami. Liczą się dane przedstawione przez kredytodawcę."
+    ]
+   ],
+   "good": "Wypróbuj różne okresy kredytowania, aby zobaczyć, jak zmieniają się łączne odsetki.",
+   "limits": [
+    "Zakłada stałe oprocentowanie i równe raty miesięczne. Nie uwzględnia opłat, ubezpieczenia, podatków, zmiennego oprocentowania ani nadpłat."
+   ],
+   "disclaimer": "Rzeczywiste oprocentowanie, opłaty, ubezpieczenie, podatki i warunki kredytodawcy mogą się różnić, a ten wynik nie jest ofertą kredytu. Narzędzie nie stanowi porady finansowej.",
+   "syn": [
+    "kalkulator kredytowy",
+    "kalkulator kredytu",
+    "kalkulator kredytowy online",
+    "kalkulator kredytu hipotecznego",
+    "kalkulator hipoteczny",
+    "kredyt hipoteczny kalkulator",
+    "kalkulator kredytu gotówkowego",
+    "kalkulator kredytu samochodowego",
+    "kalkulator pożyczki",
+    "kalkulator pozyczki",
+    "kalkulator rat",
+    "kalkulator raty",
+    "kalkulator rat kredytu",
+    "kalkulator raty kredytu",
+    "oblicz ratę kredytu",
+    "oblicz rate kredytu",
+    "rata kredytu",
+    "ile wynosi rata kredytu",
+    "symulacja kredytu",
+    "symulacja rat",
+    "kalkulator odsetek od kredytu",
+    "loan calculator"
+   ]
+  },
+  "compound": {
+   "file": "kalkulator-procentu-skladanego.html",
+   "name": "Kalkulator procentu składanego",
+   "h1": "Procent składany – kalkulator wzrostu oszczędności",
+   "title": "Procent składany – kalkulator z wpłatami | ToolsKit",
+   "description": "Procent składany: kalkulator wzrostu oszczędności z kapitalizacją odsetek i regularnymi wpłatami. Pokazuje wzór i założenia. To szacunek.",
+   "card": "Oszacuj wzrost oszczędności z procentem składanym i regularnymi wpłatami.",
+   "lead": "Kalkulator procentu składanego: oszacuj, jak rosną oszczędności przy kapitalizacji odsetek i regularnych wpłatach.",
+   "steps": [
+    [
+     "Wpisz dane",
+     "Uzupełnij każde pole."
+    ],
+    [
+     "Sprawdź wzór",
+     "Wpisz kwotę początkową, wpłatę, oprocentowanie, częstotliwość kapitalizacji i okres."
+    ],
+    [
+     "Odczytaj wynik",
+     "Wyniki aktualizują się podczas pisania. „Resetuj” zaczyna od nowa."
+    ]
+   ],
+   "formula": "wzrost = (1 + r/n)^(n × lata); wartość końcowa = kwota początkowa × wzrost + wpłata × (wzrost − 1) ÷ (r/n), gdzie r to oprocentowanie roczne, a n – liczba okresów kapitalizacji w roku.",
+   "faq": [
+    [
+     "Kiedy są dokonywane wpłaty?",
+     "Kalkulator zakłada jedną wpłatę na końcu każdego okresu kapitalizacji, więc częstotliwość wpłat jest taka sama jak częstotliwość kapitalizacji."
+    ],
+    [
+     "Czy wynik jest prognozą?",
+     "Nie. Rzeczywiste zyski są zmienne i nie są gwarantowane."
+    ],
+    [
+     "Czy kalkulator uwzględnia podatki, opłaty i inflację?",
+     "Nie. Zakłada stałe oprocentowanie i nie modeluje opłat, podatków ani inflacji."
+    ]
+   ],
+   "good": "Wyniki są szacunkami, a nie przewidywaniami.",
+   "limits": [
+    "Zakłada stałe oprocentowanie i jedną wpłatę na okres kapitalizacji. Nie uwzględnia opłat, podatków ani inflacji."
+   ],
+   "disclaimer": "Rzeczywiste zyski są zmienne i nie są gwarantowane, a opłaty, podatki i inflacja nie są uwzględnione. Narzędzie nie stanowi porady finansowej.",
+   "syn": [
+    "procent składany kalkulator",
+    "procent skladany kalkulator",
+    "kalkulator procentu składanego",
+    "kalkulator procentu skladanego",
+    "procent składany",
+    "procent skladany",
+    "procent składany online",
+    "kalkulator odsetek składanych",
+    "kalkulator odsetek skladanych",
+    "odsetki składane",
+    "odsetki skladane",
+    "kapitalizacja odsetek",
+    "kalkulator kapitalizacji",
+    "kalkulator oszczędności",
+    "kalkulator oszczednosci",
+    "kalkulator wzrostu oszczędności",
+    "oszczędzanie z procentem składanym",
+    "kalkulator inwestycji",
+    "kalkulator lokaty",
+    "compound interest"
+   ]
+  },
+  "word-counter": {
+   "file": "licznik-slow.html",
+   "name": "Licznik słów i znaków",
+   "h1": "Licznik słów i znaków online",
+   "title": "Licznik słów i znaków – policz tekst online | ToolsKit",
+   "description": "Licznik słów i znaków: policz znaki (ze spacjami i bez), słowa, zdania i akapity oraz czas czytania. Tekst nie jest przesyłany na serwer.",
+   "card": "Policz słowa, znaki, zdania i akapity w tekście.",
+   "lead": "Wklej lub wpisz tekst, aby policzyć jego słowa i znaki.",
+   "steps": [
+    [
+     "Dodaj tekst",
+     "Wpisz go lub wklej w pole."
+    ],
+    [
+     "Odczytaj wyniki",
+     "Słowa, znaki, zdania, akapity i czas czytania aktualizują się podczas pisania."
+    ],
+    [
+     "Edytuj i porównuj",
+     "Zmień tekst, a liczby podążą za zmianami. „Resetuj” czyści pole."
+    ]
+   ],
+   "formula": "Słowa to grupy znaków oddzielone białymi znakami (spacjami, tabulatorami, końcami wierszy). Czas czytania = liczba słów ÷ 200 słów na minutę, zaokrąglony do pełnych minut.",
+   "faq": [
+    [
+     "Jak liczone są słowa?",
+     "Jako grupy znaków oddzielone spacjami lub końcami wierszy – tak, jak robi to większość edytorów tekstu. Wyraz z łącznikiem, np. „e-mail”, liczy się jako jedno słowo."
+    ],
+    [
+     "Czy końce wierszy liczą się jako znaki?",
+     "Tak. Koniec wiersza liczy się jako jeden znak w polu „Znaki”. Pole „Znaki bez spacji” pomija wszystkie spacje, tabulatory i końce wierszy."
+    ],
+    [
+     "Czy narzędzie działa dla języka chińskiego lub japońskiego?",
+     "Te języki zapisuje się bez spacji między wyrazami, więc liczba słów nie jest miarodajna. Użyj liczby znaków."
+    ],
+    [
+     "Czy tekst jest przesyłany na serwer?",
+     "Nie. Liczenie odbywa się w przeglądarce, a tekst nie jest wysyłany do ToolsKit."
+    ]
+   ],
+   "good": "Liczba zdań jest przybliżona: liczone są fragmenty tekstu kończące się kropką, !, ? lub …, więc skróty, takie jak „np.” czy „tzn.”, mogą dodawać zbędne zdania. Czas czytania zakłada około 200 słów na minutę.",
+   "limits": [
+    "Słowa są oddzielane białymi znakami, więc liczba słów nie jest miarodajna dla języków zapisywanych bez spacji (np. chińskiego, japońskiego, tajskiego).",
+    "Liczba zdań i czas czytania to szacunki."
+   ],
+   "syn": [
+    "licznik słów",
+    "licznik slow",
+    "licznik znaków",
+    "licznik znakow",
+    "licznik liter",
+    "licznik tekstu",
+    "licznik słów i znaków",
+    "licznik slow i znakow",
+    "licznik znaków online",
+    "licznik słów online",
+    "liczenie słów",
+    "liczenie slow",
+    "liczenie znaków",
+    "liczenie znakow",
+    "policz słowa",
+    "policz slowa",
+    "policz znaki",
+    "policz litery",
+    "ile znaków ma tekst",
+    "ile znakow ma tekst",
+    "ile słów ma tekst",
+    "ile slow ma tekst",
+    "liczba znaków",
+    "liczba znakow",
+    "liczba słów",
+    "liczba slow",
+    "liczba znaków ze spacjami",
+    "znaki ze spacjami",
+    "znaki bez spacji",
+    "zliczanie znaków",
+    "zliczanie znakow",
+    "zliczanie słów",
+    "zliczanie slow",
+    "długość tekstu",
+    "dlugosc tekstu",
+    "sprawdź długość tekstu",
+    "liczba zdań",
+    "czas czytania tekstu",
+    "word counter",
+    "character counter"
+   ]
+  }
+ },
+ "unsupported": [
+  {
+   "label": "konwerter PDF na Word",
+   "patterns": [
+    "pdf na word",
+    "pdf do word",
+    "pdf na worda",
+    "pdf do worda",
+    "pdf na doc",
+    "pdf na docx",
+    "pdf na word edytowalny",
+    "konwerter pdf na word"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "konwerter Word na PDF",
+   "patterns": [
+    "word na pdf",
+    "word do pdf",
+    "worda na pdf",
+    "doc na pdf",
+    "docx na pdf",
+    "dokument word na pdf",
+    "zapisz word jako pdf"
+   ],
+   "related": [
+    "images-to-pdf",
+    "merge-pdf",
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "konwerter PDF na Excel",
+   "patterns": [
+    "pdf na excel",
+    "pdf do excel",
+    "pdf na excela",
+    "pdf do excela",
+    "pdf na xlsx",
+    "pdf na xls",
+    "pdf na csv",
+    "pdf na tabelę",
+    "pdf na tabele"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "konwerter Excel na PDF",
+   "patterns": [
+    "excel na pdf",
+    "excel do pdf",
+    "excela na pdf",
+    "xlsx na pdf",
+    "xls na pdf",
+    "csv na pdf",
+    "tabela na pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "konwerter PDF na PowerPoint",
+   "patterns": [
+    "pdf na powerpoint",
+    "pdf do powerpoint",
+    "pdf na ppt",
+    "pdf na pptx",
+    "pdf na prezentację",
+    "pdf na prezentacje"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "konwerter PowerPoint na PDF",
+   "patterns": [
+    "powerpoint na pdf",
+    "ppt na pdf",
+    "pptx na pdf",
+    "prezentacja na pdf",
+    "prezentację na pdf",
+    "prezentacje na pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "konwerter PDF na JPG",
+   "patterns": [
+    "pdf na jpg",
+    "pdf do jpg",
+    "pdf na jpeg",
+    "pdf do jpeg",
+    "pdf jako jpg",
+    "zapisz pdf jako jpg",
+    "pdf na zdjęcie",
+    "pdf na zdjęcia"
+   ],
+   "related": [
+    "pdf-to-images",
+    "cat:pdf"
+   ],
+   "note": "Narzędzie „PDF na obrazy (PNG)” zapisuje pliki PNG, nie JPG."
+  },
+  {
+   "label": "edytor PDF",
+   "patterns": [
+    "edytor pdf",
+    "pdf edytor",
+    "edytuj pdf",
+    "edycja pdf",
+    "edytować pdf",
+    "edycja tekstu w pdf",
+    "zmień tekst w pdf",
+    "wypełnij pdf",
+    "wypełnianie pdf",
+    "wypełnij formularz pdf",
+    "adnotacje w pdf",
+    "komentarze w pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "narzędzie do podpisywania PDF",
+   "patterns": [
+    "podpisz pdf",
+    "podpis pdf",
+    "podpisywanie pdf",
+    "podpis elektroniczny",
+    "podpis cyfrowy",
+    "podpis elektroniczny pdf",
+    "wstaw podpis do pdf",
+    "podpis w pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "narzędzie do usuwania lub dodawania hasła w PDF",
+   "patterns": [
+    "usuń hasło z pdf",
+    "zdejmij hasło z pdf",
+    "odblokuj pdf",
+    "hasło do pdf",
+    "zabezpiecz pdf hasłem",
+    "zabezpiecz pdf",
+    "ochrona pdf hasłem",
+    "zaszyfruj pdf",
+    "odszyfruj pdf",
+    "szyfrowanie pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "rozpoznawanie tekstu (OCR)",
+   "patterns": [
+    "ocr",
+    "pdf ocr",
+    "ocr online",
+    "rozpoznawanie tekstu",
+    "rozpoznawanie tekstu ze zdjęcia",
+    "obraz na tekst",
+    "zdjęcie na tekst",
+    "tekst ze zdjęcia",
+    "pdf na tekst",
+    "pdf do tekstu",
+    "skan na tekst",
+    "przeszukiwalny pdf"
+   ],
+   "related": [
+    "cat:pdf"
+   ]
+  },
+  {
+   "label": "narzędzie do znaków wodnych, numeracji i usuwania stron PDF",
+   "patterns": [
+    "znak wodny pdf",
+    "dodaj znak wodny do pdf",
+    "numeracja stron pdf",
+    "numery stron w pdf",
+    "dodaj numery stron do pdf",
+    "usuń strony z pdf",
+    "usuń stronę z pdf",
+    "usuwanie stron z pdf",
+    "usuń strony pdf",
+    "zmień kolejność stron pdf",
+    "zmiana kolejności stron pdf",
+    "sortowanie stron pdf"
+   ],
+   "related": [
+    "split-pdf",
+    "merge-pdf",
+    "rotate-pdf"
+   ]
+  },
+  {
+   "label": "usuwanie tła ze zdjęcia",
+   "patterns": [
+    "usuń tło ze zdjęcia",
+    "usuń tło",
+    "usuwanie tła",
+    "usuwanie tła ze zdjęcia",
+    "wycinanie tła",
+    "przezroczyste tło"
+   ],
+   "related": []
+  },
+  {
+   "label": "przycinanie zdjęć",
+   "patterns": [
+    "przycinanie zdjęcia",
+    "przycinanie zdjęć",
+    "przytnij zdjęcie",
+    "przytnij obraz",
+    "kadrowanie zdjęcia",
+    "kadruj zdjęcie",
+    "przycinanie obrazu"
+   ],
+   "related": []
+  },
+  {
+   "label": "edytor zdjęć",
+   "patterns": [
+    "edytor zdjęć",
+    "edycja zdjęć",
+    "edytuj zdjęcie",
+    "obróbka zdjęć",
+    "edytor zdjęć online",
+    "fotoedytor",
+    "dodaj tekst do zdjęcia"
+   ],
+   "related": []
+  },
+  {
+   "label": "konwerter formatów obrazów (HEIC, WebP, JPG, PNG)",
+   "patterns": [
+    "heic na jpg",
+    "heic na png",
+    "heic na jpeg",
+    "heic do jpg",
+    "konwerter heic",
+    "konwertuj heic",
+    "webp na jpg",
+    "webp na png",
+    "webp do jpg",
+    "jpg na png",
+    "png na jpg",
+    "jpg na webp"
+   ],
+   "related": []
+  },
+  {
+   "label": "narzędzie SVG lub GIF",
+   "patterns": [
+    "svg na png",
+    "png na svg",
+    "kreator gif",
+    "gif maker",
+    "zrób gif",
+    "gif na mp4",
+    "wideo na gif",
+    "film na gif",
+    "mp4 na gif"
+   ],
+   "related": []
+  },
+  {
+   "label": "przelicznik walut",
+   "patterns": [
+    "kalkulator walut",
+    "przelicznik walut",
+    "kurs walut",
+    "kurs euro",
+    "euro na złote",
+    "eur na pln",
+    "pln na eur",
+    "dolar na złote",
+    "usd na pln",
+    "złote na euro"
+   ],
+   "related": [
+    "cat:calc"
+   ]
+  },
+  {
+   "label": "narzędzie programistyczne (JSON, Base64, UUID)",
+   "patterns": [
+    "json formatter",
+    "json validator",
+    "formatowanie json",
+    "base64",
+    "base64 decode",
+    "base64 encode",
+    "dekoduj base64",
+    "generator uuid",
+    "generator guid",
+    "url encoder",
+    "regex tester",
+    "tester regex"
+   ],
+   "related": []
+  },
+  {
+   "label": "generator haseł",
+   "patterns": [
+    "generator haseł",
+    "generator hasła",
+    "losowe hasło",
+    "wygeneruj hasło",
+    "silne hasło generator",
+    "bezpieczne hasło generator"
+   ],
+   "related": []
+  },
+  {
+   "label": "kalkulator zdrowotny",
+   "patterns": [
+    "kalkulator bmi",
+    "bmi kalkulator",
+    "kalkulator kalorii",
+    "kalkulator zapotrzebowania kalorycznego",
+    "kalkulator cpm",
+    "kalkulator ciąży",
+    "kalkulator terminu porodu",
+    "kalkulator owulacji"
+   ],
+   "related": [
+    "cat:calc"
+   ]
+  },
+  {
+   "label": "kalkulator wieku lub dat",
+   "patterns": [
+    "kalkulator wieku",
+    "oblicz wiek",
+    "kalkulator dat",
+    "kalkulator dni",
+    "ile dni do",
+    "dni między datami",
+    "różnica dat",
+    "kalkulator dni roboczych",
+    "konwerter stref czasowych",
+    "strefy czasowe"
+   ],
+   "related": [
+    "cat:calc"
+   ]
+  },
+  {
+   "label": "kalkulator wynagrodzeń lub podatku dochodowego",
+   "patterns": [
+    "kalkulator wynagrodzeń",
+    "kalkulator wynagrodzenia",
+    "kalkulator pensji",
+    "kalkulator płac",
+    "kalkulator brutto netto",
+    "brutto netto kalkulator",
+    "wynagrodzenie brutto netto",
+    "pensja brutto netto",
+    "pensja netto",
+    "wynagrodzenie netto",
+    "kalkulator podatku dochodowego",
+    "kalkulator pit",
+    "kalkulator zus",
+    "kalkulator umowy o pracę",
+    "kalkulator umowy zlecenie",
+    "kalkulator napiwków"
+   ],
+   "related": [
+    "cat:calc"
+   ],
+   "note": "Kalkulator VAT liczy ceny netto i brutto z VAT, ale nie wynagrodzenia, składki ani podatek dochodowy."
+  },
+  {
+   "label": "generator lorem ipsum",
+   "patterns": [
+    "lorem ipsum",
+    "generator lorem ipsum",
+    "lorem ipsum generator",
+    "tekst lorem ipsum"
+   ],
+   "related": [
+    "cat:text"
+   ]
+  },
+  {
+   "label": "generator kodów kreskowych",
+   "patterns": [
+    "generator kodów kreskowych",
+    "generator kodu kreskowego",
+    "kod kreskowy",
+    "kod kreskowy generator",
+    "barcode generator",
+    "stwórz kod kreskowy"
+   ],
+   "related": []
+  },
+  {
+   "label": "skaner kodów QR",
+   "patterns": [
+    "skaner kodów qr",
+    "czytnik kodów qr",
+    "skanuj kod qr",
+    "odczytaj kod qr",
+    "skaner qr",
+    "czytnik qr"
+   ],
+   "related": []
+  },
+  {
+   "label": "konwerter audio lub wideo",
+   "patterns": [
+    "konwerter mp4",
+    "konwerter mp3",
+    "konwerter wideo",
+    "konwerter audio",
+    "youtube na mp3",
+    "mp4 na mp3",
+    "pobieranie z youtube",
+    "pobierz film z youtube",
+    "youtube downloader"
+   ],
+   "related": []
+  },
+  {
+   "label": "tłumacz tekstu",
+   "patterns": [
+    "tłumacz",
+    "tłumacz online",
+    "tłumaczenie tekstu",
+    "przetłumacz tekst",
+    "tłumacz angielsko polski",
+    "tłumacz polsko angielski"
+   ],
+   "related": []
+  }
+ ]
+}

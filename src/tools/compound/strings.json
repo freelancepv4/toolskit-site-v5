@@ -1,0 +1,15 @@
+{
+ "en": {
+  "principal": "Initial amount",
+  "contrib": "Contribution per period",
+  "rate": "Annual interest rate (%)",
+  "freq": "Compounding frequency",
+  "freq_m": "Monthly",
+  "freq_q": "Quarterly",
+  "freq_y": "Annually",
+  "years": "Investment period (years)",
+  "out_final": "Final value: {v}",
+  "out_totals": "Total contributed: {contrib} | Estimated interest: {interest}",
+  "err_numbers": "Enter valid numbers."
+ }
+}

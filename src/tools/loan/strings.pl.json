@@ -1,0 +1,8 @@
+{
+  "amount": "Kwota kredytu",
+  "rate": "Oprocentowanie roczne (%)",
+  "term": "Okres kredytowania (lata)",
+  "out_monthly": "Rata miesięczna: {v}",
+  "out_totals": "Łączne odsetki: {interest} | Łączna kwota spłaty: {total}",
+  "err_numbers": "Wpisz prawidłowe liczby."
+}

@@ -1,0 +1,13 @@
+{
+ "en": {
+  "amount": "Amount",
+  "rate": "VAT rate (%)",
+  "rate_default": "20",
+  "rate_help": "Enter the VAT rate that applies to you. 20 is only a starting value.",
+  "dir": "Direction",
+  "dir_add": "Net → Gross",
+  "dir_remove": "Gross → Net",
+  "out": "Net: {net} | VAT: {vat} | Gross: {gross}",
+  "err_numbers": "Enter valid numbers."
+ }
+}

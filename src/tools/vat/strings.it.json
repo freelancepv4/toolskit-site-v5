@@ -1,0 +1,11 @@
+{
+  "amount": "Importo",
+  "rate": "Aliquota IVA (%)",
+  "rate_default": "22",
+  "rate_help": "Inserisca l’aliquota IVA che si applica al suo caso (esistono anche aliquote ridotte). 22 è solo un valore iniziale.",
+  "dir": "Operazione",
+  "dir_add": "Aggiungi IVA (netto → lordo)",
+  "dir_remove": "Scorpora IVA (lordo → netto)",
+  "out": "Netto: {net} | IVA: {vat} | Lordo: {gross}",
+  "err_numbers": "Inserisca numeri validi."
+}

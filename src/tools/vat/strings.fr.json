@@ -1,0 +1,11 @@
+{
+  "amount": "Montant",
+  "rate": "Taux de TVA (%)",
+  "rate_default": "20",
+  "rate_help": "Saisissez le taux de TVA qui s’applique à votre cas (il existe aussi des taux réduits). 20 n’est qu’une valeur de départ.",
+  "dir": "Sens du calcul",
+  "dir_add": "HT → TTC",
+  "dir_remove": "TTC → HT",
+  "out": "HT : {net} | TVA : {vat} | TTC : {gross}",
+  "err_numbers": "Saisissez des nombres valides."
+}

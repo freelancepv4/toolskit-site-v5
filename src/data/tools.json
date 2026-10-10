@@ -1,0 +1,1668 @@
+[
+ {
+  "id": "merge-pdf",
+  "cat": "pdf",
+  "file": "merge-pdf.html",
+  "name": "Merge PDF",
+  "h1": "Merge PDF",
+  "title": "Merge PDF Files Online — Free | ToolsKit",
+  "description": "Combine several PDF files into one document and set their order. Processed in your browser, no account needed.",
+  "card": "Combine several PDFs into one, in the order you choose.",
+  "lead": "Combine several PDFs into one file, in the order you choose.",
+  "popular": true,
+  "steps": [
+   [
+    "Add your PDFs",
+    "Choose or drop two or more PDF files."
+   ],
+   [
+    "Set the order",
+    "Use the arrows to move files up or down."
+   ],
+   [
+    "Download",
+    "Get one merged PDF."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Which order are files merged in?",
+    "In the order shown in the list. Use the arrows to change it before merging."
+   ],
+   [
+    "Can I merge password-protected PDFs?",
+    "No. Remove the password first, then add the file again."
+   ],
+   [
+    "Will bookmarks and form fields survive?",
+    "Pages are copied into a new document, so features that live outside the pages, such as bookmarks, may not carry over."
+   ]
+  ],
+  "good": "Very large files can be slow or run out of memory on phones. Merge fewer files at once if the page becomes unresponsive.",
+  "kind": "workspace",
+  "workspace": "merge",
+  "libs": [
+   "pdf-lib"
+  ],
+  "related": [
+   "split-pdf",
+   "compress-pdf",
+   "rotate-pdf"
+  ],
+  "proc": "file",
+  "limits": [
+   "Password-protected PDFs cannot be merged. Remove the password first.",
+   "Single files over 150 MB are rejected; very large files may also fail on devices with little memory."
+  ],
+  "ws": {
+   "title": "Drag & drop your PDFs here",
+   "choose": "Choose PDFs",
+   "hint": "PDF files only. Add two or more, then reorder if needed."
+  }
+ },
+ {
+  "id": "split-pdf",
+  "cat": "pdf",
+  "file": "split-pdf.html",
+  "name": "Split PDF",
+  "h1": "Split PDF",
+  "title": "Split PDF — Extract Pages Online | ToolsKit",
+  "description": "Extract a page range such as 1-3,5 from a PDF into a new file. Runs in your browser; your PDF is not uploaded.",
+  "card": "Extract a page range into a new PDF.",
+  "lead": "Extract the pages you need from a PDF into a new file.",
+  "popular": false,
+  "steps": [
+   [
+    "Add your PDF",
+    "Choose or drop one PDF."
+   ],
+   [
+    "Enter the pages",
+    "For example 1-3,5."
+   ],
+   [
+    "Download",
+    "Get a new PDF with only those pages."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "How do I write the page range?",
+    "Separate pages with commas and use a dash for ranges, like 1-3,5. Page numbers start at 1."
+   ],
+   [
+    "Can I get every page as a separate file?",
+    "Not yet. This tool extracts the pages you list into one new PDF."
+   ],
+   [
+    "What if I enter a page that does not exist?",
+    "You will see a message with the number of pages in your file, so you can correct the range."
+   ]
+  ],
+  "good": "Pages appear in the result in numerical order, whatever order you type them in.",
+  "kind": "workspace",
+  "workspace": "split",
+  "libs": [
+   "pdf-lib"
+  ],
+  "related": [
+   "merge-pdf",
+   "rotate-pdf",
+   "compress-pdf"
+  ],
+  "proc": "file",
+  "limits": [
+   "Extracts the pages you choose into one new PDF. It does not split a document into several files at once.",
+   "Password-protected PDFs are not supported."
+  ],
+  "ws": {
+   "title": "Drag & drop your PDF here",
+   "choose": "Choose PDF",
+   "hint": "One PDF file."
+  }
+ },
+ {
+  "id": "rotate-pdf",
+  "cat": "pdf",
+  "file": "rotate-pdf.html",
+  "name": "Rotate PDF",
+  "h1": "Rotate PDF",
+  "title": "Rotate PDF Pages Online — Free | ToolsKit",
+  "description": "Rotate every page of a PDF by 90°, 180° or 270° and download the result. Runs in your browser; no account needed.",
+  "card": "Rotate a PDF’s pages by 90°, 180° or 270°.",
+  "lead": "Turn every page of a PDF by 90°, 180° or 270°.",
+  "popular": false,
+  "steps": [
+   [
+    "Add your PDF",
+    "Choose or drop one PDF."
+   ],
+   [
+    "Pick a rotation",
+    "90° clockwise, 180° or 90° counter-clockwise."
+   ],
+   [
+    "Download",
+    "Get the rotated PDF."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Can I rotate only some pages?",
+    "Not yet. The rotation applies to all pages of the file."
+   ],
+   [
+    "Is the original file changed?",
+    "No. You download a new file; your original stays as it is."
+   ]
+  ],
+  "good": "If a page was already rotated inside the file, the new rotation is added to it.",
+  "kind": "workspace",
+  "workspace": "rotate",
+  "libs": [
+   "pdf-lib"
+  ],
+  "related": [
+   "merge-pdf",
+   "split-pdf",
+   "compress-pdf"
+  ],
+  "proc": "file",
+  "limits": [
+   "All pages are rotated by the same angle; individual pages cannot be rotated separately."
+  ],
+  "ws": {
+   "title": "Drag & drop your PDF here",
+   "choose": "Choose PDF",
+   "hint": "One PDF file. All pages are rotated by the same angle."
+  }
+ },
+ {
+  "id": "compress-pdf",
+  "cat": "pdf",
+  "file": "compress-pdf.html",
+  "name": "Compress PDF",
+  "h1": "Compress PDF",
+  "title": "Compress PDF Online — Free | ToolsKit",
+  "description": "Re-save a PDF with a more efficient structure and compare the before and after size. Does not recompress images. Runs in your browser.",
+  "card": "Re-save a PDF with a more efficient structure. Does not recompress images.",
+  "lead": "Reduce PDF file size where possible. Results vary by file.",
+  "popular": true,
+  "steps": [
+   [
+    "Add your PDF",
+    "Choose or drop one PDF."
+   ],
+   [
+    "Compress",
+    "The file is re-saved with a more efficient structure."
+   ],
+   [
+    "Compare and download",
+    "See the before and after size."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Why did my PDF not get smaller?",
+    "This tool re-saves the file more efficiently but does not recompress the images inside it. PDFs that are large because of photos usually shrink little or not at all."
+   ],
+   [
+    "Does it change quality?",
+    "No. Images and text are not re-encoded, so appearance is unchanged."
+   ],
+   [
+    "Is there a stronger option?",
+    "Not in this tool. Recompressing embedded images is a different, heavier process."
+   ]
+  ],
+  "good": "If the result is not smaller, keep your original file.",
+  "kind": "workspace",
+  "workspace": "compress",
+  "libs": [
+   "pdf-lib"
+  ],
+  "related": [
+   "merge-pdf",
+   "split-pdf",
+   "pdf-to-images"
+  ],
+  "proc": "file",
+  "limits": [
+   "Does not recompress images, so photo-heavy or scanned PDFs may barely shrink.",
+   "Cannot target a specific file size."
+  ],
+  "ws": {
+   "title": "Drag & drop your PDF here",
+   "choose": "Choose PDF",
+   "hint": "One PDF file."
+  }
+ },
+ {
+  "id": "pdf-to-images",
+  "cat": "pdf",
+  "file": "pdf-to-images.html",
+  "name": "PDF to Images",
+  "h1": "PDF to Images",
+  "title": "PDF to Images — Convert PDF to PNG | ToolsKit",
+  "description": "Export each page of a PDF as a PNG image. Multi-page files download as a ZIP. Runs in your browser; no account needed.",
+  "card": "Export each page of a PDF as a PNG image.",
+  "lead": "Export every page of a PDF as a PNG image.",
+  "popular": false,
+  "steps": [
+   [
+    "Add your PDF",
+    "Choose or drop one PDF."
+   ],
+   [
+    "Choose quality",
+    "Standard or High."
+   ],
+   [
+    "Download",
+    "One PNG, or a ZIP for several pages."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "What format are the images?",
+    "PNG. A single page downloads as one PNG; several pages download as one ZIP file."
+   ],
+   [
+    "What does High quality do?",
+    "It renders pages at a larger size, giving bigger images and using more memory."
+   ],
+   [
+    "Why is a large PDF slow?",
+    "Pages are drawn one at a time in your browser, so long or image-heavy documents can be slow or hit memory limits, especially on phones."
+   ]
+  ],
+  "good": "Use Standard first. Switch to High only if you need larger images.",
+  "kind": "workspace",
+  "workspace": "p2i",
+  "libs": [
+   "pdf.js",
+   "jszip"
+  ],
+  "related": [
+   "images-to-pdf",
+   "compress-image",
+   "compress-pdf"
+  ],
+  "proc": "file",
+  "limits": [
+   "Exports PNG only (no JPG).",
+   "High quality on large pages can run out of memory, especially on phones."
+  ],
+  "ws": {
+   "title": "Drag & drop your PDF here",
+   "choose": "Choose PDF",
+   "hint": "One PDF file. Pages are exported as PNG images."
+  }
+ },
+ {
+  "id": "images-to-pdf",
+  "cat": "pdf",
+  "file": "images-to-pdf.html",
+  "name": "Images to PDF",
+  "h1": "Images to PDF",
+  "title": "Images to PDF — JPG & PNG to PDF | ToolsKit",
+  "description": "Combine JPG or PNG images into a single PDF, one image per page. Runs in your browser; your images are not uploaded.",
+  "card": "Combine JPG or PNG images into one PDF.",
+  "lead": "Combine JPG or PNG images into a single PDF.",
+  "popular": false,
+  "steps": [
+   [
+    "Add your images",
+    "Choose or drop JPG or PNG files."
+   ],
+   [
+    "Check the order",
+    "Pages follow the order in the list."
+   ],
+   [
+    "Download",
+    "Get one PDF."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Which image formats work?",
+    "JPG and PNG. Other formats, such as WebP, are not supported here."
+   ],
+   [
+    "What page size is used?",
+    "Each page matches the pixel size of its image. It is not fitted to A4 or Letter."
+   ],
+   [
+    "Can I reorder the images?",
+    "Pages follow the order the files were added. To change it, remove all and add them again in the order you want."
+   ]
+  ],
+  "good": "Large photos make large PDFs. Compress or resize images first if the file needs to be small.",
+  "kind": "workspace",
+  "workspace": "i2p",
+  "libs": [
+   "pdf-lib"
+  ],
+  "related": [
+   "merge-pdf",
+   "compress-image",
+   "resize-image"
+  ],
+  "proc": "file",
+  "limits": [
+   "Accepts JPG and PNG only.",
+   "Each image becomes one page at the image’s own size; there are no page-size or margin options."
+  ],
+  "ws": {
+   "title": "Drag & drop your images here",
+   "choose": "Choose images",
+   "hint": "JPG or PNG. Pages follow the order shown below."
+  }
+ },
+ {
+  "id": "compress-image",
+  "cat": "image",
+  "file": "image-compressor.html",
+  "name": "Compress Image",
+  "h1": "Compress Image",
+  "title": "Compress Image Online — Free | ToolsKit",
+  "description": "Reduce an image’s file size with an adjustable quality setting and see the real result size. Output is JPEG. Runs in your browser.",
+  "card": "Shrink an image with an adjustable quality setting.",
+  "lead": "Reduce an image’s file size with an adjustable quality setting.",
+  "popular": true,
+  "steps": [
+   [
+    "Add your image",
+    "Choose or drop an image file."
+   ],
+   [
+    "Adjust",
+    "Set the quality. Lower numbers give smaller files."
+   ],
+   [
+    "Download",
+    "Save the result to your device."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "What format is the result?",
+    "JPEG. Transparent areas are filled with white."
+   ],
+   [
+    "Why is my result not smaller?",
+    "Images that are already well compressed may not shrink. The tool shows the real result size so you can compare."
+   ]
+  ],
+  "good": "Try a quality of 70 to 80 first. Very low values create visible artefacts.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "resize-image",
+   "convert-image",
+   "images-to-pdf"
+  ],
+  "proc": "file",
+  "limits": [
+   "Always outputs JPEG; transparent areas become white.",
+   "Shows the real before and after size, not a guaranteed saving. A result can be larger than the original; keep the original in that case."
+  ],
+  "next": [
+   "resize-image",
+   "convert-image",
+   "images-to-pdf"
+  ]
+ },
+ {
+  "id": "resize-image",
+  "cat": "image",
+  "file": "image-resizer.html",
+  "name": "Resize Image",
+  "h1": "Resize Image",
+  "title": "Resize Image Online — Free | ToolsKit",
+  "description": "Resize an image to exact pixel dimensions with an optional aspect-ratio lock. Output is PNG. Runs in your browser.",
+  "card": "Resize an image to exact pixel dimensions.",
+  "lead": "Resize an image to exact pixel dimensions.",
+  "popular": true,
+  "steps": [
+   [
+    "Add your image",
+    "Choose or drop an image file."
+   ],
+   [
+    "Adjust",
+    "Enter a width or height. Keep the aspect ratio locked to avoid stretching."
+   ],
+   [
+    "Download",
+    "Save the result to your device."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "What format is the result?",
+    "PNG."
+   ],
+   [
+    "Can I make an image larger?",
+    "You can, but enlarging does not add detail, so it may look soft."
+   ]
+  ],
+  "good": "To reduce the file size too, resize first, then use Compress Image. A lower quality setting makes smaller JPEG and WebP files.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "compress-image",
+   "convert-image",
+   "images-to-pdf"
+  ],
+  "proc": "file",
+  "limits": [
+   "Keeps the original format by default (JPEG, PNG or WebP); you can choose another. Other image types are saved as PNG.",
+   "JPEG has no transparency, so transparent areas become white if you save as JPEG.",
+   "Enlarging an image does not add detail. Maximum 10,000 px per side."
+  ],
+  "next": [
+   "compress-image",
+   "convert-image"
+  ]
+ },
+ {
+  "id": "convert-image",
+  "cat": "image",
+  "file": "image-converter.html",
+  "name": "Convert Image",
+  "h1": "Convert Image",
+  "title": "Convert Image — JPG, PNG, WebP | ToolsKit",
+  "description": "Convert an image between JPEG, PNG and WebP. Runs in your browser; your image is not uploaded to our server.",
+  "card": "Convert images between JPEG, PNG and WebP.",
+  "lead": "Convert an image between JPEG, PNG and WebP.",
+  "popular": false,
+  "steps": [
+   [
+    "Add your image",
+    "Choose or drop an image file."
+   ],
+   [
+    "Adjust",
+    "Choose the format you need."
+   ],
+   [
+    "Download",
+    "Save the result to your device."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "What happens to transparency?",
+    "JPEG has no transparency, so transparent areas are filled with white. PNG and WebP keep transparency."
+   ],
+   [
+    "Why is a format unsupported?",
+    "Some browsers cannot create WebP files. Choose JPEG or PNG instead."
+   ]
+  ],
+  "good": "JPEG and WebP are saved at a fixed quality of 90%.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "compress-image",
+   "resize-image",
+   "images-to-pdf"
+  ],
+  "proc": "file",
+  "limits": [
+   "Converts between JPEG, PNG and WebP only. Transparent areas become white when saving as JPEG.",
+   "WebP output depends on your browser supporting it; the tool tells you if it does not."
+  ],
+  "next": [
+   "compress-image",
+   "resize-image"
+  ]
+ },
+ {
+  "id": "url-qr-code",
+  "cat": "qr",
+  "file": "url-qr-code.html",
+  "name": "URL QR Code Generator",
+  "h1": "URL QR Code Generator",
+  "title": "Create a QR Code for a Link — Free | ToolsKit",
+  "description": "Create a QR code for any web address and download it as a PNG. Generated in your browser as you type.",
+  "card": "Create a QR code for any link and download it.",
+  "lead": "Create a QR code for any web address.",
+  "popular": true,
+  "steps": [
+   [
+    "Enter your details",
+    "Fill in the fields. The code is created once they are valid."
+   ],
+   [
+    "Build",
+    "Paste your link. The code appears as you type."
+   ],
+   [
+    "Download",
+    "Save the PNG, then test-scan it before you print or share it."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Does the QR code expire?",
+    "No. It contains your link, so it works as long as the link does."
+   ],
+   [
+    "What if I leave off https://?",
+    "It is added for you."
+   ]
+  ],
+  "good": "Always test-scan the code with your phone before printing it.",
+  "kind": "panel",
+  "libs": [
+   "qrcodejs"
+  ],
+  "related": [
+   "wifi-qr-code",
+   "email-qr-code",
+   "phone-qr-code"
+  ],
+  "proc": "input",
+  "limits": [
+   "Creates static QR codes that contain your data directly. There is no scan tracking and no editable (dynamic) codes."
+  ],
+  "next": [
+   "wifi-qr-code",
+   "email-qr-code"
+  ]
+ },
+ {
+  "id": "wifi-qr-code",
+  "cat": "qr",
+  "file": "wifi-qr-code.html",
+  "name": "Wi-Fi QR Code Generator",
+  "h1": "Wi-Fi QR Code Generator",
+  "title": "Wi-Fi QR Code Generator — Free | ToolsKit",
+  "description": "Create a Wi-Fi QR code so guests can join your network by scanning. Generated in your browser; the password is not sent to us.",
+  "card": "Let guests join your network by scanning a code.",
+  "lead": "Let guests join your Wi-Fi network by scanning a code.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter your details",
+    "Fill in the fields. The code is created once they are valid."
+   ],
+   [
+    "Build",
+    "Enter the network name, password and security type."
+   ],
+   [
+    "Download",
+    "Save the PNG, then test-scan it before you print or share it."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Who can read the password in a Wi-Fi QR code?",
+    "Anyone who scans the code can read the password inside it. Share it only with people you trust."
+   ],
+   [
+    "Which security type should I choose?",
+    "Match your router. WPA/WPA2 suits most networks."
+   ]
+  ],
+  "good": "Special characters in the name or password are handled for you.",
+  "kind": "panel",
+  "libs": [
+   "qrcodejs"
+  ],
+  "related": [
+   "url-qr-code",
+   "email-qr-code",
+   "phone-qr-code"
+  ],
+  "proc": "input",
+  "limits": [
+   "The network name and password are stored in the QR code in readable form. Anyone who scans or copies the code can read them.",
+   "Creates static QR codes only."
+  ],
+  "next": [
+   "url-qr-code",
+   "email-qr-code"
+  ]
+ },
+ {
+  "id": "email-qr-code",
+  "cat": "qr",
+  "file": "email-qr-code.html",
+  "name": "Email QR Code Generator",
+  "h1": "Email QR Code Generator",
+  "title": "Email QR Code Generator — Free | ToolsKit",
+  "description": "Create a QR code that opens a pre-filled email when scanned. Generated in your browser; download it as a PNG.",
+  "card": "Create a QR code that opens a pre-filled email.",
+  "lead": "Create a QR code that opens a pre-filled email.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter your details",
+    "Fill in the fields. The code is created once they are valid."
+   ],
+   [
+    "Build",
+    "Enter the email address and any details the form asks for."
+   ],
+   [
+    "Download",
+    "Save the PNG, then test-scan it before you print or share it."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "What happens when someone scans it?",
+    "Their phone opens a new email draft addressed to the address you entered."
+   ]
+  ],
+  "good": "Always test-scan the code with your phone before printing it.",
+  "kind": "panel",
+  "libs": [
+   "qrcodejs"
+  ],
+  "related": [
+   "url-qr-code",
+   "wifi-qr-code",
+   "phone-qr-code"
+  ],
+  "proc": "input",
+  "limits": [
+   "Creates static QR codes only. Scanning opens the reader’s email app with the details pre-filled; nothing is sent automatically."
+  ],
+  "next": [
+   "url-qr-code",
+   "phone-qr-code"
+  ]
+ },
+ {
+  "id": "phone-qr-code",
+  "cat": "qr",
+  "file": "phone-qr-code.html",
+  "name": "Phone Number QR Code Generator",
+  "h1": "Phone Number QR Code Generator",
+  "title": "Phone Number QR Code Generator — Free | ToolsKit",
+  "description": "Create a QR code that dials a phone number when scanned. Generated in your browser; download it as a PNG.",
+  "card": "Create a QR code that dials a phone number.",
+  "lead": "Create a QR code that dials a phone number.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter your details",
+    "Fill in the fields. The code is created once they are valid."
+   ],
+   [
+    "Build",
+    "Enter the phone number."
+   ],
+   [
+    "Download",
+    "Save the PNG, then test-scan it before you print or share it."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Should I include the country code?",
+    "Yes, if people may call from another country."
+   ]
+  ],
+  "good": "Always test-scan the code with your phone before printing it.",
+  "kind": "panel",
+  "libs": [
+   "qrcodejs"
+  ],
+  "related": [
+   "url-qr-code",
+   "wifi-qr-code",
+   "email-qr-code"
+  ],
+  "proc": "input",
+  "limits": [
+   "Creates static QR codes only. Scanning offers to dial the number; the call is not placed automatically."
+  ],
+  "next": [
+   "url-qr-code",
+   "contact-qr-code"
+  ]
+ },
+ {
+  "id": "contact-qr-code",
+  "cat": "qr",
+  "file": "contact-qr-code.html",
+  "name": "Contact QR Code Generator",
+  "h1": "Contact QR Code Generator",
+  "title": "vCard QR Code Generator — Contact QR | ToolsKit",
+  "description": "Create a vCard QR code that shares a name, phone number and email. Generated in your browser; download it as a PNG.",
+  "card": "Create a QR code that shares a contact card.",
+  "lead": "Create a QR code that shares a contact card.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter your details",
+    "Fill in the fields. The code is created once they are valid."
+   ],
+   [
+    "Build",
+    "Enter the name, phone and optional email."
+   ],
+   [
+    "Download",
+    "Save the PNG, then test-scan it before you print or share it."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Which details are included?",
+    "Name, phone number and, if you add it, an email address."
+   ]
+  ],
+  "good": "Only include details you are happy for anyone who scans the code to see.",
+  "kind": "panel",
+  "libs": [
+   "qrcodejs"
+  ],
+  "related": [
+   "url-qr-code",
+   "wifi-qr-code",
+   "email-qr-code"
+  ],
+  "proc": "input",
+  "limits": [
+   "Creates static QR codes only. How the contact card is shown or saved depends on the scanning app."
+  ],
+  "next": [
+   "url-qr-code",
+   "email-qr-code"
+  ]
+ },
+ {
+  "id": "length",
+  "cat": "conv",
+  "file": "length.html",
+  "name": "Length Converter",
+  "h1": "Length Converter",
+  "title": "Length Converter — m to ft, km to miles | ToolsKit",
+  "description": "Convert between meters, kilometers, centimeters, millimeters, miles and more. Results update as you type; runs in your browser.",
+  "card": "Convert between meters, kilometers, miles, feet, inches and more.",
+  "lead": "Convert between meters, kilometers, miles, feet and more.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter a value",
+    "Type the number you want to convert."
+   ],
+   [
+    "Pick units",
+    "Choose the source and target units."
+   ],
+   [
+    "Read the result",
+    "Results update as you type."
+   ]
+  ],
+  "formula": "Formula: result = value × (factor of the source unit ÷ factor of the target unit). Each factor is relative to one base unit.",
+  "faq": [
+   [
+    "Which conversion factors are used?",
+    "Results use standard conversion factors and show up to six decimal places."
+   ]
+  ],
+  "good": "Use the ⇄ button to swap the units.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "weight",
+   "temperature",
+   "area"
+  ],
+  "proc": "input",
+  "next": [
+   "area",
+   "speed"
+  ]
+ },
+ {
+  "id": "weight",
+  "cat": "conv",
+  "file": "weight.html",
+  "name": "Weight Converter",
+  "h1": "Weight Converter",
+  "title": "Weight Converter — kg to lb, oz, stone | ToolsKit",
+  "description": "Convert between kilograms, grams, milligrams, pounds, ounces and more. Results update as you type; runs in your browser.",
+  "card": "Convert between kilograms, pounds, ounces and more.",
+  "lead": "Convert between kilograms, pounds, ounces and more.",
+  "popular": true,
+  "steps": [
+   [
+    "Enter a value",
+    "Type the number you want to convert."
+   ],
+   [
+    "Pick units",
+    "Choose the source and target units."
+   ],
+   [
+    "Read the result",
+    "Results update as you type."
+   ]
+  ],
+  "formula": "Formula: result = value × (factor of the source unit ÷ factor of the target unit). Each factor is relative to one base unit.",
+  "faq": [
+   [
+    "Which conversion factors are used?",
+    "Results use standard conversion factors and show up to six decimal places."
+   ]
+  ],
+  "good": "Use the ⇄ button to swap the units.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "length",
+   "temperature",
+   "area"
+  ],
+  "proc": "input",
+  "next": [
+   "length",
+   "volume"
+  ]
+ },
+ {
+  "id": "temperature",
+  "cat": "conv",
+  "file": "temperature.html",
+  "name": "Temperature Converter",
+  "h1": "Temperature Converter",
+  "title": "Temperature Converter — °C to °F, Kelvin | ToolsKit",
+  "description": "Convert temperature units. Results update as you type; runs in your browser.",
+  "card": "Convert between Celsius, Fahrenheit and Kelvin.",
+  "lead": "Convert between Celsius, Fahrenheit and Kelvin.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter a value",
+    "Type the number you want to convert."
+   ],
+   [
+    "Pick units",
+    "Choose the source and target units."
+   ],
+   [
+    "Read the result",
+    "Results update as you type."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Which conversion factors are used?",
+    "Results use the standard formulas and show up to six decimal places."
+   ]
+  ],
+  "good": "Temperature scales use offsets, not just multiplication, for example °F = °C × 9/5 + 32 and K = °C + 273.15.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "length",
+   "weight",
+   "area"
+  ],
+  "proc": "input",
+  "next": [
+   "length",
+   "weight"
+  ]
+ },
+ {
+  "id": "area",
+  "cat": "conv",
+  "file": "area.html",
+  "name": "Area Converter",
+  "h1": "Area Converter",
+  "title": "Area Converter — Convert Area Units | ToolsKit",
+  "description": "Convert between square meters, square kilometers, square feet, square yards, acres and more. Results update as you type; runs in your browser.",
+  "card": "Convert between common area units.",
+  "lead": "Convert between common area units.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter a value",
+    "Type the number you want to convert."
+   ],
+   [
+    "Pick units",
+    "Choose the source and target units."
+   ],
+   [
+    "Read the result",
+    "Results update as you type."
+   ]
+  ],
+  "formula": "Formula: result = value × (factor of the source unit ÷ factor of the target unit). Each factor is relative to one base unit.",
+  "faq": [
+   [
+    "Which conversion factors are used?",
+    "Results use standard conversion factors and show up to six decimal places."
+   ]
+  ],
+  "good": "Use the ⇄ button to swap the units.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "length",
+   "weight",
+   "temperature"
+  ],
+  "proc": "input",
+  "next": [
+   "length",
+   "volume"
+  ]
+ },
+ {
+  "id": "volume",
+  "cat": "conv",
+  "file": "volume.html",
+  "name": "Volume Converter",
+  "h1": "Volume Converter",
+  "title": "Volume Converter — Liters, US & UK Gallons | ToolsKit",
+  "description": "Convert between liters, milliliters, cubic meters, us gallons, us fluid ounces and more. Results update as you type; runs in your browser.",
+  "card": "Convert between liters, US gallons, cups and more.",
+  "lead": "Convert between liters, US and imperial gallons, pints, cups and more.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter a value",
+    "Type the number you want to convert."
+   ],
+   [
+    "Pick units",
+    "Choose the source and target units."
+   ],
+   [
+    "Read the result",
+    "Results update as you type."
+   ]
+  ],
+  "formula": "Formula: result = value × (factor of the source unit ÷ factor of the target unit). Each factor is relative to one base unit.",
+  "faq": [
+   [
+    "What is the difference between US and imperial gallons?",
+    "1 US gallon is about 3.785 liters and 1 imperial gallon is about 4.546 liters. Pick the one that matches your source."
+   ]
+  ],
+  "good": "Cups here are US cups.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "length",
+   "weight",
+   "temperature"
+  ],
+  "proc": "input",
+  "next": [
+   "weight",
+   "length"
+  ]
+ },
+ {
+  "id": "speed",
+  "cat": "conv",
+  "file": "speed.html",
+  "name": "Speed Converter",
+  "h1": "Speed Converter",
+  "title": "Speed Converter — Convert Speed Units | ToolsKit",
+  "description": "Convert between m/s, km/h, mph, knots. Results update as you type; runs in your browser.",
+  "card": "Convert between common speed units.",
+  "lead": "Convert between common speed units.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter a value",
+    "Type the number you want to convert."
+   ],
+   [
+    "Pick units",
+    "Choose the source and target units."
+   ],
+   [
+    "Read the result",
+    "Results update as you type."
+   ]
+  ],
+  "formula": "Formula: result = value × (factor of the source unit ÷ factor of the target unit). Each factor is relative to one base unit.",
+  "faq": [
+   [
+    "Which conversion factors are used?",
+    "Results use standard conversion factors and show up to six decimal places."
+   ]
+  ],
+  "good": "Use the ⇄ button to swap the units.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "length",
+   "weight",
+   "temperature"
+  ],
+  "proc": "input",
+  "next": [
+   "length",
+   "temperature"
+  ]
+ },
+ {
+  "id": "word-counter",
+  "cat": "text",
+  "file": "word-counter.html",
+  "name": "Word Counter",
+  "h1": "Word Counter & Character Counter",
+  "title": "Word Counter & Character Counter — Free | ToolsKit",
+  "description": "Count words, characters (with and without spaces), sentences and paragraphs as you type, with an estimated reading time. Runs in your browser; your text is not uploaded.",
+  "card": "Count words, characters, sentences and paragraphs in your text.",
+  "lead": "Paste or type text to count its words and characters.",
+  "popular": true,
+  "steps": [
+   [
+    "Add your text",
+    "Type or paste it into the box."
+   ],
+   [
+    "Read the counts",
+    "Words, characters, sentences, paragraphs and reading time update as you type."
+   ],
+   [
+    "Edit and compare",
+    "Change the text and the counts follow. Reset clears the box."
+   ]
+  ],
+  "formula": "Words are groups of characters separated by whitespace. Reading time = words ÷ 200 words per minute, rounded to the nearest minute.",
+  "faq": [
+   [
+    "How are words counted?",
+    "As groups of characters separated by spaces or line breaks, the way most word processors count. A hyphenated word such as “e-mail” counts as one word."
+   ],
+   [
+    "Do line breaks count as characters?",
+    "Yes. A line break counts as one character in “Characters”. “Characters without spaces” ignores all spaces, tabs and line breaks."
+   ],
+   [
+    "Does it work for Chinese or Japanese?",
+    "Those languages are written without spaces between words, so the word count is not meaningful. Use the character count instead."
+   ],
+   [
+    "Is my text uploaded?",
+    "No. The counting happens in your browser and the text is not sent to ToolsKit."
+   ]
+  ],
+  "good": "The sentence count is an approximation: it counts stretches of text that end with a full stop, ! , ? or …, so abbreviations such as “e.g.” can add extra sentences. Reading time assumes about 200 words per minute.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "percentage",
+   "instagram",
+   "bio"
+  ],
+  "proc": "input",
+  "limits": [
+   "Words are separated by whitespace, so the word count is not meaningful for languages written without spaces (such as Chinese, Japanese or Thai).",
+   "Sentence and reading-time figures are estimates."
+  ],
+  "next": []
+ },
+ {
+  "id": "percentage",
+  "cat": "calc",
+  "file": "percentage-calculator.html",
+  "name": "Percentage Calculator",
+  "h1": "Percentage Calculator",
+  "title": "Percentage Calculator — Percent of, Change & Discount | ToolsKit",
+  "description": "Calculate X% of a number, what percent one number is of another, a percentage increase or decrease, and the price after a discount. Free, runs in your browser.",
+  "card": "Percent of a number, percentage change and discounts, with the working shown.",
+  "lead": "Four percentage calculators in one place: percent of a number, what percent, percentage change and discount.",
+  "popular": true,
+  "steps": [
+   [
+    "Pick the question",
+    "Four calculators are on this page: percent of a number, what percent, percentage change, and price after a discount."
+   ],
+   [
+    "Enter your numbers",
+    "Fill in the two fields of the calculator you need. Results update as you type."
+   ],
+   [
+    "Read the result",
+    "Results are rounded to two decimals for display. Reset puts the example values back."
+   ]
+  ],
+  "formula": "X% of Y = Y × X ÷ 100. X is (X ÷ Y × 100)% of Y. Change = (new − old) ÷ |old| × 100. Price after discount = price × (1 − discount ÷ 100).",
+  "faq": [
+   [
+    "How do I calculate a percentage increase?",
+    "Use “Percentage increase or decrease”: enter the old value as From and the new value as To. A positive result is an increase and a negative one is a decrease."
+   ],
+   [
+    "Why can’t the old value be 0?",
+    "A percentage change from 0 is undefined, because it would mean dividing by zero."
+   ],
+   [
+    "Is a percentage the same as percentage points?",
+    "No. Going from 10% to 12% is a rise of 2 percentage points, but a 20% increase in the rate. This tool gives the second figure when you enter 10 and 12 as From and To."
+   ]
+  ],
+  "good": "Results are rounded to two decimals for display. Decimal separators follow your browser’s language settings.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "vat",
+   "loan",
+   "compound"
+  ],
+  "proc": "input",
+  "limits": [
+   "Handles four common percentage questions. It does not do compound percentages over several periods (see the Compound Interest Calculator) or reverse percentages such as “the price before a 20% discount”."
+  ],
+  "disclaimer": "Quick price maths only. Check final prices and any tax against the seller’s invoice or receipt.",
+  "next": [
+   "vat"
+  ],
+  "legacy_files": [
+   "percentage-discount-calculator.html"
+  ]
+ },
+ {
+  "id": "vat",
+  "cat": "calc",
+  "file": "vat-calculator.html",
+  "name": "VAT Calculator",
+  "h1": "VAT Calculator",
+  "title": "VAT Calculator — Add or Remove VAT | ToolsKit",
+  "description": "Add VAT to a net price or remove it from a gross price at any rate you enter. Does not look up country rates; an estimate, not tax advice.",
+  "card": "Add VAT to a net amount or remove it from a gross amount, at the rate you enter.",
+  "lead": "Add VAT to a net amount, or remove it from a gross amount.",
+  "popular": true,
+  "steps": [
+   [
+    "Enter your numbers",
+    "Fill in each field."
+   ],
+   [
+    "Check the formula",
+    "Enter the amount and the VAT rate that applies to you."
+   ],
+   [
+    "Read the result",
+    "Results update as you type. Reset starts again."
+   ]
+  ],
+  "formula": "Gross = net × (1 + rate ÷ 100). Net = gross ÷ (1 + rate ÷ 100). VAT = gross − net.",
+  "faq": [
+   [
+    "Does it know my country’s VAT rate?",
+    "No. Enter the rate that applies. Rates differ by country and by type of goods, and ToolsKit does not look them up."
+   ],
+   [
+    "Is this official tax advice?",
+    "No. It is a simple calculator. Check your tax authority or an accountant for official figures."
+   ]
+  ],
+  "good": "Net is the price before VAT; gross is the price including VAT.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "percentage",
+   "loan",
+   "compound"
+  ],
+  "proc": "input",
+  "limits": [
+   "Uses only the rate you enter. It does not look up current VAT rates, exemptions or rounding rules for any country."
+  ],
+  "disclaimer": "This calculator applies the rate you enter and does not look up current VAT rules or rounding. Check amounts with your tax authority or an accountant before using them on an invoice or return.",
+  "next": [
+   "percentage"
+  ]
+ },
+ {
+  "id": "loan",
+  "cat": "calc",
+  "file": "loan-mortgage-calculator.html",
+  "name": "Loan & Mortgage Calculator",
+  "h1": "Loan & Mortgage Calculator",
+  "title": "Loan & Mortgage Payment Calculator | ToolsKit",
+  "description": "Estimate the monthly payment, total interest and total repayment for a fixed-rate loan or mortgage. An estimate, not financial advice.",
+  "card": "Estimate the monthly payment, total interest and total repayment of a fixed-rate loan.",
+  "lead": "Estimate the monthly payment on a fixed-rate loan.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter your numbers",
+    "Fill in each field."
+   ],
+   [
+    "Check the formula",
+    "Enter the amount, the annual rate and the term in years."
+   ],
+   [
+    "Read the result",
+    "Results update as you type. Reset starts again."
+   ]
+  ],
+  "formula": "r = annual rate ÷ 12 ÷ 100; n = years × 12; payment = P × r ÷ (1 − (1 + r)^−n). At a 0% rate, payment = P ÷ n.",
+  "faq": [
+   [
+    "What does it leave out?",
+    "Fees, insurance, taxes, variable rates and early repayments. It assumes a fixed rate and equal monthly payments."
+   ],
+   [
+    "Is this financial advice?",
+    "No. Results are estimates. Your lender’s figures are the ones that count."
+   ]
+  ],
+  "good": "Try different terms to see how total interest changes.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "compound",
+   "vat",
+   "percentage"
+  ],
+  "proc": "input",
+  "limits": [
+   "Assumes a fixed rate and equal monthly payments. It does not include fees, insurance, taxes, variable rates or overpayments."
+  ],
+  "disclaimer": "Actual rates, fees, insurance, taxes and lender terms vary, and this result is not a loan offer. This tool does not provide financial advice.",
+  "next": [
+   "compound"
+  ]
+ },
+ {
+  "id": "compound",
+  "cat": "calc",
+  "file": "compound-interest-calculator.html",
+  "name": "Compound Interest Calculator",
+  "h1": "Compound Interest Calculator",
+  "title": "Compound Interest Calculator — Free | ToolsKit",
+  "description": "Project savings growth with compound interest and regular contributions. Shows the formula and assumptions; an estimate, not a forecast.",
+  "card": "Project growth with regular contributions.",
+  "lead": "Project how savings grow with compound interest and regular contributions.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter your numbers",
+    "Fill in each field."
+   ],
+   [
+    "Check the formula",
+    "Enter the initial amount, contribution, rate, frequency and period."
+   ],
+   [
+    "Read the result",
+    "Results update as you type. Reset starts again."
+   ]
+  ],
+  "formula": "growth = (1 + r/n)^(n × years); final value = initial × growth + contribution × (growth − 1) ÷ (r/n), where r is the annual rate and n the periods per year.",
+  "faq": [
+   [
+    "When are contributions made?",
+    "The calculator assumes one contribution at the end of each compounding period, so contribution frequency matches compounding frequency."
+   ],
+   [
+    "Is this a forecast?",
+    "No. Real returns vary and are not guaranteed."
+   ]
+  ],
+  "good": "Results are estimates, not predictions.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "loan",
+   "percentage",
+   "vat"
+  ],
+  "proc": "input",
+  "limits": [
+   "Assumes a constant rate and one contribution per compounding period. It does not model fees, taxes or inflation."
+  ],
+  "disclaimer": "Real returns vary and are not guaranteed, and fees, taxes and inflation are not included. This tool does not provide financial advice.",
+  "next": [
+   "loan"
+  ]
+ },
+ {
+  "id": "cv",
+  "cat": "cv",
+  "file": "index.html",
+  "name": "CV & Resume Builder",
+  "h1": "CV & Resume Builder",
+  "title": "Create a CV Online — Free CV & Resume Builder | ToolsKit",
+  "description": "Build a CV with a live preview and save it as a PDF through your browser’s print dialog. No account; a draft is saved only if you choose.",
+  "card": "Build a CV with a live preview and print it or save it as a PDF.",
+  "lead": "Build a CV with a live preview, then print it or save it as a PDF from your browser.",
+  "popular": true,
+  "steps": [
+   [
+    "Fill in your details",
+    "Add your summary, skills, experience and education."
+   ],
+   [
+    "Check the preview",
+    "The preview updates as you type."
+   ],
+   [
+    "Print or save",
+    "Use Print / Save as PDF in your browser."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "How do I get a PDF?",
+    "Choose Print / Save as PDF, then pick “Save as PDF” as the destination in your browser’s print dialog. This uses your browser, not a ToolsKit server."
+   ],
+   [
+    "Is my CV saved?",
+    "Only if you choose Save draft, and only on this device. Clear draft removes it."
+   ],
+   [
+    "Can I choose a template?",
+    "Not yet. There is one layout."
+   ]
+  ],
+  "good": "Keep a CV to one or two pages, and check the preview before printing.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "merge-pdf",
+   "compress-pdf"
+  ],
+  "proc": "input",
+  "limits": [
+   "One layout only; there are no templates yet.",
+   "Saving as PDF uses your browser’s print dialog. ToolsKit does not generate a PDF file itself.",
+   "Drafts are stored only in this browser on this device, and only if you choose Save draft."
+  ]
+ },
+ {
+  "id": "instagram",
+  "cat": "soc",
+  "file": "instagram-caption-generator.html",
+  "name": "Instagram Caption Generator",
+  "h1": "Instagram Caption Generator",
+  "title": "Instagram Caption Generator — Free | ToolsKit",
+  "description": "Get template-based Instagram caption ideas by topic and tone. Not AI, so edit before posting. Copy with one click.",
+  "card": "Template-based caption starters by topic and tone.",
+  "lead": "Get starter caption ideas by topic and tone.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter a topic",
+    "Describe what your post or video is about."
+   ],
+   [
+    "Review",
+    "Describe your post."
+   ],
+   [
+    "Copy and edit",
+    "Copy what you like and edit it before you post."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Is this AI?",
+    "No. It fills templates with your topic, so edit the results before you post."
+   ],
+   [
+    "Will these captions perform well?",
+    "There is no guarantee. Treat them as a starting point."
+   ]
+  ],
+  "good": "The character count compares with Instagram’s published caption limit of 2,200 at the time of writing. Platform limits can change.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "hashtag",
+   "yt-title",
+   "yt-desc"
+  ],
+  "proc": "input",
+  "limits": [
+   "Built from fixed templates, not AI. Results do not take platform rules into account; check lengths before posting."
+  ],
+  "next": [
+   "hashtag"
+  ]
+ },
+ {
+  "id": "hashtag",
+  "cat": "soc",
+  "file": "hashtag-generator.html",
+  "name": "Hashtag Generator",
+  "h1": "Hashtag Generator",
+  "title": "Hashtag Generator — Free | ToolsKit",
+  "description": "Generate a hashtag set from your topic, up to 30 tags. Works with accented and non-Latin letters. Copy with one click.",
+  "card": "Generate a hashtag set for any topic.",
+  "lead": "Generate a hashtag set from your topic.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter a topic",
+    "Describe what your post or video is about."
+   ],
+   [
+    "Review",
+    "Enter a topic and how many hashtags you want."
+   ],
+   [
+    "Copy and edit",
+    "Copy what you like and edit it before you post."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Can I use other languages?",
+    "Yes. Letters with accents and non-Latin letters are kept."
+   ],
+   [
+    "Why is the count limited to 30?",
+    "30 is the most hashtags Instagram has allowed per post. More is not necessarily better."
+   ]
+  ],
+  "good": "Hashtags are built from your words plus common suffixes, so check that each one makes sense.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "instagram",
+   "yt-title",
+   "yt-desc"
+  ],
+  "proc": "input",
+  "limits": [
+   "Built from your topic plus common suffixes, not from live trend data. Popularity is not checked."
+  ],
+  "next": [
+   "instagram"
+  ]
+ },
+ {
+  "id": "yt-title",
+  "cat": "soc",
+  "file": "youtube-title-generator.html",
+  "name": "YouTube Title Generator",
+  "h1": "YouTube Title Generator",
+  "title": "YouTube Title Generator — Free | ToolsKit",
+  "description": "Get template-based YouTube title ideas for your topic, with a character count against the 100-character limit.",
+  "card": "Generate video title ideas for any topic.",
+  "lead": "Get video title ideas for any topic.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter a topic",
+    "Describe what your post or video is about."
+   ],
+   [
+    "Review",
+    "Describe your video."
+   ],
+   [
+    "Copy and edit",
+    "Copy what you like and edit it before you post."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Will these titles get more views?",
+    "There is no guarantee. They are starting points to edit."
+   ],
+   [
+    "How long can a title be?",
+    "The counter compares with YouTube’s 100-character title limit at the time of writing. Limits can change."
+   ]
+  ],
+  "good": "Rewrite titles so they are honest about what the video contains.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "instagram",
+   "hashtag",
+   "yt-desc"
+  ],
+  "proc": "input",
+  "limits": [
+   "Built from fixed templates, not AI. Titles are starting points and are not checked for performance."
+  ],
+  "next": [
+   "yt-desc"
+  ]
+ },
+ {
+  "id": "yt-desc",
+  "cat": "soc",
+  "file": "youtube-description-generator.html",
+  "name": "YouTube Description Generator",
+  "h1": "YouTube Description Generator",
+  "title": "YouTube Description Generator — Free | ToolsKit",
+  "description": "Draft a YouTube description from your topic and keywords, with a character count. Template-based; edit before publishing.",
+  "card": "Generate a video description from your topic and keywords.",
+  "lead": "Draft a video description from your topic and keywords.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter a topic",
+    "Describe what your post or video is about."
+   ],
+   [
+    "Review",
+    "Enter your topic and keywords."
+   ],
+   [
+    "Copy and edit",
+    "Copy what you like and edit it before you post."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Is this AI?",
+    "No. It fills a template, so edit the result before you publish."
+   ],
+   [
+    "How long can a description be?",
+    "The counter compares with YouTube’s 5,000-character limit at the time of writing. Limits can change."
+   ]
+  ],
+  "good": "Put the most important information in the first lines.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "instagram",
+   "hashtag",
+   "yt-title"
+  ],
+  "proc": "input",
+  "limits": [
+   "Built from fixed templates, not AI. Review and edit the description before you publish it."
+  ],
+  "next": [
+   "yt-title",
+   "hashtag"
+  ]
+ },
+ {
+  "id": "bio",
+  "cat": "soc",
+  "file": "social-bio-generator.html",
+  "name": "Social Media Bio Generator",
+  "h1": "Social Media Bio Generator",
+  "title": "Social Media Bio Generator — Free | ToolsKit",
+  "description": "Generate a short social media bio from your name, role and interests, with a character count. Template-based; edit before using.",
+  "card": "Generate a bio from your name, role and interests.",
+  "lead": "Generate a short bio from your name, role and interests.",
+  "popular": false,
+  "steps": [
+   [
+    "Enter a topic",
+    "Describe what your post or video is about."
+   ],
+   [
+    "Review",
+    "Enter your details."
+   ],
+   [
+    "Copy and edit",
+    "Copy what you like and edit it before you post."
+   ]
+  ],
+  "formula": "",
+  "faq": [
+   [
+    "Is this AI?",
+    "No. It fills templates, so edit the result before you use it."
+   ],
+   [
+    "How long can a bio be?",
+    "The counter compares with a 150-character limit, which Instagram has used. Limits differ by platform and can change."
+   ]
+  ],
+  "good": "Keep it short. Say who you are and what people will find on your profile.",
+  "kind": "panel",
+  "libs": [],
+  "related": [
+   "instagram",
+   "hashtag",
+   "yt-title"
+  ],
+  "proc": "input",
+  "limits": [
+   "Built from fixed templates, not AI. Check each platform’s length limit before you use a bio."
+  ],
+  "next": [
+   "instagram",
+   "hashtag"
+  ]
+ }
+]

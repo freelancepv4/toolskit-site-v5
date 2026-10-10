@@ -1,0 +1,8 @@
+{
+  "amount": "Leenbedrag",
+  "rate": "Rente per jaar (%)",
+  "term": "Looptijd (jaren)",
+  "out_monthly": "Maandbedrag: {v}",
+  "out_totals": "Totale rente: {interest} | Totaal terug te betalen: {total}",
+  "err_numbers": "Voer geldige getallen in."
+}
